@@ -2204,6 +2204,27 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 14020527180,
+        "hasDetails": true,
+        "name": "Hair Studio",
+        "address": "Simbagatan 14, Nacka",
+        "names": [
+          "Hair Studio",
+          "KappAhl"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1271833,
+          59.3059482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 2528957905,
         "hasDetails": true,
         "name": "Jack & Jones",
@@ -2250,23 +2271,6 @@
         "coordinates": [
           18.1245245,
           59.3059698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "id": 2505018042,
-        "hasDetails": true,
-        "name": "KappAhl",
-        "address": "Simbagatan 8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.1271699,
-          59.3059706
         ]
       }
     },
@@ -38632,6 +38636,23 @@
         "coordinates": [
           18.0567492,
           59.3421298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14019382501,
+        "hasDetails": true,
+        "name": "Stock Home Video",
+        "website": "http://stockhomevideo.se"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.032784,
+          59.342139
         ]
       }
     },

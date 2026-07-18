@@ -5,6 +5,280 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "area_sqm": 351113.9,
+        "radius_m": 334.3,
+        "id": 73907837,
+        "hasDetails": true,
+        "name": "Weowna Park",
+        "wikidata": "Q49578396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1141143047619,
+          47.59780437619048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 757779.8,
+        "radius_m": 491.1,
+        "id": 66508370,
+        "hasDetails": true,
+        "name": "Lake Hills Green Belt",
+        "website": "http://www.ci.bellevue.wa.us/lake_hills_greenbelt.htm",
+        "wikidata": "Q49513310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1357912632653,
+          47.59988235816326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5823.4,
+        "radius_m": 43.1,
+        "id": 63353132,
+        "hasDetails": true,
+        "name": "Evergreen Park",
+        "address": "Lake Hills Boulevard 15655, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12865242307693,
+          47.603175853846146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 7661.1,
+        "radius_m": 49.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12881867878788,
+          47.614720451515154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 14989.6,
+        "radius_m": 69.1,
+        "id": 235891430,
+        "hasDetails": true,
+        "name": "Hillaire Park",
+        "address": "Northeast 6th Street 15803, Bellevue",
+        "wikidata": "Q49501509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12865205,
+          47.61479437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 344.2,
+        "radius_m": 10.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.123490395,
+          47.61775152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 8501.2,
+        "radius_m": 52.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1104969,
+          47.619120179999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 138969.5,
+        "radius_m": 210.3,
+        "id": 30369287,
+        "hasDetails": true,
+        "name": "Crossroads Park",
+        "address": "Northeast 10th Street 16000",
+        "website": "https://bellevuewa.gov/city-government/departments/parks/parks-and-trails/parks/crossroads-park",
+        "opening_hours": "dawn-dusk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12564540819672,
+          47.619410716393446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 39737.9,
+        "radius_m": 112.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.11726365,
+          47.62157568125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 14149.7,
+        "radius_m": 67.1,
+        "id": 30491719,
+        "hasDetails": true,
+        "name": "Tam o'Shanter Community Park",
+        "opening_hours": "sunrise-sunset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.10275961875,
+          47.622113575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 7174.8,
+        "radius_m": 47.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.14098735,
+          47.62266674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 10562.4,
+        "radius_m": 58.0,
+        "id": 35107692,
+        "hasDetails": true,
+        "name": "Ivanhoe Park",
+        "address": "Northrup Way 16600",
+        "website": "http://www.ci.bellevue.wa.us/ivanhoe.htm",
+        "wikidata": "Q49505772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.11810996,
+          47.62360938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 57944.3,
+        "radius_m": 135.8,
+        "id": 73530090,
+        "hasDetails": true,
+        "name": "Tam O'Shanter Park",
+        "address": "173rd Avenue Northeast 1655, Bellevue",
+        "website": "http://www.ci.bellevue.wa.us/tam_oshanter.htm",
+        "wikidata": "Q49568960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.10616393636364,
+          47.62552890909091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 46495.2,
+        "radius_m": 121.7,
+        "id": 114464946,
+        "hasDetails": true,
+        "name": "Highland Park",
+        "wikidata": "Q49474264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.15155362352941,
+          47.6261213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2642.4,
+        "radius_m": 29.0,
+        "id": 43709061,
+        "hasDetails": true,
+        "name": "Commissioner's Waterway",
+        "address": "148th Avenue NE 1669",
+        "website": "http://www.ci.bellevue.wa.us/commissioner%27s_waterway_mini.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1436392125,
+          47.626147287500004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "area_sqm": 38268.5,
         "radius_m": 110.4,
         "id": 73530156,
@@ -181,21 +455,6 @@
         "coordinates": [
           -122.11465150000001,
           47.6458638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "area_sqm": 2539.6,
-        "radius_m": 28.4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.07986988,
-          47.6469802
         ]
       }
     },
@@ -1768,25 +2027,6 @@
         "coordinates": [
           -122.11721304,
           47.71049946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "area_sqm": 1474.5,
-        "radius_m": 21.7,
-        "id": 1025393597,
-        "hasDetails": true,
-        "name": "Tuscany Community Park",
-        "opening_hours": "sunrise-sunset"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.07342198181819,
-          47.710593009090914
         ]
       }
     },

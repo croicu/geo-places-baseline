@@ -891,6 +891,23 @@
     {
       "type": "Feature",
       "properties": {
+        "weight": 1.0,
+        "id": 14020496601,
+        "hasDetails": true,
+        "name": "Mar\u00e9 de Mudan\u00e7a",
+        "address": "Avenida 5 de Outubro, Olh\u00e3o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8374264,
+          37.023819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "weight": 1.0
       },
       "geometry": {

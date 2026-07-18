@@ -293,24 +293,6 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
-        "id": 296471920,
-        "hasDetails": true,
-        "name": "M\u016fj obchod",
-        "address": "Bla\u017eimsk\u00e1 3141/8",
-        "opening_hours": "Mo-Su 07:00-21:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4945515,
-          50.0421777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
         "id": 3464759954,
         "hasDetails": true,
         "name": "Chlupat\u00fd jelen",
@@ -323,6 +305,24 @@
         "coordinates": [
           14.4466841,
           50.042187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 296471920,
+        "hasDetails": true,
+        "name": "M\u016fj obchod",
+        "address": "Bla\u017eimsk\u00e1 3141/8",
+        "opening_hours": "Mo-Su 07:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4946506,
+          50.0422048
         ]
       }
     },
@@ -1812,7 +1812,8 @@
         "hasDetails": true,
         "name": "Albert",
         "address": "Hlavn\u00ed 2459/108, Praha 4",
-        "website": "https://www.albert.cz/"
+        "website": "https://www.albert.cz/",
+        "opening_hours": "Mo-Su 07:00-22:00"
       },
       "geometry": {
         "type": "Point",
@@ -11411,6 +11412,19 @@
     {
       "type": "Feature",
       "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3992448,
+          50.0673424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "weight": 1.0,
         "id": 1282097153,
         "hasDetails": true,
@@ -11580,8 +11594,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4072393,
-          50.0674808
+          14.4072376,
+          50.0674524
         ]
       }
     },
@@ -11719,6 +11733,23 @@
     {
       "type": "Feature",
       "properties": {
+        "weight": 1.0,
+        "id": 11256964352,
+        "hasDetails": true,
+        "name": "Cukr\u00e1rna H\u00e1jek & H\u00e1jkov\u00e1",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa,Su 09:30-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.406681,
+          50.0676436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "weight": 1.0
       },
       "geometry": {
@@ -11763,20 +11794,17 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
-        "id": 11256964352,
+        "id": 13474199981,
         "hasDetails": true,
-        "name": "Cukr\u00e1rna H\u00e1jek & H\u00e1jkov\u00e1",
-        "opening_hours": "Mo-Fr 08:00-19:00; Sa,Su 09:30-19:00",
-        "names": [
-          "Cukr\u00e1rna H\u00e1jek & H\u00e1jkov\u00e1",
-          "Body and Soul"
-        ]
+        "name": "Body and Soul",
+        "address": "N\u00e1dra\u017en\u00ed 110/9, Praha",
+        "opening_hours": "Mo-Su 09:00-20:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4066121,
-          50.0677265
+          14.4066134,
+          50.0677424
         ]
       }
     },
@@ -11983,6 +12011,25 @@
     {
       "type": "Feature",
       "properties": {
+        "weight": 1.0,
+        "id": 13435950413,
+        "hasDetails": true,
+        "name": "Optiscont",
+        "address": "N\u00e1dra\u017en\u00ed 3385/9a, Praha",
+        "website": "https://www.optiscont.cz/",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4065147,
+          50.0678915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "weight": 1.0
       },
       "geometry": {
@@ -12027,25 +12074,6 @@
         "coordinates": [
           14.468662,
           50.0679248
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "id": 13435950413,
-        "hasDetails": true,
-        "name": "Optiscont",
-        "address": "N\u00e1dra\u017en\u00ed 3385/9a, Praha",
-        "website": "https://www.optiscont.cz/",
-        "opening_hours": "Mo-Fr 09:00-18:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4064649,
-          50.0679678
         ]
       }
     },
@@ -13406,8 +13434,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4536125,
-          50.068993
+          14.4046168,
+          50.0689721
         ]
       }
     },
@@ -13419,8 +13447,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4047418,
-          50.069006
+          14.4536125,
+          50.068993
         ]
       }
     },
@@ -19920,7 +19948,7 @@
         "weight": 1.0,
         "id": 444581357,
         "hasDetails": true,
-        "name": "Tesco Express",
+        "name": "Tesco Expres",
         "address": "B\u011blocerkevsk\u00e1 1305/34, Praha 10",
         "opening_hours": "Mo-Su 07:00-21:00"
       },
@@ -25359,24 +25387,6 @@
         "coordinates": [
           14.4035081,
           50.0755411
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "id": 3278080262,
-        "hasDetails": true,
-        "name": "Pivot\u00e9ka Pivo a p\u00e1rek",
-        "address": "Korunn\u00ed 1075/105, Praha",
-        "opening_hours": "Mo-Sa 15:30-22:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4548023,
-          50.0755419
         ]
       }
     },
@@ -46230,7 +46240,7 @@
         "hasDetails": true,
         "name": "Po\u010d\u00edta\u010de \u017di\u017ekov",
         "address": "\u0160t\u00edtn\u00e9ho 361/17",
-        "website": "www.pc-zizkov.cz"
+        "website": "https://www.pc-zizkov.cz"
       },
       "geometry": {
         "type": "Point",
@@ -56746,6 +56756,25 @@
         "coordinates": [
           14.4321483,
           50.0902767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14019674701,
+        "hasDetails": true,
+        "name": "Genesis",
+        "address": "Na Po\u0159\u00ed\u010d\u00ed 1894",
+        "website": "https://genesis-eshop.cz",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4364991,
+          50.0902901
         ]
       }
     },
@@ -67447,7 +67476,11 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 3767295201,
+        "hasDetails": true,
+        "name": "Antikvari\u00e1t Divi\u0161",
+        "opening_hours": "Mo-Fr 10:00-12:00, Mo,We 12:30-18:30, Tu,Fr 12:30-16:00, Th 12:30-17:30"
       },
       "geometry": {
         "type": "Point",
@@ -67964,6 +67997,24 @@
         "coordinates": [
           14.4026306,
           50.1012027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14021641463,
+        "hasDetails": true,
+        "name": "D\u011btsk\u00e1 burza U krtka",
+        "address": "\u0160ternberkova 446/17, Praha 7",
+        "website": "https://bazar-krtek.cz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.434027,
+          50.1012058
         ]
       }
     },
@@ -68516,6 +68567,25 @@
         "coordinates": [
           14.5069718,
           50.1017655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14021640707,
+        "hasDetails": true,
+        "name": "ka\u0161-mi-da\u0161",
+        "address": "Janovsk\u00e9ho 566/33",
+        "website": "https://www.kasmidas.cz/",
+        "opening_hours": "Mo-Fr 11:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4338983,
+          50.1017885
         ]
       }
     },
@@ -73189,6 +73259,25 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 1134868232,
+        "hasDetails": true,
+        "name": "Teta",
+        "address": "Zenklova 286/26, Praha",
+        "website": "https://www.tetadrogerie.cz/prodejny/2408",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4732521,
+          50.1047966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 8307106105,
         "hasDetails": true,
         "name": "Erotic city",
@@ -73242,25 +73331,6 @@
         "coordinates": [
           14.4844082,
           50.1048217
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "id": 1134868232,
-        "hasDetails": true,
-        "name": "Teta",
-        "address": "Zenklova 286/26, Praha",
-        "website": "https://www.tetadrogerie.cz/prodejny/2408",
-        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4732267,
-          50.104832
         ]
       }
     },

@@ -10639,7 +10639,8 @@
         "id": 2404231154,
         "hasDetails": true,
         "name": "Portland Leather",
-        "address": "Pike Street 400, Seattle"
+        "address": "Pike Street 400, Seattle",
+        "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-18:00"
       },
       "geometry": {
         "type": "Point",
@@ -11355,23 +11356,6 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
-        "id": 12555116987,
-        "hasDetails": true,
-        "name": "Antonio A Spa",
-        "address": "Virginia Street 114"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3422518,
-          47.6115549
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
         "id": 2404230951,
         "hasDetails": true,
         "name": "Mario's",
@@ -11474,7 +11458,8 @@
         "id": 11890175940,
         "hasDetails": true,
         "name": "Tower 12",
-        "address": "2nd Avenue 2001, Seattle"
+        "address": "2nd Avenue 2001, Seattle",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa,Su 08:30-21:00"
       },
       "geometry": {
         "type": "Point",

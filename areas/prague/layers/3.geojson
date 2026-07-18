@@ -123,8 +123,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4944481,
-          50.0423288
+          14.4944075,
+          50.0423518
         ]
       }
     },
@@ -3376,8 +3376,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4026263,
-          50.0687914
+          14.4026334,
+          50.0687707
         ]
       }
     },
@@ -11676,7 +11676,10 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 4777031021,
+        "hasDetails": true,
+        "wikidata": "Q123721175"
       },
       "geometry": {
         "type": "Point",
@@ -15210,23 +15213,6 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
-        "id": 1531235350,
-        "hasDetails": true,
-        "name": "Vyhl\u00eddkov\u00e1 terasa Praha-Bubny",
-        "opening_hours": "15:00-20:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4401085,
-          50.0995708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
         "id": 4764026999,
         "hasDetails": true,
         "name": "Faun a Vltava",
@@ -15237,6 +15223,22 @@
         "coordinates": [
           14.4387704,
           50.0996057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1531235350,
+        "hasDetails": true,
+        "opening_hours": "15:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4401001,
+          50.0996094
         ]
       }
     },
@@ -17462,7 +17464,10 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 13958034148,
+        "hasDetails": true,
+        "wikidata": "Q98106243"
       },
       "geometry": {
         "type": "Point",

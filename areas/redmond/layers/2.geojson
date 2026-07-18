@@ -5,6 +5,1894 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 12066684617,
+        "hasDetails": true,
+        "name": "Jayam\u2019s Tiffins & Thali",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "address": "Lake Hills Boulevard 15540, Bellevue",
+        "website": "https://jayamstiffinsandthali.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1323994,
+          47.603584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9660036921,
+        "hasDetails": true,
+        "name": "Meet Fresh",
+        "amenity": "restaurant",
+        "cuisine": "taiwanese",
+        "address": "Lake Hills Boulevard 15552, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1322365,
+          47.6035845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11725933237,
+        "hasDetails": true,
+        "name": "Lucky Cube",
+        "amenity": "ice_cream",
+        "cuisine": "frozen_yogurt",
+        "names": [
+          "Lucky Cube",
+          "YangGuoFu MalaTang"
+        ],
+        "amenities": [
+          "ice_cream",
+          "restaurant"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1326357,
+          47.6040038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4790755654,
+        "hasDetails": true,
+        "name": "Lin Handmade Dumplings",
+        "amenity": "restaurant",
+        "address": "156th Avenue Southeast 677, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1326409,
+          47.604139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4790755655,
+        "hasDetails": true,
+        "name": "Malay Satay Hut",
+        "amenity": "restaurant",
+        "cuisine": "malaysian",
+        "address": "156th Avenue Southeast 667, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1326469,
+          47.6042959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4790755661,
+        "hasDetails": true,
+        "name": "Shabu Shabu Kyoto",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "address": "156th Avenue Southeast 627, Bellevue",
+        "names": [
+          "Shabu Shabu Kyoto",
+          "The Waffler"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1324554,
+          47.6046109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2625074502,
+        "hasDetails": true,
+        "name": "Stone",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "outdoor_seating": "no",
+        "names": [
+          "Stone",
+          "Subway"
+        ],
+        "amenities": [
+          "restaurant",
+          "fast_food"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.141187,
+          47.6082821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2737502227,
+        "hasDetails": true,
+        "name": "Szechuan Chef",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "opening_hours": "Su-Th 11:00-21:00; Fr,Sa 11:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.141971,
+          47.6082852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9622366744,
+        "hasDetails": true,
+        "name": "La Chingona Taqueria",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "website": "https://lachingonataqueria.com/",
+        "opening_hours": "Tu-Fr 10:00-19:00; Sa 11:00-19:00; Su 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.143301,
+          47.6089138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 253529778,
+        "hasDetails": true,
+        "name": "Starbucks",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "address": "148th Avenue Southeast 180, Bellevue",
+        "website": "https://www.starbucks.com/store-locator/store/1005401/kelsey-creek-bellevue-180-148th-ave-se-bellevue-wa-980075174-us",
+        "opening_hours": "Mo-Fr 05:00-21:00; Sa,Su 05:00-20:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1426026,
+          47.6090846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9652135179,
+        "hasDetails": true,
+        "name": "O'bop",
+        "amenity": "fast_food",
+        "cuisine": "korean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1435138,
+          47.6094746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2594496470,
+        "hasDetails": true,
+        "name": "Wingstop",
+        "amenity": "fast_food",
+        "cuisine": "wings",
+        "address": "Main Street 14875, Bellevue",
+        "website": "https://www.wingstop.com/",
+        "opening_hours": "Mo-Su 11:00-22:45",
+        "names": [
+          "Wingstop",
+          "Menchie's"
+        ],
+        "amenities": [
+          "fast_food",
+          "ice_cream"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1414222,
+          47.6095553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2594496483,
+        "hasDetails": true,
+        "name": "Kizuki Ramen & Izakaya - Bellevue",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "address": "Main Street 14845, Bellevue",
+        "website": "http://kuzuki.com",
+        "opening_hours": "Mo-Th 11:00-21:30; Fr,Sa 11:00-22:00; Su 11:00-21:30",
+        "names": [
+          "Kizuki Ramen & Izakaya - Bellevue",
+          "Greek Express"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1417079,
+          47.6095795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 71070185,
+        "hasDetails": true,
+        "name": "Best Wok",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "address": "148th Avenue Northeast 19, Bellevue",
+        "opening_hours": "Mo-Th 11:30-21:45; Fr,Sa 11:30-22:45; Su 12:00-21:45",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1435783,
+          47.6102996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 71070182,
+        "hasDetails": true,
+        "name": "Tasty Szechuan",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "address": "148th Avenue Northeast 707, Bellevue",
+        "website": "https://www.ordertogo.com/restaurants/tastysichuan/mesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1437272,
+          47.6162774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 335068292,
+        "hasDetails": true,
+        "name": "So Tasty",
+        "amenity": "restaurant",
+        "address": "Northeast 8th Street 15920, Bellevue",
+        "website": "https://sotastyusa.com/",
+        "opening_hours": "Tu-Su 16:30-21:00; Mo off, Tu-Su 11:00-15:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1279554,
+          47.617263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 146122981,
+        "hasDetails": true,
+        "name": "Pizza Hut",
+        "amenity": "restaurant",
+        "cuisine": "pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1313117,
+          47.6173352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30369068,
+        "hasDetails": true,
+        "name": "Jang Gogi",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "address": "Northeast 8th Street 15932, Bellevue",
+        "website": "https://palacebbq.com/",
+        "opening_hours": "Su-Th 11:00-22:00; Fr,Sa 11:00-23:00",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1273471,
+          47.6173616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 335068285,
+        "hasDetails": true,
+        "name": "Domino's",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "address": "Northeast 8th Street 15920, Bellevue",
+        "website": "https://pizza.dominos.com/washington/bellevue/15920-ne-8th-st-ste-5",
+        "opening_hours": "Su-Th 10:00-22:00; Fr,Sa 10:00-23:00",
+        "outdoor_seating": "no",
+        "names": [
+          "Domino's",
+          "Thai VP"
+        ],
+        "amenities": [
+          "fast_food",
+          "restaurant"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1279534,
+          47.6174058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863558,
+        "hasDetails": true,
+        "name": "Z\u2019s Pizza",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "website": "https://www.zpizzabellevue.com",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1284271,
+          47.6175216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4241485520,
+        "hasDetails": true,
+        "name": "Namasthe",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "address": "Northeast 8th Street 15920, Bellevue",
+        "website": "https://www.namasthebellevue.com/",
+        "opening_hours": "Mo,We,Th 11:30-14:30,17:30-22:00; Fr-Su 11:30-15:00,17:30-22:00; Tu off",
+        "outdoor_seating": "yes",
+        "names": [
+          "Namasthe",
+          "Joy Box Teriyaki"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1279513,
+          47.6175584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4955850384,
+        "hasDetails": true,
+        "name": "Hye Life",
+        "amenity": "cafe",
+        "website": "https://hyelifecoffeandbar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1273055,
+          47.6180845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 146133010,
+        "hasDetails": true,
+        "name": "Mochinut",
+        "amenity": "fast_food",
+        "cuisine": "donut;bubble_tea",
+        "website": "https://www.mochinut.com/",
+        "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-18:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1310409,
+          47.6188702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863574,
+        "hasDetails": true,
+        "name": "Punjabi Tadka",
+        "amenity": "restaurant",
+        "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1307389,
+          47.6188935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863520,
+        "hasDetails": true,
+        "name": "Crossroads Grill & Burgers",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-18:00",
+        "names": [
+          "Crossroads Grill & Burgers",
+          "Ebru Mediterranean Grill"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1307287,
+          47.6190412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863538,
+        "hasDetails": true,
+        "name": "Crossroads Italiano",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "website": "https://www.crossroadsitaliano.com/",
+        "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-18:00",
+        "names": [
+          "Crossroads Italiano",
+          "Chakra Authentic Indian",
+          "L\u00e1 Qu\u00e9 Vietnamese Cuisine"
+        ],
+        "amenities": [
+          "restaurant",
+          "fast_food"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1308718,
+          47.6190438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863516,
+        "hasDetails": true,
+        "name": "Cold Stone Creamery",
+        "amenity": "ice_cream",
+        "cuisine": "ice_cream",
+        "website": "https://www.coldstonecreamery.com/",
+        "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1310018,
+          47.6190745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863509,
+        "hasDetails": true,
+        "name": "Boba Express",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "names": [
+          "Boba Express",
+          "Rice & Noodles Chinese Kitchen"
+        ],
+        "amenities": [
+          "cafe",
+          "fast_food"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1304949,
+          47.6191002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863568,
+        "hasDetails": true,
+        "name": "La Potra Taqueria",
+        "amenity": "fast_food",
+        "cuisine": "mexican"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.13085,
+          47.6191978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1306859,
+          47.619227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863534,
+        "hasDetails": true,
+        "name": "Island Grill",
+        "amenity": "fast_food",
+        "cuisine": "hawaiian",
+        "names": [
+          "Island Grill",
+          "O'Char Thai"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1304937,
+          47.6192515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863569,
+        "hasDetails": true,
+        "name": "Tutta Bella Neapolitan Pizzeria",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "address": "J1",
+        "website": "https://tuttabella.com/",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1310615,
+          47.6192547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863554,
+        "hasDetails": true,
+        "name": "Piroshky Bakery",
+        "amenity": "restaurant",
+        "cuisine": "russian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1308643,
+          47.6193844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863503,
+        "hasDetails": true,
+        "name": "Monserrate",
+        "amenity": "restaurant",
+        "cuisine": "colombian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1307244,
+          47.6194219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863563,
+        "hasDetails": true,
+        "name": "Mix Sushi Bar",
+        "amenity": "fast_food",
+        "cuisine": "japanese",
+        "names": [
+          "Mix Sushi Bar",
+          "Bulgogi Korean BBQ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1308784,
+          47.6194949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9344719410,
+        "hasDetails": true,
+        "name": "Dick's Drive-In - Crossroads",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "website": "https://www.ddir.com",
+        "opening_hours": "Mo-Sa 10:30-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.129784,
+          47.6205135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863544,
+        "hasDetails": true,
+        "name": "Banaras",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "address": "Northeast 8th Street 15600, Bellevue",
+        "website": "https://banarasbellevue.com",
+        "opening_hours": "Mo-Su 11:30-15:00,17:30-22:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1305627,
+          47.6208036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863517,
+        "hasDetails": true,
+        "name": "Nan Hotpot",
+        "amenity": "restaurant",
+        "cuisine": "chinese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1297638,
+          47.6208039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863552,
+        "hasDetails": true,
+        "name": "Bunsik",
+        "amenity": "cafe",
+        "cuisine": "korean",
+        "names": [
+          "Bunsik",
+          "Firenze Ristorante"
+        ],
+        "amenities": [
+          "cafe",
+          "restaurant"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1299185,
+          47.6208042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863536,
+        "hasDetails": true,
+        "name": "JINYA Ramen Bar",
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "website": "https://jinya-ramenbar.com/",
+        "opening_hours": "Mo-Su 11:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1304291,
+          47.6208067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3413306866,
+        "hasDetails": true,
+        "name": "Nai Brother Chinese Sauerkraut Fish",
+        "amenity": "restaurant",
+        "cuisine": "chinese;fish",
+        "address": "156th Avenue Northeast 1299, Bellevue",
+        "website": "https://www.naibrotherbellevue.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1331859,
+          47.6211273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11932404214,
+        "hasDetails": true,
+        "name": "Ten Seconds Yunnan Rice Noodle",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "address": "156th Avenue Northeast 1229, Bellevue",
+        "website": "https://www.tensecondsbellevue.com/",
+        "opening_hours": "Mo-Tu,Su 11:00-21:00; Fr-Sa 11:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1331886,
+          47.6212441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30455492,
+        "hasDetails": true,
+        "name": "Sushi Me",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "address": "156th Avenue Northeast 1299, Bellevue",
+        "website": "http://www.sushimebellevue.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1328105,
+          47.6214026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863515,
+        "hasDetails": true,
+        "name": "Chipotle",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "address": "156th Avenue Northeast 1328, Bellevue",
+        "website": "https://locations.chipotle.com/wa/bellevue/1328-156th-ave-ne",
+        "opening_hours": "Mo-Su 10:45-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1318528,
+          47.6216076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9170162759,
+        "hasDetails": true,
+        "name": "Greenline Organic Health",
+        "amenity": "fast_food",
+        "cuisine": "juice",
+        "address": "158th Place Northeast 1386, Bellevue",
+        "website": "https://www.greenlineorganic.com/",
+        "opening_hours": "Mo-Fr 10:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1291299,
+          47.6216346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1318819,
+          47.6217227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5360464298,
+        "hasDetails": true,
+        "name": "Mulligans",
+        "amenity": "restaurant",
+        "cuisine": "american"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.097432,
+          47.6218727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29218308,
+        "hasDetails": true,
+        "name": "Starbucks",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "address": "156th Avenue Northeast 1350, Bellevue",
+        "website": "https://www.starbucks.com/store-locator/store/1021177/156th-ave-ne-ne-13-th-cross-1350-156th-ave-ne-bellevue-wa-980074412-us",
+        "opening_hours": "Mo-Fr 05:00-20:30; Sa, Su 06:00-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1319776,
+          47.6220821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29544556,
+        "hasDetails": true,
+        "name": "Ruchi Indian Restaurant",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "address": "156th Avenue Northeast 1360, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1320191,
+          47.6223264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 390292347,
+        "hasDetails": true,
+        "name": "McDonald's",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "address": "156th Avenue Northeast 1401, Bellevue",
+        "website": "https://www.mcdonalds.com/us/en-us/location/1498.html",
+        "opening_hours": "07:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1329186,
+          47.6225625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 335052591,
+        "hasDetails": true,
+        "name": "Kwality",
+        "amenity": "ice_cream",
+        "address": "156th Avenue Northeast 1400, Bellevue",
+        "website": "https://kwalityfoods.com/",
+        "names": [
+          "Kwality",
+          "Subway"
+        ],
+        "amenities": [
+          "ice_cream",
+          "fast_food"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.132036,
+          47.6225792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 335052583,
+        "hasDetails": true,
+        "name": "Westernco Donut",
+        "amenity": "fast_food",
+        "cuisine": "donut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1320624,
+          47.6227227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9699207854,
+        "hasDetails": true,
+        "name": "Yomie's Rice & Yogurt",
+        "amenity": "ice_cream",
+        "cuisine": "frozen_yogurt",
+        "address": "156th Avenue Northeast 1422, Bellevue",
+        "website": "https://yomiesbellevue.com",
+        "names": [
+          "Yomie's Rice & Yogurt",
+          "Just Tiffins"
+        ],
+        "amenities": [
+          "ice_cream",
+          "restaurant"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.132117,
+          47.6229697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 335047073,
+        "hasDetails": true,
+        "name": "Off the Rails Sport Bar",
+        "amenity": "bar",
+        "address": "156th Ave NE 1430, Bellevue",
+        "opening_hours": "Mo-Su 12:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1317151,
+          47.6229968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5338080771,
+        "hasDetails": true,
+        "name": "Mr. Six",
+        "amenity": "restaurant",
+        "cuisine": "chinese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1334538,
+          47.6230307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4535344160,
+        "hasDetails": true,
+        "name": "Bawarchi Indian Restaurant",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "names": [
+          "Bawarchi Indian Restaurant",
+          "Happy Lamb Hot Pot"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1331905,
+          47.6230867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 390292349,
+        "hasDetails": true,
+        "name": "Ivar's Seafood Bar",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "address": "156th Avenue Northeast 1505, Bellevue",
+        "website": "https://www.ivars.com/locations/seafood-bars",
+        "opening_hours": "Mo-Su 11:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1327955,
+          47.6234508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6013559134,
+        "hasDetails": true,
+        "name": "N\u00faodle",
+        "amenity": "restaurant",
+        "cuisine": "chinese;noodle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1444793,
+          47.6268673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2716358137,
+        "hasDetails": true,
+        "name": "Tang Bar Hot Pot Restaurant",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "address": "Northeast 20th Street 14603, Bellevue",
+        "website": "https://seattle.tangbar.us/",
+        "opening_hours": "Mo-Su 11:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1446883,
+          47.6268803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 340340361,
+        "hasDetails": true,
+        "name": "MonGa Cafe",
+        "amenity": "cafe",
+        "cuisine": "taiwanese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1448865,
+          47.6268807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30491230,
+        "hasDetails": true,
+        "name": "Jack in the Box",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "address": "148th Avenue Northeast 1900, Bellevue",
+        "website": "https://locations.jackinthebox.com/us/wa/bellevue/1900-148th-ave-ne",
+        "opening_hours": "24/7",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1426839,
+          47.6269956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29362154,
+        "hasDetails": true,
+        "name": "IHOP",
+        "amenity": "restaurant",
+        "cuisine": "breakfast;pancake",
+        "address": "Northeast 20th Street 14747, Bellevue",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1436819,
+          47.6271182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6571035787,
+        "hasDetails": true,
+        "name": "El Maestro del Taco",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "address": "Northup Way",
+        "opening_hours": "Mo-Su 11:00-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1304706,
+          47.6271491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 340337966,
+        "hasDetails": true,
+        "name": "Rasoi Indian Restaurant and Bakery",
+        "amenity": "restaurant",
+        "cuisine": "indian;buffet;cake;bakery;curry;chaat;vada_pav;biryani;indo_chinese;tandoor",
+        "address": "Northeast 20th Street 14339",
+        "website": "https://rasoibellevue.com",
+        "opening_hours": "Mo-Th 11:00-21:30; Fr-Su 11:30-22:00",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1489543,
+          47.6271572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13565772401,
+        "hasDetails": true,
+        "name": "Sando by Fuji",
+        "amenity": "fast_food",
+        "cuisine": "sandwich;japanese",
+        "address": "Northeast 20th Street 14515, Bellevue",
+        "names": [
+          "Sando by Fuji",
+          "King's Rice Noodle"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1464132,
+          47.6271919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9742523177,
+        "hasDetails": true,
+        "name": "Taste Of Xi\u2019an",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "address": "Bellevue",
+        "website": "https://www.39miles.com/p/04846346/e1BaOjAzMTc1Nzg0fQ",
+        "opening_hours": "Su-Th 11:00\u201320:00; Fr-Sa 11:00\u201321:00",
+        "names": [
+          "Taste Of Xi\u2019an",
+          "DrinkT"
+        ],
+        "amenities": [
+          "restaurant",
+          "fast_food"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1465849,
+          47.6272169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 390292342,
+        "hasDetails": true,
+        "name": "Bento House",
+        "amenity": "restaurant",
+        "address": "Bellevue Redmond Road 15045, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1382977,
+          47.6272357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13565772602,
+        "hasDetails": true,
+        "name": "Xaio Lu Jiang",
+        "amenity": "fast_food",
+        "cuisine": "chinese",
+        "address": "Northeast 20th Street 14515, Bellevue",
+        "opening_hours": "10:00-20:30",
+        "names": [
+          "Xaio Lu Jiang",
+          "Lunch on the Plate",
+          "Boiling Hot Malatang"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1465273,
+          47.6273107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3889813433,
+        "hasDetails": true,
+        "name": "Donburi Station",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "website": "https://donburistationbellevue.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1489551,
+          47.6273198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1441416,
+          47.6274075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13565756501,
+        "hasDetails": true,
+        "name": "Lucky Barbecue & Noodles House",
+        "amenity": "restaurant",
+        "cuisine": "hong_kong;chinese;asian",
+        "address": "Northeast 20th Street 14515, Bellevue",
+        "website": "https://luckybarbecue.com",
+        "opening_hours": "09:00\u201320:00",
+        "names": [
+          "Lucky Barbecue & Noodles House",
+          "De Zhuang De Hot Pot Mini",
+          "Hua Xi Rice Ramen",
+          "Cocotree Chef",
+          "The Northern Dumplings"
+        ],
+        "amenities": [
+          "restaurant",
+          "fast_food"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.146617,
+          47.6274143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 340340742,
+        "hasDetails": true,
+        "name": "Photai",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "opening_hours": "Mo-Su 10:30-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.144297,
+          47.6274173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13565772504,
+        "hasDetails": true,
+        "name": "Dough Savor",
+        "amenity": "fast_food",
+        "cuisine": "dimsum;chinese",
+        "address": "Northeast 20th Street 14515, Bellevue",
+        "website": "https://doughsavor.com",
+        "opening_hours": "09:00-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1464077,
+          47.6274325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29658559,
+        "hasDetails": true,
+        "name": "Taco Bell",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "address": "148th Avenue Northeast 1960, Redmond",
+        "website": "https://locations.tacobell.com/wa/redmond/1960-148th-avenue-n-e-.html",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1427395,
+          47.6274788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 340340743,
+        "hasDetails": true,
+        "name": "Little Garden",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "address": "NE 20th st",
+        "website": "http://www.littlegardenchinese.com/",
+        "names": [
+          "Little Garden",
+          "Chaat House"
+        ],
+        "amenities": [
+          "restaurant",
+          "fast_food"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1437896,
+          47.6276051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3899118617,
+        "hasDetails": true,
+        "name": "85\u00b0C Bakery Cafe",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;chinese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1444262,
+          47.6276109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1478964894,
+        "hasDetails": true,
+        "name": "Sum Yee Kae Seafood Restaurant",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "address": "Northeast 20th Street 14505, Bellevue",
+        "website": "https://sumyeekae.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1466003,
+          47.6276274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12570481061,
+        "hasDetails": true,
+        "name": "Pagliacci Pizza",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "address": "Bel-Red Road 15238, Bellevue",
+        "website": "https://www.pagliacci.com/locations/bellevue-crossroads",
+        "opening_hours": "Su-Th 11:00-22:00; Fr,Sa 11:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1359624,
+          47.6281366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1411267,
+          47.6281523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 321705496,
+        "hasDetails": true,
+        "name": "Crimson Coward",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "address": "148th Avenue Northeast 2028, Redmond",
+        "website": "https://www.crimsoncoward.com/locations/crimson-coward-redmond-wa/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.141619,
+          47.6281526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1412634,
+          47.628153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29653567,
+        "hasDetails": true,
+        "name": "Dosa House",
+        "amenity": "fast_food",
+        "cuisine": "indian",
+        "address": "Bel-Red Road 15259, Bellevue",
+        "website": "http://www.bellevuechaathouse.com/dosa-house.html",
+        "opening_hours": "Mo-Su 11:30-21:45",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1355952,
+          47.6281896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11986409607,
+        "hasDetails": true,
+        "name": "Timeless Tea",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "address": "Northeast 20th Street 14320, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1493475,
+          47.6282448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3889813443,
+        "hasDetails": true,
+        "amenity": "restaurant",
+        "cuisine": "afghan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1495471,
+          47.6282878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11746004728,
+        "hasDetails": true,
+        "name": "Gyu-Kaku",
+        "amenity": "restaurant",
+        "cuisine": "japanese;barbecue",
+        "address": "Northeast 20th Street 14506, Bellevue",
+        "website": "https://www.gyu-kaku.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1461576,
+          47.6282941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4129359890,
+        "hasDetails": true,
+        "name": "Jimmy John's",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "address": "Bel-Red Road 15253, Bellevue",
+        "website": "https://locations.jimmyjohns.com/wa/bellevue/sandwiches-1519.html",
+        "opening_hours": "Mo-Su 11:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1351225,
+          47.6286168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 339935528,
+        "hasDetails": true,
+        "name": "Mediterranean Grill",
+        "amenity": "restaurant",
+        "address": "Bel-Red Road 15253, Bellevue",
+        "opening_hours": "Su-Th 11:00-21:00; Fr,Sa 11:00-22:00",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1350637,
+          47.6287163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 347256907,
+        "hasDetails": true,
+        "name": "Sichuan Cuisine",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "address": "148th Avenue Northeast 2010, Redmond",
+        "names": [
+          "Sichuan Cuisine",
+          "Five Guys"
+        ],
+        "amenities": [
+          "restaurant",
+          "fast_food"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.142562,
+          47.6287352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 343484718,
+        "hasDetails": true,
+        "name": "Starbucks",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "address": "148th Northeast 2041, Bellevue",
+        "website": "https://www.starbucks.com/store-locator/store/8316/fred-meyer-bellevue-23-2041-148th-ne-bellevue-wa-980073788-us",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1441496,
+          47.6292529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30705181,
+        "hasDetails": true,
+        "name": "Jack\u2019s BBQ",
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "address": "Bel-Red Road 2115, Redmond",
+        "website": "https://jacksbbq.com/redmond/",
+        "opening_hours": "Mo-Th 07:00-21:00,Fr 07:00-22:00,Sa 10:00-22:00,Su 10:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1355734,
+          47.629305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 30705180,
         "hasDetails": true,
         "name": "Can-Am Pizza",
@@ -1451,6 +3339,24 @@
         "coordinates": [
           -122.11986,
           47.6687603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14020896316,
+        "hasDetails": true,
+        "name": "AKB, a hotel bar",
+        "amenity": "bar",
+        "address": "164th Avenue Northeast 7200, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1203414,
+          47.6688283
         ]
       }
     },

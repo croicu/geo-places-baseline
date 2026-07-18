@@ -5660,6 +5660,7 @@
         "amenity": "bar",
         "address": "1st Avenue South 119, Seattle",
         "website": "https://www.underbellyofseattle.com/",
+        "opening_hours": "Su-Th 11:30-00:00; Fr-Sa 11:30-02:00",
         "outdoor_seating": "no"
       },
       "geometry": {
@@ -23519,26 +23520,6 @@
         "coordinates": [
           -122.3505543,
           47.6214432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "id": 2384428143,
-        "hasDetails": true,
-        "name": "Club Comedy Seattle",
-        "amenity": "pub",
-        "address": "15th Avenue East 328, Seattle",
-        "website": "https://clubcomedyseattle.com/",
-        "opening_hours": "Tu-Th,Su 19:30-22:00; Fr-Sa 19:30-24:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3124398,
-          47.621446
         ]
       }
     },

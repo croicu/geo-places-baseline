@@ -9189,6 +9189,27 @@
     {
       "type": "Feature",
       "properties": {
+        "weight": 1.0,
+        "id": 13435950412,
+        "hasDetails": true,
+        "name": "B\u00e1nh m\u00ec makers",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese;sandwich",
+        "address": "N\u00e1dra\u017en\u00ed 106/9, Praha",
+        "website": "https://banhmimakers.com/",
+        "opening_hours": "Mo-Fr 10:30-21:30; Sa-Su 11:30-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4067291,
+          50.0675605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "weight": 1.0
       },
       "geometry": {
@@ -9217,27 +9238,6 @@
         "coordinates": [
           14.4566291,
           50.0675735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "id": 13435950412,
-        "hasDetails": true,
-        "name": "B\u00e1nh m\u00ec makers",
-        "amenity": "restaurant",
-        "cuisine": "vietnamese;sandwich",
-        "address": "N\u00e1dra\u017en\u00ed 106/9, Praha",
-        "website": "https://banhmimakers.com/",
-        "opening_hours": "Mo-Fr 10:30-21:30; Sa-Su 11:30-21:30"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4066692,
-          50.0676259
         ]
       }
     },
@@ -9394,24 +9394,6 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
-        "id": 12433229965,
-        "hasDetails": true,
-        "name": "Klub Na V\u011bne\u010dku",
-        "amenity": "restaurant",
-        "address": "Ostrovsk\u00e9ho 3167/36a, Praha"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.3953386,
-          50.0678676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
         "id": 11256964354,
         "hasDetails": true,
         "name": "Go Francin",
@@ -9424,8 +9406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4065228,
-          50.067869
+          14.4065655,
+          50.0678135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12433229965,
+        "hasDetails": true,
+        "name": "Klub Na V\u011bne\u010dku",
+        "amenity": "restaurant",
+        "address": "Ostrovsk\u00e9ho 3167/36a, Praha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3953386,
+          50.0678676
         ]
       }
     },
@@ -18093,24 +18093,6 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
-        "id": 429314451,
-        "hasDetails": true,
-        "name": "Lel\u00ed's Cupcakes",
-        "amenity": "cafe",
-        "address": "Vy\u0161ehradsk\u00e1 53, Praha"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4183264,
-          50.0732645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
         "id": 651217565,
         "hasDetails": true,
         "name": "Fruitisimo",
@@ -22005,6 +21987,25 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 3278080262,
+        "hasDetails": true,
+        "name": "Pivot\u00e9ka Pivo a p\u00e1rek",
+        "amenity": "pub",
+        "address": "Korunn\u00ed 1075/105, Praha",
+        "opening_hours": "Mo-Sa 16:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4548198,
+          50.0755771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 340100457,
         "hasDetails": true,
         "name": "Starbucks",
@@ -25482,7 +25483,8 @@
         "cuisine": "pasta;breakfast;sandwich;cake;burger;tapas",
         "address": "\u017ditn\u00e1 45",
         "website": "https://www.paloverdebistro.cz/",
-        "opening_hours": "Mo-Su 07:30-22:30"
+        "opening_hours": "Mo-Su 07:30-22:30",
+        "outdoor_seating": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -30957,7 +30959,6 @@
         "hasDetails": true,
         "name": "Karawba",
         "amenity": "cafe",
-        "cuisine": "vegan",
         "address": "\u010cerchovsk\u00e1 11",
         "website": "https://www.karawba.cz"
       },
@@ -31121,7 +31122,7 @@
         "name": "Kiin",
         "amenity": "restaurant",
         "cuisine": "thai",
-        "website": "www.kiin.cz",
+        "website": "https://www.kiin.cz",
         "outdoor_seating": "no",
         "names": [
           "Kiin",
@@ -42638,7 +42639,9 @@
         "name": "Male\u0161ick\u00fd mikropivovar",
         "amenity": "restaurant",
         "cuisine": "regional",
-        "website": "https://www.malesickymikropivovar.cz/"
+        "address": "126/50",
+        "website": "https://www.malesickymikropivovar.cz/",
+        "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00"
       },
       "geometry": {
         "type": "Point",
@@ -47653,20 +47656,13 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0,
-        "id": 4985371022,
-        "hasDetails": true,
-        "name": "Ko\u010d\u00e1r z\u00a0V\u00eddn\u011b",
-        "amenity": "restaurant",
-        "cuisine": "regional;austrian",
-        "website": "http://kocarzvidne.cz",
-        "outdoor_seating": "yes"
+        "weight": 1.0
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4073914,
-          50.0868426
+          14.40732,
+          50.0868316
         ]
       }
     },
@@ -66012,12 +66008,11 @@
         "weight": 1.0,
         "id": 449774351,
         "hasDetails": true,
-        "name": "Garuda",
+        "name": "Pho & Roll",
         "amenity": "restaurant",
-        "cuisine": "indonesian",
+        "cuisine": "sushi;vietnamese",
         "address": "Milady Hor\u00e1kov\u00e9 686/12, Praha 7",
-        "website": "http://www.garudarestaurant.cz/",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Fr 11:00-22:00",
         "outdoor_seating": "no"
       },
       "geometry": {
@@ -68976,8 +68971,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4339991,
-          50.1018069
+          14.4339956,
+          50.1018251
         ]
       }
     },
@@ -69742,8 +69737,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4327528,
-          50.1027299
+          14.4327864,
+          50.1027327
         ]
       }
     },
@@ -74277,6 +74272,7 @@
         "name": "Meteor",
         "amenity": "restaurant",
         "cuisine": "regional",
+        "opening_hours": "Mo-Su 14:00-22:00",
         "outdoor_seating": "yes"
       },
       "geometry": {
@@ -75144,8 +75140,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4756378,
-          50.1121459
+          14.4756746,
+          50.1121812
         ]
       }
     },

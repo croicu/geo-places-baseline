@@ -2206,24 +2206,6 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
-        "id": 2505023065,
-        "hasDetails": true,
-        "name": "Tartine",
-        "amenity": "cafe",
-        "address": "J\u00e4rnv\u00e4gsgatan 1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.1272961,
-          59.3060706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
         "id": 11076492030,
         "hasDetails": true,
         "name": "Ponte & Simone",
@@ -2238,6 +2220,25 @@
         "coordinates": [
           18.0356973,
           59.3060783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2505023065,
+        "hasDetails": true,
+        "name": "Joe & The Juice",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "address": "J\u00e4rnv\u00e4gsgatan 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1270279,
+          59.3060946
         ]
       }
     },
@@ -27887,6 +27888,26 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 14022347601,
+        "hasDetails": true,
+        "name": "Caf\u00e9 V\u00f3lta",
+        "amenity": "cafe",
+        "cuisine": "bagel;breakfast;coffee_shop;sandwich",
+        "website": "https://cafevolta.se/",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 10:00-18:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0605246,
+          59.3349257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 11917763793,
         "hasDetails": true,
         "name": "Pong",
@@ -33001,6 +33022,7 @@
         "name": "Grill\u00f6versten",
         "amenity": "fast_food",
         "cuisine": "grill",
+        "website": "http://grilloversten.se",
         "opening_hours": "Mo-Fr 10:00-21:00;Sa-Su 10:00-19:00"
       },
       "geometry": {

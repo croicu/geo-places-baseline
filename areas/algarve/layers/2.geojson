@@ -4256,7 +4256,12 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 9730231517,
+        "hasDetails": true,
+        "name": "Central",
+        "amenity": "cafe",
+        "opening_hours": "Mo-Su 07:00+"
       },
       "geometry": {
         "type": "Point",
@@ -4318,6 +4323,7 @@
         "hasDetails": true,
         "name": "Carlsberg Sports Bar",
         "amenity": "bar",
+        "opening_hours": "Mo-Su 07:00-21:00",
         "outdoor_seating": "no"
       },
       "geometry": {
@@ -4337,6 +4343,7 @@
         "name": "Costa",
         "amenity": "cafe",
         "cuisine": "coffee_shop",
+        "opening_hours": "Mo-Su 04:00+",
         "outdoor_seating": "no"
       },
       "geometry": {
@@ -4382,7 +4389,12 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 9748780917,
+        "hasDetails": true,
+        "name": "Paul",
+        "amenity": "cafe",
+        "opening_hours": "Mo-Su 04:30-21:00"
       },
       "geometry": {
         "type": "Point",
@@ -23749,7 +23761,7 @@
         "name": "Gelados & Companhia",
         "amenity": "ice_cream",
         "website": "http://www.geladosecompanhia.com",
-        "opening_hours": "Mo-Su 11:30-22:30",
+        "opening_hours": "Mo,We-Su 11:30-22:00; Tu off",
         "outdoor_seating": "yes"
       },
       "geometry": {
@@ -25909,7 +25921,7 @@
         "amenity": "cafe",
         "address": "Rua Soeiro da Costa 20",
         "website": "https://thestudio.coffee/",
-        "opening_hours": "Mo-Su 08:00-17:00"
+        "opening_hours": "08:00-18:00"
       },
       "geometry": {
         "type": "Point",
@@ -31076,7 +31088,12 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 13739713894,
+        "hasDetails": true,
+        "name": "alex",
+        "amenity": "cafe",
+        "opening_hours": "08:30-16:30"
       },
       "geometry": {
         "type": "Point",
@@ -35400,7 +35417,13 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 5854422733,
+        "hasDetails": true,
+        "name": "Hambuergeria B&B",
+        "amenity": "fast_food",
+        "address": "Rua dos Oceanos Lt. 4 Lj. 5",
+        "outdoor_seating": "yes"
       },
       "geometry": {
         "type": "Point",
@@ -40915,6 +40938,26 @@
         "coordinates": [
           -7.6547651,
           37.1328261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14020313942,
+        "hasDetails": true,
+        "name": "O Cantinho do Jardim",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Rua dos Bombeiros Volunt\u00e1rias de Lagoa 14",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4503006,
+          37.1328679
         ]
       }
     },

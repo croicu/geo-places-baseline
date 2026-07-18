@@ -9,6 +9,114 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.1429152,
+          47.6168842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.132918,
+          47.617099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.129686,
+          47.6176113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1300311,
+          47.6192986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1297257,
+          47.6194425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1302725,
+          47.6203381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.130154,
+          47.6209366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13237925676,
+        "hasDetails": true,
+        "name": "An Utterance Ineffable",
+        "website": "https://static1.squarespace.com/static/63efe450f3d28b27294f0ff8/t/645e8f411c6d7774c49cde4f/1683918663093/COBUtilityBoxWrapsProgram2022.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1410423,
+          47.6268702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.138005,
           47.6364728
         ]
@@ -1168,19 +1276,6 @@
         "coordinates": [
           -122.1486996,
           47.688883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.0801038,
-          47.6944562
         ]
       }
     },

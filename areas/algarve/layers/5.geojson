@@ -2128,7 +2128,11 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 13751132053,
+        "hasDetails": true,
+        "name": "Relay",
+        "opening_hours": "Mo-Su 06:00-23:00"
       },
       "geometry": {
         "type": "Point",
@@ -2240,7 +2244,12 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 9748780917,
+        "hasDetails": true,
+        "name": "Paul",
+        "amenity": "cafe",
+        "opening_hours": "Mo-Su 04:30-21:00"
       },
       "geometry": {
         "type": "Point",
@@ -3811,6 +3820,23 @@
         "coordinates": [
           -7.8951574,
           37.0250539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14021709501,
+        "hasDetails": true,
+        "name": "Cristina Ramos",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8420014,
+          37.0250616
         ]
       }
     },
@@ -18106,7 +18132,12 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 11297707924,
+        "hasDetails": true,
+        "name": "NaturBoticae",
+        "address": "Rua Infante de Sagres 22 C/D",
+        "website": "https://www.naturboticae.com"
       },
       "geometry": {
         "type": "Point",
@@ -26242,6 +26273,23 @@
     {
       "type": "Feature",
       "properties": {
+        "weight": 1.0,
+        "id": 14020313940,
+        "hasDetails": true,
+        "name": "First Stop",
+        "opening_hours": "Mo-Fr 08:30-12:30,14:00-18:00; Sa 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.445252,
+          37.1302681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "weight": 1.0
       },
       "geometry": {
@@ -26326,6 +26374,19 @@
         "coordinates": [
           -8.3491726,
           37.1304797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.444795,
+          37.1305289
         ]
       }
     },
@@ -27193,6 +27254,23 @@
         "coordinates": [
           -8.4488756,
           37.133122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14020313943,
+        "hasDetails": true,
+        "name": "Optivis\u00e3o",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-13:00; Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4528092,
+          37.1331518
         ]
       }
     },
@@ -28614,6 +28692,24 @@
         "coordinates": [
           -8.5498264,
           37.1365731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14020313941,
+        "hasDetails": true,
+        "name": "Sofrapa Barlavento",
+        "website": "https://www.sofrapa.pt",
+        "opening_hours": "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4513927,
+          37.1367465
         ]
       }
     },

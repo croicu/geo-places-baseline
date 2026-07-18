@@ -5,6 +5,1936 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 12066684603,
+        "hasDetails": true,
+        "name": "Gold \u2018N Looks",
+        "address": "Lake Hills Boulevard 15526, Bellevue",
+        "names": [
+          "Gold \u2018N Looks",
+          "SeeWell EyeCare"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1326477,
+          47.6035809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11725933238,
+        "hasDetails": true,
+        "name": "International Food Bazaar & Market",
+        "address": "156th Avenue Southeast 655, Bellevue",
+        "website": "https://www.ifoodbazaar.com/",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1317366,
+          47.6040001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1321123,
+          47.6041959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4790755656,
+        "hasDetails": true,
+        "name": "Silhouette",
+        "address": "156th Avenue Southeast 671, Bellevue",
+        "website": "https://silhouettehairsalonandspa.com/",
+        "opening_hours": "Tu-Fr 10:00-19:00; Sa 09:00-17:00; Su,Mo off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.132643,
+          47.6042185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9650837508,
+        "hasDetails": true,
+        "name": "Der Pet Haus",
+        "address": "Main Street 15015",
+        "website": "http://derpethaus.com/",
+        "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-15:00; Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1407209,
+          47.6081124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3293418182,
+        "hasDetails": true,
+        "name": "AutoZone",
+        "website": "https://www.autozone.com/locations/wa/bellevue/15015-main-st.html",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 08:30-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1407477,
+          47.6082804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3293418184,
+        "hasDetails": true,
+        "name": "Levue Nails & Spa",
+        "address": "Main Street 15015",
+        "website": "https://levuenails.com",
+        "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 10:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.140963,
+          47.6082812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2737502230,
+        "hasDetails": true,
+        "name": "Fabri Fine Jewelry",
+        "address": "Main Street 15015",
+        "website": "https://fabrifinejewelry.com",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.141411,
+          47.608283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2737502231,
+        "hasDetails": true,
+        "name": "Great Clips",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00",
+        "names": [
+          "Great Clips",
+          "International Deli"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.141635,
+          47.6082839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2625083177,
+        "hasDetails": true,
+        "name": "America's Best Contacts & Eyeglasses",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off",
+        "names": [
+          "America's Best Contacts & Eyeglasses",
+          "Shoes n Feet"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.142303,
+          47.6082865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2392134329,
+        "hasDetails": true,
+        "name": "Walmart Neighborhood Market",
+        "address": "Main Street 15063, Bellevue",
+        "website": "https://www.walmart.com/store/3098-bellevue-wa",
+        "opening_hours": "Mo-Su 06:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1396314,
+          47.6087019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.143485,
+          47.6088026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6217838724,
+        "hasDetails": true,
+        "name": "Sassy Beauty Bar",
+        "address": "148th Avenue Southeast 60, Bellevue",
+        "website": "https://www.sassybeautybellevue.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.142516,
+          47.6094553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1436219,
+          47.6095365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2718051740,
+        "hasDetails": true,
+        "name": "Crumbl Cookies",
+        "address": "Main Street 14855, Bellevue",
+        "website": "https://crumblcookies.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.141611,
+          47.6095793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7231487538,
+        "hasDetails": true,
+        "name": "Xhale Vapor N Smoke",
+        "address": "148th Ave NE 50, Bellevue",
+        "website": "https://www.xhalevapornsmoke.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1425824,
+          47.6095981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 71070179,
+        "hasDetails": true,
+        "name": "7-Eleven",
+        "address": "148th Avenue Northeast 15, Bellevue",
+        "website": "https://www.7-eleven.com/locations/wa/bellevue/15-148th-ave-ne-17355",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1435881,
+          47.6101132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.142435,
+          47.6102664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 40149345,
+        "hasDetails": true,
+        "name": "India Metro Hypermarket",
+        "address": "156th Avenue Northeast 653, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1336242,
+          47.6162293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 56228516,
+        "hasDetails": true,
+        "name": "Grocery Outlet",
+        "address": "Northeast 8th Street 15625, Bellevue",
+        "website": "https://www.groceryoutlet.com/",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1313703,
+          47.6163939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13958260501,
+        "hasDetails": true,
+        "name": "Relaxing Station",
+        "address": "Northeast 8th Street 15921",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1279495,
+          47.6164836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1336932,
+          47.6165197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 71070187,
+        "hasDetails": true,
+        "name": "Vitamin Shoppe",
+        "address": "Northeast 8th Street 14733, Bellevue",
+        "website": "https://www.vitaminshoppe.com/lp/super-supplements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1436522,
+          47.6165783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 481427684,
+        "hasDetails": true,
+        "name": "Rocket",
+        "address": "Northeast 8th Street 15615, Bellevue",
+        "website": "https://rocketstores.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.131869,
+          47.6166343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 326037270,
+        "hasDetails": true,
+        "name": "Snack Shop",
+        "address": "Northeast 8th Street 14801, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1425774,
+          47.6167193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863567,
+        "hasDetails": true,
+        "name": "The UPS Store",
+        "amenity": "post_office",
+        "website": "http://www.theupsstorelocal.com/4156",
+        "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:30-15:00",
+        "names": [
+          "The UPS Store",
+          "GameStop"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1284284,
+          47.6172195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1314333,
+          47.6173356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 60910742,
+        "hasDetails": true,
+        "name": "Food Mart",
+        "address": "Northeast 8th Street 16526, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1222365,
+          47.6173443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4955850380,
+        "hasDetails": true,
+        "name": "Lynn's Nails",
+        "address": "Northeast 8th Street 15920, Bellevue",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1279542,
+          47.6173463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863506,
+        "hasDetails": true,
+        "name": "Crossroads Flowers",
+        "website": "https://www.bellevuecrossroadsflowers.com/",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-15:00",
+        "names": [
+          "Crossroads Flowers",
+          "Crossroads Barber Shop"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1284275,
+          47.6173491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1447362,
+          47.6173708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863557,
+        "hasDetails": true,
+        "name": "Sally Beauty",
+        "website": "https://www.sallybeauty.com/",
+        "opening_hours": "Mo-Th 10:00-20:00; Fr,Sa 09:00-20:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1284272,
+          47.6174529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 146122992,
+        "hasDetails": true,
+        "name": "Miracle-Ear",
+        "website": "https://www.miracle-ear.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1316367,
+          47.6174579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863555,
+        "hasDetails": true,
+        "name": "Purified Water-To-Go",
+        "website": "http://watertogobellevue.com/",
+        "opening_hours": "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1284268,
+          47.6176315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 335068281,
+        "hasDetails": true,
+        "name": "Juhee's Alterations",
+        "opening_hours": "Sa 09:30-17:00; Su,PH off, Mo-Sa 09:30-18:00",
+        "names": [
+          "Juhee's Alterations",
+          "La Superior"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.127308,
+          47.6177112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5475573324,
+        "hasDetails": true,
+        "name": "European Grocery",
+        "opening_hours": "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-18:00",
+        "names": [
+          "European Grocery",
+          "Armenia Gastronom"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1273092,
+          47.6178164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863533,
+        "hasDetails": true,
+        "name": "Hand & Stone",
+        "website": "https://www.handandstonebellevue.com/",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1301933,
+          47.6178673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1273065,
+          47.6179153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863553,
+        "hasDetails": true,
+        "name": "Cycle Gear",
+        "website": "https://www.cyclegear.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1311281,
+          47.6179169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1050667209,
+        "hasDetails": true,
+        "name": "Phenix Salon Suites",
+        "website": "https://www.phenixsalonsuitesbellevue.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1308433,
+          47.6179296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863550,
+        "hasDetails": true,
+        "address": "Northeast 8th Street 15600, Bellevue",
+        "opening_hours": "Mo-Th 10:00-20:00; Fr 09:00-18:00; Sa 08:00-20:00; Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1298336,
+          47.6179403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 335068263,
+        "hasDetails": true,
+        "name": "Crossroads Bakery",
+        "cuisine": "eastern_european",
+        "address": "160th Avenue Northeast 900, Bellevue",
+        "opening_hours": "Mo-Sa 10:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.127306,
+          47.6180099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863551,
+        "hasDetails": true,
+        "name": "Hallmark",
+        "website": "https://trudyshallmark.com/",
+        "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1301926,
+          47.61802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 161888053,
+        "hasDetails": true,
+        "name": "Michaels",
+        "address": "Northeast 8th Street 15600, Bellevue",
+        "website": "https://locations.michaels.com/wa/bellevue/8403",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1290362,
+          47.6180659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863571,
+        "hasDetails": true,
+        "name": "Barnes & Noble",
+        "website": "https://stores.barnesandnoble.com/store/3418",
+        "opening_hours": "Mo-Sa 10:00-09:00,11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1309483,
+          47.6181544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 146133011,
+        "hasDetails": true,
+        "name": "Old Navy",
+        "website": "https://www.oldnavy.com/",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1309477,
+          47.6184289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863518,
+        "hasDetails": true,
+        "name": "Creatively Yours",
+        "website": "http://www.paintedbykathy.com/",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1304208,
+          47.6186201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863488,
+        "hasDetails": true,
+        "name": "Paris Miki Optical",
+        "website": "https://parismikiusa.com/",
+        "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
+        "names": [
+          "Paris Miki Optical",
+          "Sakkhi Style"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1307819,
+          47.6186863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 146133012,
+        "hasDetails": true,
+        "name": "Half Price Books",
+        "website": "http://www.halfpricebooks.com/",
+        "opening_hours": "Mo-Sa 09:00-22:00; Su 09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1310342,
+          47.6187351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863560,
+        "hasDetails": true,
+        "name": "Silver Palms Jewelry and Perfumery",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1304995,
+          47.618787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863490,
+        "hasDetails": true,
+        "name": "Snip-its Kids Haircuts",
+        "website": "http://www.snipits.com/locations/bellevue/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1307389,
+          47.6188227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1241466,
+          47.6190033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863523,
+        "hasDetails": true,
+        "name": "Daiso Japan",
+        "website": "http://www.daisojapan.com/",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1299371,
+          47.6191774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1221697,
+          47.6192571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1304355,
+          47.6194614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30970012,
+        "hasDetails": true,
+        "name": "Crossroads Bellevue",
+        "address": "Northeast 8th Street 15600, Bellevue",
+        "website": "https://www.crossroadsbellevue.com",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.130247,
+          47.6194953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863565,
+        "hasDetails": true,
+        "name": "The French Bakery",
+        "address": "Northeast 8th St 15600, Bellevue",
+        "website": "https://www.thefrenchbakery.com/",
+        "opening_hours": "Mo-Sa 07:00-19:00; Su 07:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1311147,
+          47.6195393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1306052,
+          47.619587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863561,
+        "hasDetails": true,
+        "name": "Mattress Firm",
+        "address": "Northeast 8th Street 15600, Bellevue",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1310688,
+          47.6196536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863559,
+        "hasDetails": true,
+        "name": "Pink Me Up",
+        "website": "http://www.pinkmeupnailsandspa.com/",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1309378,
+          47.6197063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 161888054,
+        "hasDetails": true,
+        "name": "QFC",
+        "website": "https://www.qfc.com/storeHours?store=70500826",
+        "opening_hours": "Mo-Su 05:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1308719,
+          47.6200837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9349987250,
+        "hasDetails": true,
+        "name": "Armada Design & Build",
+        "address": "Northeast 8th Street 15600",
+        "website": "https://www.armadabuild.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1300256,
+          47.620511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863575,
+        "hasDetails": true,
+        "name": "World Market",
+        "address": "Northeast 8th Street 15600, Bellevue",
+        "website": "https://stores.worldmarket.com/wa/redmond/7214-170th-avenue-ne.html",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1309373,
+          47.6207263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11882652636,
+        "hasDetails": true,
+        "name": "FedEx Office",
+        "address": "156th Avenue Northeast 1299, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.132809,
+          47.6207634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1330747,
+          47.6208028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863541,
+        "hasDetails": true,
+        "name": "New York Cupcakes",
+        "website": "https://newyorkcupcakes.com/",
+        "opening_hours": "Mo-Th 10:00-17:00; Fr,Sa 10:00-18:00; Su 11:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1301629,
+          47.6208054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 457863529,
+        "hasDetails": true,
+        "name": "Game Over Video Games",
+        "website": "https://gameovervideogames.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1303436,
+          47.6208064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 161888056,
+        "hasDetails": true,
+        "name": "Dick's Sporting Goods",
+        "address": "Northeast 8th Street 15600, Bellevue",
+        "website": "https://stores.dickssportinggoods.com/wa/bellevue/1331/",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.131077,
+          47.6216221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9647876770,
+        "hasDetails": true,
+        "name": "Stop & Shop",
+        "address": "156th Avenue Northeast 1313, Bellevue",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.133067,
+          47.6217706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12046346543,
+        "hasDetails": true,
+        "name": "Bridal Palace",
+        "address": "156th Avenue Northeast 1413",
+        "website": "https://www.bridalpalacebellevue.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1329122,
+          47.6218257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11098413586,
+        "hasDetails": true,
+        "name": "Just Your Ears Piercing",
+        "address": "156th Avenue Northeast 1420, Bellevue",
+        "website": "https://justyourears.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1318358,
+          47.6229931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1440634,
+          47.6266136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30757703,
+        "hasDetails": true,
+        "name": "ampm",
+        "address": "Bel Red Road 14650, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1438475,
+          47.626801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1455581,
+          47.6268744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2716358015,
+        "hasDetails": true,
+        "name": "Mattress Depot USA",
+        "website": "https://www.mattressdepotusa.com/location/bellevue-store/",
+        "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-19:00; Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1454159,
+          47.6268756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1478964893,
+        "hasDetails": true,
+        "name": "Asian Family Market",
+        "cuisine": "asian;chinese",
+        "address": "Northeast 20th Street 14515, Bellevue",
+        "website": "https://asianfamilymkt.com",
+        "opening_hours": "Fr-Sa 09:00-20:00; Su-Th 09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1466188,
+          47.6268978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3889813437,
+        "hasDetails": true,
+        "name": "Ross",
+        "address": "Northeast 20th Street 14327, Bellevue",
+        "opening_hours": "Mo-Th 10:00-22:00; Fr-Sa 10:00-22:30; Su 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1495989,
+          47.6270486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.149043,
+          47.6270704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1489607,
+          47.627224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13565772601,
+        "hasDetails": true,
+        "name": "DrinkT",
+        "amenity": "fast_food",
+        "cuisine": "juice",
+        "address": "Northeast 20th Street 14515, Bellevue",
+        "opening_hours": "Su-Th 11:00\u201320:00; Fr-Sa 11:00\u201321:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1465326,
+          47.6272545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13565756701,
+        "hasDetails": true,
+        "name": "Chinese Herbal Store & Gift Shop",
+        "address": "Northeast 20th Street 14515, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1467267,
+          47.6273336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13619101983,
+        "hasDetails": true,
+        "name": "Overlake Family Vision",
+        "address": "152nd Place Northeast 1951",
+        "website": "https://bellevue-optometrist.com/our-practice/",
+        "opening_hours": "Mo-Fr 09:00-17:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137142,
+          47.6273479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1435276,
+          47.6274147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1489631,
+          47.6274861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30757716,
+        "hasDetails": true,
+        "name": "India Supermarket",
+        "address": "Northeast 20th Street 14625, Bellevue",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.144914,
+          47.6274916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13565756602,
+        "hasDetails": true,
+        "name": "Face X",
+        "address": "Northeast 20th Street 14515, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1466871,
+          47.6274992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3889622419,
+        "hasDetails": true,
+        "name": "Top Fitness Store",
+        "address": "Northeast 20th Street 14725",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1434188,
+          47.6275141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30491193,
+        "hasDetails": true,
+        "name": "Goodyear",
+        "address": "Northeast 20th Street 14923, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1411355,
+          47.6275327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 340339826,
+        "hasDetails": true,
+        "name": "Definitive Audio",
+        "opening_hours": "\"Tu-Sa 11:00-17:00; Mo,Su by appointment\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1478666,
+          47.6275393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 392497699,
+        "hasDetails": true,
+        "name": "All Natural Healing Center",
+        "address": "Northeast 20th Street 15225, Bellevue",
+        "website": "http://allnaturalhealingcenter.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1366093,
+          47.6275411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3889968366,
+        "hasDetails": true,
+        "name": "Honey Baked Hams",
+        "address": "Northeast 20th Street 14339, Bellevue",
+        "website": "https://www.honeybaked.com/",
+        "opening_hours": "Mo-Fr 09:30-18:30; Sa 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1489608,
+          47.6275787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1442276,
+          47.6276376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3889622402,
+        "hasDetails": true,
+        "name": "Batteries Plus Bulbs",
+        "address": "Northeast 20th Street 14917, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1416897,
+          47.6276485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9758202534,
+        "hasDetails": true,
+        "name": "Beauty Vibez",
+        "address": "Northeast 20th Street 15260",
+        "names": [
+          "Beauty Vibez",
+          "Bel-Red Barbers"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1351268,
+          47.6281375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1424373,
+          47.6281826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29655459,
+        "hasDetails": true,
+        "name": "Exotic Motors",
+        "address": "Northeast 20th Street 15212, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1374471,
+          47.6281874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9819040524,
+        "hasDetails": true,
+        "name": "Great Clips",
+        "address": "148th Avenue Northeast 2032, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1416193,
+          47.6282402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1490044,
+          47.6282878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1487741,
+          47.6282878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1493401,
+          47.6282878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1496843,
+          47.6282955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13247207301,
+        "hasDetails": true,
+        "name": "Rich's for the Home",
+        "address": "Northeast 20th Street 14404, Bellevue",
+        "website": "https://www.richshome.com/locations/bellevue/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1475207,
+          47.6282958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1383713,
+          47.6283335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3971480479,
+        "hasDetails": true,
+        "name": "LensCrafters",
+        "address": "148th Avenue Northeast 2040, Redmond",
+        "website": "https://local.lenscrafters.com/wa/redmond/2040-148th-ave-ne.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.141553,
+          47.6283386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29653338,
+        "hasDetails": true,
+        "name": "Pawn X-Change",
+        "address": "Bel Red Road 15226, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.136915,
+          47.628343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 359795047,
+        "hasDetails": true,
+        "name": "Golden Steer Meat Market",
+        "address": "Bel-Red Road 15255, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1351153,
+          47.628399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29217737,
+        "hasDetails": true,
+        "name": "Overlake Lock & Key",
+        "address": "148th Avenue Northeast 2041",
+        "opening_hours": "Mo-Fr 09:00-16:00; Sa 10:00-15:00; Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1437232,
+          47.6284659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 31126725,
+        "hasDetails": true,
+        "name": "Car Place",
+        "address": "152nd Avenue Northeast 2040, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1372327,
+          47.6284749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30757739,
+        "hasDetails": true,
+        "name": "Harbor Freight Tools",
+        "address": "Northeast 20th Street 14506, Bellevue",
+        "website": "https://www.harborfreight.com/storelocator/14506-ne-20th-st-ste-1-bellevue-98007?number=279",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1461752,
+          47.6285217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3123286636,
+        "hasDetails": true,
+        "name": "Men's Wearhouse",
+        "address": "148th Avenue Northeast 2110, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.141558,
+          47.628541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3123286639,
+        "hasDetails": true,
+        "name": "Great Floors",
+        "address": "148th Avenue Northeast 2118, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.141561,
+          47.628644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1425637,
+          47.6286864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3971480480,
+        "hasDetails": true,
+        "name": "Seattle Sun Tan",
+        "address": "148th Avenue Northeast 2126, Redmond",
+        "names": [
+          "Seattle Sun Tan",
+          "CosmoProf"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.14166,
+          47.6287743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 29217559,
         "hasDetails": true,
         "name": "Fred Meyer",
@@ -17,6 +1947,36 @@
         "coordinates": [
           -122.1447682,
           47.6289388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1441592,
+          47.6290101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2268902252,
+        "hasDetails": true,
+        "name": "Marshalls",
+        "address": "148th Avenue Northeast 2150, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.141627,
+          47.6291215
         ]
       }
     },

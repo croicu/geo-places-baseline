@@ -5,6 +5,63 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 484471666,
+        "hasDetails": true,
+        "name": "Bellevue Youth Theater Crossroads",
+        "amenity": "theatre",
+        "address": "Northeast 10th Street 16051, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1266146,
+          47.6185946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 161888048,
+        "hasDetails": true,
+        "name": "Regal Crossroads",
+        "amenity": "cinema",
+        "address": "156th Avenue Northeast 1200, Bellevue",
+        "website": "https://www.regmovies.com/theatres/regal-crossroads-bellevue-0905",
+        "wikidata": "Q43305577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1287605,
+          47.6211008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 75223750,
+        "hasDetails": true,
+        "name": "Bellevue Youth Theater",
+        "amenity": "theatre",
+        "address": "Northrup Way 16661, Bellevue",
+        "website": "http://www.ci.bellevue.wa.us/bellevue_youth_theatre.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1170587,
+          47.6218656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 1154157264,
         "hasDetails": true,
         "name": "Movies at Marymoor (Summer Only)",

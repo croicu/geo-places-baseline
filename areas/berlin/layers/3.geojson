@@ -13591,6 +13591,24 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 14021933134,
+        "hasDetails": true,
+        "name": "no space is the place",
+        "website": "https://www.berlin.de/ba-treptow-koepenick/aktuelles/pressemitteilungen/2026/pressemitteilung.1677169.php",
+        "wikidata": "Q140589577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4702768,
+          52.4901291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 11800502797,
         "hasDetails": true,
         "name": "Hoto",
@@ -45393,6 +45411,23 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 14023264720,
+        "hasDetails": true,
+        "name": "Stehendes M\u00e4dchen",
+        "website": "https://bildhauerei-in-berlin.de/bildwerk/stehendes-maedchen-5530/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4194467,
+          52.5429892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 329262981,
         "hasDetails": true,
         "name": "Zeiss-Gro\u00dfplanetarium",
@@ -53518,24 +53553,6 @@
         "coordinates": [
           13.4955117,
           52.6332085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "id": 10224372984,
-        "hasDetails": true,
-        "name": "Galerie JF+",
-        "website": "https://www.galerie-jf.de",
-        "opening_hours": "Th 16:00-18:00; Fr 14:00-18:00; Sa 11:00-15:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.2896266,
-          52.6339917
         ]
       }
     },

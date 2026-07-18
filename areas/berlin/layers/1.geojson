@@ -7840,7 +7840,7 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
-        "area_sqm": 13141.8,
+        "area_sqm": 13141.7,
         "radius_m": 64.7,
         "id": 151368586,
         "hasDetails": true,
@@ -7850,8 +7850,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.5179026,
-          52.45744724736842
+          13.51785046,
+          52.457470125
         ]
       }
     },
