@@ -1,0 +1,4123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 58788.9,
+        "radius_m": 136.8,
+        "id": 31658929,
+        "hasDetails": true,
+        "name": "Delridge Playfield",
+        "website": "https://www.seattle.gov/parks/allparks/delridge-playfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36365116470589,
+          47.562327599999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 124649.7,
+        "radius_m": 199.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35759891944446,
+          47.56241665277778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 46436.8,
+        "radius_m": 121.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37385169655171,
+          47.56267513793104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 939.8,
+        "radius_m": 17.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29166719411764,
+          47.56306223529412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5166.6,
+        "radius_m": 40.6,
+        "id": 363391793,
+        "hasDetails": true,
+        "name": "Central Park",
+        "address": "29th Avenue South 4321, Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29684342105264,
+          47.56347072368421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2191.8,
+        "radius_m": 26.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29380484666667,
+          47.56384266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 626.4,
+        "radius_m": 14.1,
+        "id": 498701167,
+        "hasDetails": true,
+        "name": "View Point Park",
+        "address": "28th Avenue South 4307, Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29862475499999,
+          47.564017215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 381.8,
+        "radius_m": 11.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29709745454547,
+          47.56501156363636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1465.8,
+        "radius_m": 21.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29449289473685,
+          47.56507891052632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 6657.8,
+        "radius_m": 46.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36752801538462,
+          47.566772996153844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 16281.2,
+        "radius_m": 72.0,
+        "id": 395691258,
+        "hasDetails": true,
+        "name": "t\u0313u\u0294\u0259laltx\u02b7 Village Park and Shoreline Habitat",
+        "address": "West Marginal Way Southwest 4260, Seattle",
+        "website": "https://www.portseattle.org/places/terminal-105-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35169839,
+          47.567490879999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3357.4,
+        "radius_m": 32.7,
+        "id": 56395172,
+        "hasDetails": true,
+        "name": "Lake People (Xacua'bs) Park",
+        "website": "https://www.seattle.gov/parks/allparks/lake-people-park",
+        "wikidata": "Q6477347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29204606,
+          47.569066140000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1283.9,
+        "radius_m": 20.2,
+        "id": 56395159,
+        "hasDetails": true,
+        "address": "Courtland Place South 3656, Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28655031999999,
+          47.569795060000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4225.3,
+        "radius_m": 36.7,
+        "id": 399771534,
+        "hasDetails": true,
+        "name": "Terminal 102 Park",
+        "address": "Southwest Klickitat Way 1001, Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34898305128205,
+          47.56989850769231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4645.7,
+        "radius_m": 38.5,
+        "id": 1381831860,
+        "hasDetails": true,
+        "name": "Cheryl Chow Park",
+        "address": "35th Avenue South 3640, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/cheryl-chow-park",
+        "opening_hours": "Mo-Su 04:00-23:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.289461845,
+          47.570179215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 992.8,
+        "radius_m": 17.8,
+        "id": 56395160,
+        "hasDetails": true,
+        "name": "York Park",
+        "address": "Renton Avenue South 3650",
+        "website": "https://www.seattle.gov/parks/allparks/york-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29548092,
+          47.57049272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 184.9,
+        "radius_m": 7.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28921840000001,
+          47.57146235555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 954.0,
+        "radius_m": 17.4,
+        "id": 887310372,
+        "hasDetails": true,
+        "name": "Bridge Gear Park",
+        "address": "11th Avenue Southwest 3431, Seattle",
+        "website": "https://www.portseattle.org/places/bridge-gear-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3495436,
+          47.57190684615385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5957.8,
+        "radius_m": 43.5,
+        "id": 336930534,
+        "hasDetails": true,
+        "name": "York Playground",
+        "address": "34th Avenue South 3327, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/york-playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29083147000001,
+          47.5727851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3587.5,
+        "radius_m": 33.8,
+        "id": 238131125,
+        "hasDetails": true,
+        "name": "Terminal 18 Park",
+        "website": "https://www.portseattle.org/Parks-Public-Access/Parks/Pages/Terminal-18-Park.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35423706428571,
+          47.57285487857143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 6096.5,
+        "radius_m": 44.1,
+        "id": 54905011,
+        "hasDetails": true,
+        "name": "Hunter Boulevard",
+        "website": "https://www.seattle.gov/parks/allparks/hunter-boulevard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28498758666666,
+          47.57300616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 233.2,
+        "radius_m": 8.6,
+        "id": 56395184,
+        "hasDetails": true,
+        "name": "Sierra Place",
+        "website": "https://www.seattle.gov/parks/allparks/sierra-place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28248872857144,
+          47.57328147142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 818.5,
+        "radius_m": 16.1,
+        "id": 56395171,
+        "hasDetails": true,
+        "name": "Landing Parkway",
+        "website": "https://www.seattle.gov/parks/allparks/landing-parkway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28204215925926,
+          47.57334708888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1144.0,
+        "radius_m": 19.1,
+        "id": 54905017,
+        "hasDetails": true,
+        "name": "Horton Hill Corridor",
+        "website": "https://www.seattle.gov/parks/allparks/horton-hill-corridor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28711619999999,
+          47.57376703999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 535.6,
+        "radius_m": 13.1,
+        "id": 56395162,
+        "hasDetails": true,
+        "name": "Lakewood Triangle",
+        "address": "Cascadia Avenue South 3114, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/lakewood-triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28374776666665,
+          47.57611295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1035.9,
+        "radius_m": 18.2,
+        "id": 1382283520,
+        "hasDetails": true,
+        "name": "Trudy's Triangle",
+        "address": "South Ridgeway Place 3705, Seattle",
+        "website": "https://seattle.gov/parks/allparks/trudys-triangle",
+        "opening_hours": "Mo-Su 04:00-23:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28612563333334,
+          47.57659373333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 516.4,
+        "radius_m": 12.8,
+        "id": 66820434,
+        "hasDetails": true,
+        "name": "Stevens Place",
+        "website": "https://www.seattle.gov/parks/allparks/stevens-place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310546375,
+          47.5772096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1746.4,
+        "radius_m": 23.6,
+        "id": 67116771,
+        "hasDetails": true,
+        "name": "12th Avenue South Viewpoint",
+        "website": "https://www.seattle.gov/parks/allparks/twelfth-avenue-south-viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31745967142857,
+          47.57792574285714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 50.3,
+        "radius_m": 4.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31192141428572,
+          47.57872764285714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4072.4,
+        "radius_m": 36.0,
+        "id": 57885587,
+        "hasDetails": true,
+        "name": "Mount Claire Park",
+        "website": "https://www.seattle.gov/parks/allparks/mount-claire-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28658487058823,
+          47.580918435294116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 202.4,
+        "radius_m": 8.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28556592,
+          47.58134742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 464.9,
+        "radius_m": 12.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28632830000001,
+          47.581410219999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 660.5,
+        "radius_m": 14.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28768646,
+          47.5814861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1744.9,
+        "radius_m": 23.6,
+        "id": 51473916,
+        "hasDetails": true,
+        "name": "College Street Park",
+        "address": "30th Avenue South 2307, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/college-street-park",
+        "wikidata": "Q115683035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29455184000001,
+          47.582731620000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 18558.3,
+        "radius_m": 76.9,
+        "id": 51473915,
+        "hasDetails": true,
+        "name": "Martin Luther King Junior Civil Rights Memorial Park",
+        "address": "Martin Luther King Junior Way South 2200, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/martin-luther-king-jr-memorial-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29728941249999,
+          47.5827889625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 238.6,
+        "radius_m": 8.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28594203,
+          47.58648995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3194.6,
+        "radius_m": 31.9,
+        "id": 737732644,
+        "hasDetails": true,
+        "name": "Seattle Children's Playgarden",
+        "address": "24th Avenue South 1745, Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30167349999999,
+          47.587250749999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 214.0,
+        "radius_m": 8.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28564561666667,
+          47.58765111666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 212.6,
+        "radius_m": 8.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28541089999999,
+          47.58878575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 8851.9,
+        "radius_m": 53.1,
+        "id": 231761377,
+        "hasDetails": true,
+        "name": "Jimi Hendrix Park",
+        "website": "https://www.seattle.gov/parks/allparks/jimi-hendrix-park",
+        "wikidata": "Q16892905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30106070833334,
+          47.588935916666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2880.7,
+        "radius_m": 30.3,
+        "id": 231761354,
+        "hasDetails": true,
+        "name": "Atlantic Street Park",
+        "website": "https://www.seattle.gov/parks/allparks/atlantic-street-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30561835714286,
+          47.58913626428572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 10415.0,
+        "radius_m": 57.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30940501739131,
+          47.58978187608695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5566.5,
+        "radius_m": 42.1,
+        "id": 231761355,
+        "hasDetails": true,
+        "name": "Benvenuto Viewpoint",
+        "address": "23rd Avenue South 1401, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/benvenuto-viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3030127914634,
+          47.5899911804878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 180.5,
+        "radius_m": 7.6,
+        "id": 230598416,
+        "hasDetails": true,
+        "name": "Mt. Baker Ridge Viewpoint",
+        "address": "31st Avenue South 1411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29263064,
+          47.59003351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 27482.3,
+        "radius_m": 93.5,
+        "id": 50419098,
+        "hasDetails": true,
+        "name": "East Portal View",
+        "website": "https://www.seattle.gov/parks/allparks/east-portal-viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28738719285715,
+          47.590125064285715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 664.0,
+        "radius_m": 14.5,
+        "id": 57885591,
+        "hasDetails": true,
+        "name": "Mount Baker Ridge Viewpoint",
+        "website": "https://www.seattle.gov/parks/allparks/mt-baker-ridge-viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28933608,
+          47.5904899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 8043.1,
+        "radius_m": 50.6,
+        "id": 50419099,
+        "hasDetails": true,
+        "name": "Day Street Boat Ramp",
+        "website": "https://www.seattle.gov/parks/allparks/day-street-boat-ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28630439090908,
+          47.590533190909085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 490.3,
+        "radius_m": 12.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2866331625,
+          47.591078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 21425.3,
+        "radius_m": 82.6,
+        "id": 231761365,
+        "hasDetails": true,
+        "name": "Judge Charles M. Stokes Overlook",
+        "address": "20th Avenue South & South Judkins Street, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/judge-charles-m-stokes-overlook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30683778636363,
+          47.59163438181818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 16553.3,
+        "radius_m": 72.6,
+        "id": 26397951,
+        "hasDetails": true,
+        "name": "Daejeon Park",
+        "website": "https://www.seattle.gov/parks/allparks/daejeon-park",
+        "wikidata": "Q116263904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31212347692308,
+          47.59210195897436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 268.5,
+        "radius_m": 9.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28687227,
+          47.59224656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 20884.6,
+        "radius_m": 81.5,
+        "id": 56629389,
+        "hasDetails": true,
+        "name": "Lewis Park",
+        "website": "https://www.seattle.gov/parks/allparks/lewis-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31444625294117,
+          47.59282122352941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 41996.1,
+        "radius_m": 115.6,
+        "id": 26398092,
+        "hasDetails": true,
+        "name": "Dr. Jose Rizal Park",
+        "address": "12th Avenue South 1007, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/jose-rizal-park",
+        "opening_hours": "Mo-Su 04:00-23:30",
+        "wikidata": "Q7339078",
+        "wikipedia": "en:Dr. Jose Rizal Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31813172777778,
+          47.593389816666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 148.5,
+        "radius_m": 6.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28734835714285,
+          47.59339025714286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 7399.1,
+        "radius_m": 48.5,
+        "id": 66820433,
+        "hasDetails": true,
+        "name": "Sturgus Park",
+        "website": "https://www.seattle.gov/parks/allparks/sturgus-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31472014242424,
+          47.59431784848485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 271.6,
+        "radius_m": 9.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28714655,
+          47.59458285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 272.9,
+        "radius_m": 9.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28685808333334,
+          47.5957478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 822.7,
+        "radius_m": 16.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31871277999998,
+          47.59610778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 890.1,
+        "radius_m": 16.8,
+        "id": 26397758,
+        "hasDetails": true,
+        "name": "Donnie Chin International Children\u2019s Park",
+        "website": "https://www.seattle.gov/parks/allparks/donnie-chin-international-childrens-park",
+        "wikidata": "Q63476316",
+        "wikipedia": "en:Donnie Chin International Children's Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32348655999999,
+          47.596914240000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 277.1,
+        "radius_m": 9.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28639134999999,
+          47.59793248333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2582.5,
+        "radius_m": 28.7,
+        "id": 26397746,
+        "hasDetails": true,
+        "name": "Hing Hay Park",
+        "address": "Maynard Avenue South 423, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/hing-hay-park",
+        "wikidata": "Q14713670"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32602191176471,
+          47.598553288235294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 78928.7,
+        "radius_m": 158.5,
+        "id": 52135055,
+        "hasDetails": true,
+        "name": "Frink Park",
+        "wikidata": "Q5504617",
+        "wikipedia": "en:Frink Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29053796923078,
+          47.59860256410256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1077.2,
+        "radius_m": 18.5,
+        "id": 1308037479,
+        "hasDetails": true,
+        "name": "Hoa Mai Park",
+        "address": "South King Street 1224, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/hoa-mai-park",
+        "opening_hours": "04:00-23:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31597775714286,
+          47.598708457142855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 42.9,
+        "radius_m": 3.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28588892857144,
+          47.599087614285715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 451.6,
+        "radius_m": 12.0,
+        "id": 69153438,
+        "hasDetails": true,
+        "name": "Union Station Square",
+        "website": "https://www.seattle.gov/parks/allparks/union-station-square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33011269,
+          47.59935853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1983.2,
+        "radius_m": 25.1,
+        "id": 161084252,
+        "hasDetails": true,
+        "name": "Flo Ware Park",
+        "website": "https://www.seattle.gov/parks/allparks/flo-ware-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29596264444444,
+          47.59950951111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 252.2,
+        "radius_m": 9.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2855206,
+          47.60012742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 603.5,
+        "radius_m": 13.9,
+        "id": 57883614,
+        "hasDetails": true,
+        "name": "Waterfall Garden",
+        "opening_hours": "08:00-17:45",
+        "wikidata": "Q28153990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3320171,
+          47.60019218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 7596.6,
+        "radius_m": 49.2,
+        "id": 161084248,
+        "hasDetails": true,
+        "name": "Dr. Blanche Lavizzo Park",
+        "address": "South Jackson Street 2100, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/blanche-lavizzo-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30420411363637,
+          47.60020939090909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4953.2,
+        "radius_m": 39.7,
+        "id": 174692555,
+        "hasDetails": true,
+        "name": "Occidental Square",
+        "address": "South Washington Street 117, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/occidental-square",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "wikidata": "Q7075692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33301215,
+          47.60046838333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 9306.5,
+        "radius_m": 54.4,
+        "id": 25807525,
+        "hasDetails": true,
+        "name": "Wisteria Park",
+        "wikidata": "Q119459067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3124698625,
+          47.6004720875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3189977,
+          47.6006971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 15952.6,
+        "radius_m": 71.3,
+        "id": 25807866,
+        "hasDetails": true,
+        "name": "Pratt Park",
+        "website": "https://www.seattle.gov/parks/allparks/pratt-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30776117142857,
+          47.600835364285714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4671.1,
+        "radius_m": 38.6,
+        "id": 25793222,
+        "hasDetails": true,
+        "name": "Kobe Terrace Park",
+        "website": "https://www.seattle.gov/parks/allparks/kobe-terrace",
+        "wikidata": "Q6424338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.324830032,
+          47.600866016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 216.1,
+        "radius_m": 8.3,
+        "id": 75010395,
+        "hasDetails": true,
+        "name": "Washington Street Boat Landing",
+        "address": "Alaskan Way South 199, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/washington-street-boat-landing",
+        "wikidata": "Q116424420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33626311666667,
+          47.600935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 10422.1,
+        "radius_m": 57.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3217663392857,
+          47.601279514285714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 188.4,
+        "radius_m": 7.7,
+        "id": 237315578,
+        "hasDetails": true,
+        "name": "Prefontaine Place",
+        "website": "https://www.seattle.gov/parks/allparks/prefontaine-place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33086427142858,
+          47.60183824285714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1471.4,
+        "radius_m": 21.6,
+        "id": 52781879,
+        "hasDetails": true,
+        "name": "Pioneer Square",
+        "website": "https://www.seattle.gov/parks/allparks/pioneer-square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33391562307693,
+          47.601940376923075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1517.9,
+        "radius_m": 22.0,
+        "id": 521395923,
+        "hasDetails": true,
+        "name": "Yesler Terrace Pocket Park",
+        "opening_hours": "04:00-23:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3201683,
+          47.60250522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 9354.6,
+        "radius_m": 54.6,
+        "id": 58363993,
+        "hasDetails": true,
+        "name": "Peppi's Playground",
+        "website": "https://www.seattle.gov/parks/allparks/peppis-playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29039542666666,
+          47.60279410666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 334.2,
+        "radius_m": 10.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31927085,
+          47.602868799999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3318.9,
+        "radius_m": 32.5,
+        "id": 66649039,
+        "hasDetails": true,
+        "name": "Spruce Street Mini Park",
+        "website": "https://www.seattle.gov/parks/allparks/spruce-street-mini-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30469588000001,
+          47.60304306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 505.4,
+        "radius_m": 12.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32911742857142,
+          47.60321525714286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3273.1,
+        "radius_m": 32.3,
+        "id": 69200843,
+        "hasDetails": true,
+        "name": "View Park",
+        "address": "Alder Street 779, Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32563384,
+          47.60387178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 41747.0,
+        "radius_m": 115.3,
+        "id": 1334956995,
+        "hasDetails": true,
+        "name": "Waterfront Park",
+        "address": "Alaskan Way 1401, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/waterfront-park",
+        "opening_hours": "07:00-22:00",
+        "wikidata": "Q7974088",
+        "wikipedia": "en:Waterfront Park (Seattle)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33900164205608,
+          47.6041230771028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 9201.5,
+        "radius_m": 54.1,
+        "id": 56629230,
+        "hasDetails": true,
+        "name": "Leschi-Lake Dell Natural Area",
+        "website": "https://www.seattle.gov/parks/allparks/leschi-lake-dell-natural-area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28730755555554,
+          47.60493777222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 424.2,
+        "radius_m": 11.6,
+        "id": 50536572,
+        "hasDetails": true,
+        "name": "Boren Place",
+        "address": "Broadway 321, Seattle",
+        "website": "https://seattle.gov/parks/park_detail.asp?id=348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32103615,
+          47.60512165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2954.4,
+        "radius_m": 30.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31495819999999,
+          47.605276257142854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 16924.0,
+        "radius_m": 73.4,
+        "id": 52324870,
+        "hasDetails": true,
+        "name": "Powell Barnett Park",
+        "address": "Martin Luther King Junior Way 352, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/powell-barnett-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29622010000001,
+          47.605498366666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 13992.3,
+        "radius_m": 66.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31736235999999,
+          47.60696476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 29414.3,
+        "radius_m": 96.8,
+        "id": 52201954,
+        "hasDetails": true,
+        "name": "Garfield Playfield",
+        "website": "https://www.seattle.gov/parks/allparks/garfield-playfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30132567142857,
+          47.60723022857143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 695.0,
+        "radius_m": 14.9,
+        "id": 1036639868,
+        "hasDetails": true,
+        "name": "12th Ave Square Park",
+        "address": "12th Avenue 564, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/12th-ave-square-park",
+        "opening_hours": "Mo-Su 04:00-23:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.316460575,
+          47.6073265375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1693.1,
+        "radius_m": 23.2,
+        "id": 52324869,
+        "hasDetails": true,
+        "name": "Gerber Park",
+        "address": "Martin Luther King Junior Way 575, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/gerber-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2966459,
+          47.6076498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3511.9,
+        "radius_m": 33.4,
+        "id": 57391649,
+        "hasDetails": true,
+        "name": "Pier 62",
+        "address": "Alaskan Way 1951, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/pier-62",
+        "opening_hours": "07:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34451525000001,
+          47.608444891666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1725.8,
+        "radius_m": 23.4,
+        "id": 52128533,
+        "hasDetails": true,
+        "name": "Firehouse Mini Park",
+        "website": "https://www.seattle.gov/parks/allparks/firehouse-mini-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30854308571429,
+          47.60845477142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1290.9,
+        "radius_m": 20.3,
+        "id": 59037675,
+        "hasDetails": true,
+        "name": "Nora's Woods",
+        "website": "https://www.seattle.gov/parks/allparks/noras-woods",
+        "wikidata": "Q18354271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29464264,
+          47.608794919999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 811.5,
+        "radius_m": 16.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33035699999999,
+          47.60883191111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 382.2,
+        "radius_m": 11.0,
+        "id": 234053991,
+        "hasDetails": true,
+        "name": "Boylston Place",
+        "website": "https://www.seattle.gov/parks/allparks/boylston-place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32104403999999,
+          47.609909900000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3265.0,
+        "radius_m": 32.2,
+        "id": 14026690,
+        "hasDetails": true,
+        "name": "Victor Steinbrueck Park",
+        "address": "Western Avenue 2001, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/victor-steinbrueck-park",
+        "wikidata": "Q7926370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34375888888889,
+          47.610116955555554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2443.2,
+        "radius_m": 27.9,
+        "id": 8097291,
+        "hasDetails": true,
+        "name": "Westlake Park",
+        "website": "https://www.seattle.gov/parks/allparks/westlake-park",
+        "opening_hours": "06:00-22:00",
+        "wikidata": "Q7988988",
+        "wikipedia": "en:Westlake Park (Seattle)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336987575,
+          47.610986385000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 7814.4,
+        "radius_m": 49.9,
+        "id": 30199408,
+        "hasDetails": true,
+        "name": "Madrona Playground",
+        "address": "East Spring Street 3211, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/madrona-playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28998612000001,
+          47.61111696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1662.4,
+        "radius_m": 23.0,
+        "id": 49734706,
+        "hasDetails": true,
+        "name": "Spring Street Mini Park",
+        "website": "https://www.seattle.gov/parks/allparks/spring-street-mini-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31246672,
+          47.61176329999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 913.7,
+        "radius_m": 17.1,
+        "id": 52128532,
+        "hasDetails": true,
+        "name": "First Hill Park",
+        "address": "University Street 1201, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/first-hill-park",
+        "opening_hours": "04:00-23:30",
+        "wikidata": "Q111146019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32562834285714,
+          47.61189067619048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 229.0,
+        "radius_m": 8.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32377122352942,
+          47.61288471176471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1498.4,
+        "radius_m": 21.8,
+        "id": 57883629,
+        "hasDetails": true,
+        "name": "McGraw Square",
+        "address": "Westlake Avenue 1801, Seattle",
+        "wikidata": "Q21016048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33741274583333,
+          47.61303001875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 286.4,
+        "radius_m": 9.5,
+        "id": 75978288,
+        "hasDetails": true,
+        "name": "Westlake Square",
+        "website": "https://www.seattle.gov/parks/allparks/westlake-square",
+        "wikidata": "Q16903149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33729787142856,
+          47.61361592142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4004.5,
+        "radius_m": 35.7,
+        "id": 49734707,
+        "hasDetails": true,
+        "name": "T. T. Minor Playground",
+        "website": "https://www.seattle.gov/parks/allparks/tt-minor-playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3105057,
+          47.6137387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1602.0,
+        "radius_m": 22.6,
+        "id": 50329129,
+        "hasDetails": true,
+        "name": "Belltown Cottage Park",
+        "address": "Elliott Avenue 2512, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/belltown-cottage-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3509785,
+          47.61395844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 847.2,
+        "radius_m": 16.4,
+        "id": 57883627,
+        "hasDetails": true,
+        "name": "McGilvra Place",
+        "website": "https://www.seattle.gov/parks/allparks/mcgilvra-place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31299028333332,
+          47.61420398333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2458.9,
+        "radius_m": 28.0,
+        "id": 50275578,
+        "hasDetails": true,
+        "name": "Alvin Larkins Park",
+        "address": "35th Avenue 1501, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/alvin-larkins-park",
+        "wikidata": "Q4738153",
+        "wikipedia": "en:Alvin Larkins Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28871878333332,
+          47.61433218333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4184.9,
+        "radius_m": 36.5,
+        "id": 460084962,
+        "hasDetails": true,
+        "name": "Bell Street Park",
+        "wikidata": "Q19866508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3452012,
+          47.614362650000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 492.5,
+        "radius_m": 12.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28112078,
+          47.61520046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 701.9,
+        "radius_m": 14.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28569015714287,
+          47.61524752857143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 860.2,
+        "radius_m": 16.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28438223333335,
+          47.6152545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 647.8,
+        "radius_m": 14.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28490821666666,
+          47.615259949999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 392.4,
+        "radius_m": 11.2,
+        "id": 215647949,
+        "hasDetails": true,
+        "name": "Cayton Corner Park",
+        "website": "https://www.seattle.gov/parks/projects/cayton_corner/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30769235,
+          47.61641415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 52.8,
+        "radius_m": 4.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28021176666668,
+          47.616458783333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1047.5,
+        "radius_m": 18.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33791097999999,
+          47.61691394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 45525.3,
+        "radius_m": 120.4,
+        "id": 158721036,
+        "hasDetails": true,
+        "name": "Cal Anderson Park",
+        "address": "11th Avenue 1635, Seattle",
+        "website": "http://www.seattle.gov/parks/park_detail.asp?id=3102",
+        "wikidata": "Q12054012",
+        "wikipedia": "en:Cal Anderson Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31894881666666,
+          47.61703943333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1398.0,
+        "radius_m": 21.1,
+        "id": 60007122,
+        "hasDetails": true,
+        "name": "Plum Tree Park",
+        "website": "https://www.seattle.gov/parks/allparks/plum-tree-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2990670857143,
+          47.61708407142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 660.1,
+        "radius_m": 14.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3057795,
+          47.61726254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2101.5,
+        "radius_m": 25.9,
+        "id": 54905018,
+        "hasDetails": true,
+        "name": "Homer Harris Park",
+        "website": "https://www.seattle.gov/parks/allparks/homer-harris-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30097177142856,
+          47.61743092857143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2246.7,
+        "radius_m": 26.7,
+        "id": 54905008,
+        "hasDetails": true,
+        "name": "Howell Park",
+        "address": "East Howell Street 1740",
+        "website": "https://www.seattle.gov/parks/allparks/howell-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28056556666667,
+          47.61754523333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1628.0,
+        "radius_m": 22.8,
+        "id": 159118102,
+        "hasDetails": true,
+        "name": "Seven Hills Park",
+        "address": "East Howell Street 1514, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/seven-hills-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31183919411764,
+          47.61789267058823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1925.2,
+        "radius_m": 24.8,
+        "id": 60713727,
+        "hasDetails": true,
+        "name": "William Grose Park",
+        "address": "30th Avenue 1814, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/william-grose-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2929003,
+          47.618035157142856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 550.9,
+        "radius_m": 13.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34620836666666,
+          47.61822894444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1293.7,
+        "radius_m": 20.3,
+        "id": 51809157,
+        "hasDetails": true,
+        "name": "Denny Blaine Lake Park",
+        "website": "https://www.seattle.gov/parks/allparks/denny-blaine-lake-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.284881075,
+          47.6183503625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 463.6,
+        "radius_m": 12.1,
+        "id": 101677291,
+        "hasDetails": true,
+        "name": "Tilikum Place",
+        "website": "https://www.seattle.gov/parks/allparks/tilikum-place",
+        "wikidata": "Q7802152",
+        "wikipedia": "en:Tilikum Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34746708571429,
+          47.61836112857143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 445.1,
+        "radius_m": 11.9,
+        "id": 239900326,
+        "hasDetails": true,
+        "address": "Westlake Avenue 2211, Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33881734444445,
+          47.618395155555554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 7582.2,
+        "radius_m": 49.1,
+        "id": 51809160,
+        "hasDetails": true,
+        "name": "Viretta Park",
+        "address": "Lake Washington Boulevard East 151, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/viretta-park",
+        "wikidata": "Q7933704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28198797333333,
+          47.618607706666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 187.8,
+        "radius_m": 7.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32529618333335,
+          47.61863458888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 211.1,
+        "radius_m": 8.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31355323,
+          47.61878123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 18138.5,
+        "radius_m": 76.0,
+        "id": 25788265,
+        "hasDetails": true,
+        "name": "Denny Park",
+        "address": "Dexter Avenue North 100, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/denny-park",
+        "opening_hours": "04:00-23:30",
+        "wikidata": "Q5259218",
+        "wikipedia": "en:Denny Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34119412222223,
+          47.618965422222225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1724.5,
+        "radius_m": 23.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332607075,
+          47.619236900000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 172.3,
+        "radius_m": 7.4,
+        "id": 294906444,
+        "hasDetails": true,
+        "name": "Stevens Place",
+        "website": "https://www.seattle.gov/parks/allparks/stevens-triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.283558,
+          47.61940495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1682.9,
+        "radius_m": 23.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3348747,
+          47.61941862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 10969.2,
+        "radius_m": 59.1,
+        "id": 52969833,
+        "hasDetails": true,
+        "name": "Harrison Ridge Greenbelt",
+        "address": "32nd Avenue East 138, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/harrison-ridge-greenbelt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29058289642856,
+          47.61967201071428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 904.6,
+        "radius_m": 17.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31332537499999,
+          47.61977559166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1097.7,
+        "radius_m": 18.7,
+        "id": 157446923,
+        "hasDetails": true,
+        "name": "Summit Slope Park",
+        "address": "Summit Avenue East 200, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/summit-slope-park",
+        "opening_hours": "04:00-23:30",
+        "wikidata": "Q122760323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32497967307692,
+          47.61981475769231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 560.8,
+        "radius_m": 13.4,
+        "id": 49749535,
+        "hasDetails": true,
+        "name": "Miller Triangle",
+        "website": "https://www.seattle.gov/parks/allparks/miller-triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.305772175,
+          47.620349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1005.4,
+        "radius_m": 17.9,
+        "id": 171725296,
+        "hasDetails": true,
+        "name": "Thomas Street Mini Park",
+        "address": "Bellevue Avenue East 306, Seattle",
+        "website": "https://seattle.gov/parks/park_detail.asp?id=386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32636862222222,
+          47.62097808888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 31116.9,
+        "radius_m": 99.5,
+        "id": 49749536,
+        "hasDetails": true,
+        "name": "Miller Playfield",
+        "address": "19th Avenue East 330, Seattle",
+        "website": "http://www.seattle.gov/parks/park_detail.asp?id=373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30613471818182,
+          47.621509290909096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5925.0,
+        "radius_m": 43.4,
+        "id": 25790355,
+        "hasDetails": true,
+        "name": "Cascade Playground",
+        "website": "https://www.seattle.gov/parks/allparks/cascade-playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33249805000001,
+          47.621680533333326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 22736.0,
+        "radius_m": 85.1,
+        "id": 52969836,
+        "hasDetails": true,
+        "name": "Lakeview Park",
+        "website": "https://www.seattle.gov/parks/allparks/lakeview-park",
+        "wikidata": "Q14713787"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28471635714286,
+          47.62203596190476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 302382.0,
+        "radius_m": 310.2,
+        "id": 4755066,
+        "hasDetails": true,
+        "name": "Seattle Center",
+        "website": "https://www.seattlecenter.com/",
+        "wikidata": "Q3044487",
+        "wikipedia": "en:Seattle Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3518057032258,
+          47.62226647419355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 993.1,
+        "radius_m": 17.8,
+        "id": 305635843,
+        "hasDetails": true,
+        "name": "Julia Lee's Park",
+        "website": "https://www.seattle.gov/parks/find/parks/julia-lees-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2965549875,
+          47.6223370625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 412.2,
+        "radius_m": 11.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28266342857144,
+          47.62264508571429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1649.9,
+        "radius_m": 22.9,
+        "id": 60007123,
+        "hasDetails": true,
+        "name": "Prentis I. Frazier Park",
+        "website": "https://www.seattle.gov/parks/allparks/prentis-i-frazier-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3015804857143,
+          47.62295394285714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1186.1,
+        "radius_m": 19.4,
+        "id": 397508979,
+        "hasDetails": true,
+        "name": "Broadway Hill Park",
+        "address": "Federal Avenue East 500, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/broadway-hill-park",
+        "opening_hours": "04:00-23:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31852666,
+          47.62333784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1807.1,
+        "radius_m": 24.0,
+        "id": 66218128,
+        "hasDetails": true,
+        "name": "Tashkent Park",
+        "address": "Boylston Avenue East 515, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/tashkent-park",
+        "wikidata": "Q122688056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32348726666666,
+          47.62382972222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 548.4,
+        "radius_m": 13.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.364264675,
+          47.62460218333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3086.1,
+        "radius_m": 31.3,
+        "id": 295020955,
+        "hasDetails": true,
+        "name": "3001 E Madison Park",
+        "address": "East Madison Street 3001, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/3001-e-madison-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29334311764705,
+          47.62502963529412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1212.6,
+        "radius_m": 19.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28218162727272,
+          47.62538046363636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 995.1,
+        "radius_m": 17.8,
+        "id": 51805182,
+        "hasDetails": true,
+        "name": "Counterbalance Park",
+        "website": "https://www.seattle.gov/parks/allparks/counterbalance-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35637979999998,
+          47.62571734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 661.6,
+        "radius_m": 14.5,
+        "id": 56178744,
+        "hasDetails": true,
+        "name": "Kinnear Place",
+        "address": "Queen Anne Avenue North 799, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/kinnear-place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357213,
+          47.626212216666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 251.2,
+        "radius_m": 8.9,
+        "id": 234054122,
+        "hasDetails": true,
+        "name": "Blaine Place",
+        "website": "https://www.seattle.gov/parks/allparks/blaine-place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36415160454546,
+          47.6267973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1088.9,
+        "radius_m": 18.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33437372857144,
+          47.62696866428571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4566.7,
+        "radius_m": 38.1,
+        "id": 50329137,
+        "hasDetails": true,
+        "name": "Bellevue Place",
+        "website": "https://www.seattle.gov/parks/allparks/bellevue-place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32774306666667,
+          47.62702792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 56555.7,
+        "radius_m": 134.2,
+        "id": 49321099,
+        "hasDetails": true,
+        "name": "Kinnear Park",
+        "website": "https://www.seattle.gov/parks/allparks/kinnear-park",
+        "wikidata": "Q6414047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36771536500001,
+          47.62721854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1414.8,
+        "radius_m": 21.2,
+        "id": 53371551,
+        "hasDetails": true,
+        "name": "Ward Springs Park",
+        "website": "https://www.seattle.gov/parks/find/parks/ward-springs-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34918434000001,
+          47.62779838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 194.0,
+        "radius_m": 7.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32907211666667,
+          47.62816998333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1687.8,
+        "radius_m": 23.2,
+        "id": 49734703,
+        "hasDetails": true,
+        "name": "Franklin Place",
+        "address": "2nd Avenue West 1025, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/bayview-kinnear-(lower-kerry-park)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3595112,
+          47.62849432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 932.0,
+        "radius_m": 17.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27910365,
+          47.6285203875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3086.9,
+        "radius_m": 31.3,
+        "id": 50329131,
+        "hasDetails": true,
+        "name": "Bayview-Kinnear Park",
+        "website": "https://www.seattle.gov/parks/allparks/bayview-kinnear-(lower-kerry-park)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36015944,
+          47.62903602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 580.2,
+        "radius_m": 13.6,
+        "id": 295867553,
+        "hasDetails": true,
+        "name": "Lakeview Place",
+        "address": "Lakeview Boulevard East 1024, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/lakeview-place",
+        "wikidata": "Q16893950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32566960000001,
+          47.62931071666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3229.1,
+        "radius_m": 32.1,
+        "id": 49734702,
+        "hasDetails": true,
+        "name": "Kerry Park",
+        "address": "West Highland Drive 211, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/bayview-kinnear-(lower-kerry-park)",
+        "wikidata": "Q6394618",
+        "wikipedia": "en:Kerry Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35995318333333,
+          47.62936405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2907.7,
+        "radius_m": 30.4,
+        "id": 57637326,
+        "hasDetails": true,
+        "name": "Marshall Park",
+        "website": "https://www.seattle.gov/parks/allparks/marshall-park",
+        "wikidata": "Q14713805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36687298571428,
+          47.6295526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 177.4,
+        "radius_m": 7.5,
+        "id": 333892011,
+        "hasDetails": true,
+        "name": "Highland Place",
+        "website": "https://www.seattle.gov/parks/allparks/highland-place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35549188571429,
+          47.62965082857143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 466.0,
+        "radius_m": 12.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27849021111109,
+          47.62973158888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1596.9,
+        "radius_m": 22.5,
+        "id": 57637336,
+        "hasDetails": true,
+        "name": "Parsons Gardens",
+        "address": "Willard Avenue West 1211, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/parsons-gardens",
+        "wikidata": "Q24191211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36615409999999,
+          47.62981722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 216.6,
+        "radius_m": 8.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35293908999999,
+          47.629835379999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 6774.9,
+        "radius_m": 46.4,
+        "id": 50419095,
+        "hasDetails": true,
+        "name": "Bhy Kracke Park",
+        "address": "5th Avenue North 1215, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/bhy-kracke-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34830456,
+          47.630374904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 192258.3,
+        "radius_m": 247.4,
+        "id": 13800188,
+        "hasDetails": true,
+        "name": "Volunteer Park",
+        "address": "15th Avenue East 1247, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/volunteer-park",
+        "opening_hours": "06:00-22:00",
+        "wikidata": "Q7941040",
+        "wikipedia": "en:Volunteer Park (Seattle)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31690846,
+          47.63107503333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 11490.9,
+        "radius_m": 60.5,
+        "id": 295867977,
+        "hasDetails": true,
+        "name": "Saint Mark's Greenbelt",
+        "website": "https://www.seattle.gov/parks/allparks/st-marks-greenbelt",
+        "wikidata": "Q7589959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3216827909091,
+          47.63112081818181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 479.9,
+        "radius_m": 12.4,
+        "id": 294898046,
+        "hasDetails": true,
+        "name": "Lambert Place",
+        "website": "https://www.seattle.gov/parks/history/HydePl.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28391385,
+          47.632076600000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 754.2,
+        "radius_m": 15.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28449237,
+          47.63218719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 404.7,
+        "radius_m": 11.3,
+        "id": 294897971,
+        "hasDetails": true,
+        "name": "Hyde Place",
+        "website": "https://www.seattle.gov/parks/history/HydePl.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28290637058824,
+          47.63229573529412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3631.2,
+        "radius_m": 34.0,
+        "id": 57386820,
+        "hasDetails": true,
+        "name": "Trolley Hill Park",
+        "website": "https://www.seattle.gov/parks/allparks/trolley-hill-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34711134,
+          47.6350487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 488.4,
+        "radius_m": 12.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3012935,
+          47.63505528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 34929.6,
+        "radius_m": 105.4,
+        "id": 32144206,
+        "hasDetails": true,
+        "name": "I-5 Colonnade Park",
+        "website": "https://www.seattle.gov/parks/allparks/i-5-colonnade",
+        "wikidata": "Q5967559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32324772173914,
+          47.63508312173913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 426.3,
+        "radius_m": 11.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30183316,
+          47.63513952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 27979.0,
+        "radius_m": 94.4,
+        "id": 50536573,
+        "hasDetails": true,
+        "name": "Louisa Boren Park",
+        "address": "15th Avenue East 1606, Seattle",
+        "website": "https://seattle.gov/parks/allparks/boren-park",
+        "wikidata": "Q6688498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31207912173913,
+          47.63518155217391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 22020.4,
+        "radius_m": 83.7,
+        "id": 49734704,
+        "hasDetails": true,
+        "name": "West Queen Anne Playfield",
+        "address": "West Blaine Street 150, Seattle",
+        "website": "https://www.seattle.gov/Parks/park_detail.asp?ID=330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35991914166668,
+          47.63569343333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5690.9,
+        "radius_m": 42.6,
+        "id": 47570199,
+        "hasDetails": true,
+        "name": "East Queen Anne Playfield",
+        "website": "https://www.seattle.gov/parks/allparks/east-queen-anne-playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35387098571428,
+          47.636185985714285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3082.7,
+        "radius_m": 31.3,
+        "id": 62207148,
+        "hasDetails": true,
+        "name": "MacLean Park",
+        "address": "Taylor Avenue North 1922, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/maclean-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34535842,
+          47.636365739999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 11597.7,
+        "radius_m": 60.8,
+        "id": 52324868,
+        "hasDetails": true,
+        "name": "Grand Army of the Republic Cemetery",
+        "website": "https://www.seattle.gov/parks/allparks/grand-army-of-the-republic-cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31626349090908,
+          47.63642689090909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 6923.2,
+        "radius_m": 46.9,
+        "id": 338550574,
+        "hasDetails": true,
+        "name": "12th West and West Howe Park",
+        "address": "West Howe Street 1200, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/12th-west-and-west-howe-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37339092,
+          47.63658158666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 673.9,
+        "radius_m": 14.6,
+        "id": 49734705,
+        "hasDetails": true,
+        "name": "Terry Pettus Park",
+        "website": "https://www.seattle.gov/parks/allparks/terry-pettus-park",
+        "wikidata": "Q7704910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32933002727273,
+          47.636713727272735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 206.1,
+        "radius_m": 8.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32950613333334,
+          47.638285950000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 306.9,
+        "radius_m": 9.9,
+        "id": 56241429,
+        "hasDetails": true,
+        "name": "Lynn Street Park",
+        "website": "https://www.seattle.gov/parks/allparks/lynn-street-mini-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32960177777778,
+          47.63978388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5421.1,
+        "radius_m": 41.5,
+        "id": 14210847,
+        "hasDetails": true,
+        "name": "Thomas C. Wales Park",
+        "address": "6th Avenue North 2401, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/thomas-c-wales-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34503833333333,
+          47.640234783333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1594.7,
+        "radius_m": 22.5,
+        "id": 66649040,
+        "hasDetails": true,
+        "name": "Soundview Terrace",
+        "address": "11th Avenue West 2500, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/soundview-terrace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37150788461538,
+          47.64090024615385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 478.1,
+        "radius_m": 12.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34228476666665,
+          47.641107266666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 646.1,
+        "radius_m": 14.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32958835263157,
+          47.64201015263158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 52033.4,
+        "radius_m": 128.7,
+        "id": 40833029,
+        "hasDetails": true,
+        "name": "Montlake Playfield",
+        "website": "https://www.seattle.gov/parks/allparks/montlake-playfield",
+        "wikidata": "Q6906051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3093374483871,
+          47.64211438064516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 201.2,
+        "radius_m": 8.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.305658275,
+          47.642636100000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 8649.2,
+        "radius_m": 52.5,
+        "id": 40819484,
+        "hasDetails": true,
+        "name": "Rogers Playground",
+        "address": "Eastlake Avenue East 2516, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/rogers-playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32529830000001,
+          47.64271532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 262.9,
+        "radius_m": 9.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2852494625,
+          47.642737125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 675.1,
+        "radius_m": 14.7,
+        "id": 50321788,
+        "hasDetails": true,
+        "name": "Bagley Viewpoint",
+        "address": "Delmar Drive East 2548",
+        "website": "https://www.seattle.gov/parks/allparks/bagley-viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31845205,
+          47.643050200000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4157.3,
+        "radius_m": 36.4,
+        "id": 52563647,
+        "hasDetails": true,
+        "name": "Mayfair Park",
+        "address": "2nd Avenue North 2600, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/mayfair-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35338906,
+          47.64313163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 357.9,
+        "radius_m": 10.7,
+        "id": 445746568,
+        "hasDetails": true,
+        "name": "Roanoke Street Mini Park",
+        "address": "East Roanoke Street 1, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/roanoke-street-mini-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32887657777776,
+          47.64316231111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 233.1,
+        "radius_m": 8.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32860494285714,
+          47.6433525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 9104.1,
+        "radius_m": 53.8,
+        "id": 13801411,
+        "hasDetails": true,
+        "name": "Roanoke Park",
+        "address": "East Roanoke Street 950, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/roanoke-park",
+        "wikidata": "Q7339791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32030689444446,
+          47.64387333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 37033.3,
+        "radius_m": 108.6,
+        "id": 557154129,
+        "hasDetails": true,
+        "name": "David Rodgers Park",
+        "address": "1st Avenue West 2800, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/david-rodgers-park",
+        "opening_hours": "Mo-Su 04:00-23:30",
+        "wikidata": "Q49553136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35956296666667,
+          47.644243144444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 146.1,
+        "radius_m": 6.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31648201428571,
+          47.6444668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 314.5,
+        "radius_m": 10.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32729581000001,
+          47.64562153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 211.0,
+        "radius_m": 8.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31630458,
+          47.64563246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 13485.2,
+        "radius_m": 65.5,
+        "id": 40831086,
+        "hasDetails": true,
+        "name": "East Montlake Park",
+        "address": "East Park Drive East 2802, Seattle",
+        "website": "https://www.seattle.gov/parks/find/parks/east-montlake-park",
+        "opening_hours": "Mo-Su 22:00-05:00+",
+        "wikidata": "Q5329008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30020038269231,
+          47.64612240961538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 11347.3,
+        "radius_m": 60.1,
+        "id": 40833028,
+        "hasDetails": true,
+        "name": "West Montlake Park",
+        "website": "https://www.seattle.gov/parks/allparks/west-montlake-park",
+        "wikidata": "Q7986019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30944111785713,
+          47.64612400714286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 209.7,
+        "radius_m": 8.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31632534,
+          47.646935739999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 68.1,
+        "radius_m": 4.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30089572857143,
+          47.64696525714286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 921.2,
+        "radius_m": 17.1,
+        "id": 75002679,
+        "hasDetails": true,
+        "name": "Wallingford Steps",
+        "website": "https://www.seattle.gov/parks/allparks/wallingford-steps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3364067,
+          47.6471640875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 368.3,
+        "radius_m": 10.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33982504666666,
+          47.64735624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5859.3,
+        "radius_m": 43.2,
+        "id": 13515109,
+        "hasDetails": true,
+        "name": "Fairview Park",
+        "address": "Fairview Avenue East 2900, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/fairview-park",
+        "wikidata": "Q5430844",
+        "wikipedia": "en:Fairview Park (Seattle)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32493943,
+          47.64757994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 854.7,
+        "radius_m": 16.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33263554444446,
+          47.64760303333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 322.3,
+        "radius_m": 10.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34261394,
+          47.6480169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1178.4,
+        "radius_m": 19.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35305641666667,
+          47.64841795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 90.6,
+        "radius_m": 5.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3467826,
+          47.6486833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 191.3,
+        "radius_m": 7.8,
+        "id": 293941439,
+        "hasDetails": true,
+        "name": "East Allison Street End",
+        "website": "https://www.seattle.gov/transportation/projects-and-programs/programs/public-space-management-programs/shoreline-street-ends#SSE_Program_Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32494173888888,
+          47.6492552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1122.5,
+        "radius_m": 18.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331542825,
+          47.6492743625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1240.9,
+        "radius_m": 19.9,
+        "id": 187681267,
+        "hasDetails": true,
+        "name": "Carr Park",
+        "address": "Carr Place North 3500, Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33911330000001,
+          47.6494275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 70.1,
+        "radius_m": 4.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27830195714286,
+          47.64960988571429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1110.8,
+        "radius_m": 18.8,
+        "id": 49232846,
+        "hasDetails": true,
+        "name": "A. B. Ernst Park",
+        "address": "North 35th Street 723, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/a-b-ernst-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34876253333334,
+          47.65004271666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 855.3,
+        "radius_m": 16.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3605003,
+          47.65056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 968.0,
+        "radius_m": 17.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3236528,
+          47.65064705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 12011.5,
+        "radius_m": 61.8,
+        "id": 8097422,
+        "hasDetails": true,
+        "name": "Fremont Canal Park",
+        "address": "Northwest Canal Street 199, Seattle",
+        "website": "https://www.seattle.gov/parks/allparks/fremont-canal-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35803660540542,
+          47.65196858918919
+        ]
+      }
+    }
+  ]
+}

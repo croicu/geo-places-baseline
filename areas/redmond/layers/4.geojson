@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1154157264,
+        "hasDetails": true,
+        "name": "Movies at Marymoor (Summer Only)",
+        "amenity": "cinema",
+        "website": "http://www.moviesatmarymoor.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1104065,
+          47.6631231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4792797661,
+        "hasDetails": true,
+        "name": "SecondStory Repertory",
+        "amenity": "theatre",
+        "address": "166th Avenue Northeast 7325, Redmond",
+        "website": "https://secondstoryrep.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.119732,
+          47.6700875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3812153314,
+        "hasDetails": true,
+        "name": "IPIC Theaters",
+        "amenity": "cinema",
+        "address": "164th Avenue Northeast 7330, Redmond",
+        "website": "https://www.ipic.com/redmond-wa/location",
+        "wikidata": "Q43305810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1210852,
+          47.6703078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11292017327,
+        "hasDetails": true,
+        "name": "Sweety Saradha Arts",
+        "amenity": "arts_centre",
+        "address": "Redmond Way 15600, Redmond",
+        "website": "https://www.sweetysaradha.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1313925,
+          47.6744654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 329706541,
+        "hasDetails": true,
+        "name": "Regal Bella Bottega 11",
+        "amenity": "cinema",
+        "address": "161st Avenue Northeast 8890, Redmond",
+        "wikidata": "Q43305806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1226042,
+          47.6807984
+        ]
+      }
+    }
+  ]
+}

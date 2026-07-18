@@ -1,0 +1,4277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29217559,
+        "hasDetails": true,
+        "name": "Fred Meyer",
+        "address": "148th Avenue Northeast 2041, Bellevue",
+        "website": "https://www.fredmeyer.com/stores/grocery/wa/bellevue/bellevue/701/00023",
+        "opening_hours": "Mo-Su 06:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1447682,
+          47.6289388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30776209,
+        "hasDetails": true,
+        "name": "Tesla",
+        "address": "Northeast 20th Street 14408, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1477888,
+          47.6294256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1416312,
+          47.6294291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1393422,
+          47.6296015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 31756381,
+        "hasDetails": true,
+        "name": "Dollar Tree",
+        "address": "Bel-Red Road 2209, Redmond",
+        "website": "https://www.dollartree.com/locations/wa/redmond/8349/",
+        "opening_hours": "Mo-Sa 09:00-22:00; Su 10:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1351437,
+          47.6298535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 332157652,
+        "hasDetails": true,
+        "name": "Ayush Herbs",
+        "website": "https://www.ayush.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.139205,
+          47.6298618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12059380431,
+        "hasDetails": true,
+        "name": "T-Mobile",
+        "website": "https://www.t-mobile.com/stores/bd/t-mobile-bellevue-wa-98007-2sdu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1434942,
+          47.6302874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1449662,
+          47.6304738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29217727,
+        "hasDetails": true,
+        "name": "Jubilee REACH Thrift Store",
+        "address": "148th Avenue Northeast 2301, Bellevue",
+        "website": "https://www.jubileereach.org",
+        "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.144193,
+          47.6306616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 241884111,
+        "hasDetails": true,
+        "name": "Walgreens",
+        "address": "Northeast 24th Street 15585",
+        "website": "https://www.walgreens.com/locator/walgreens-15585+ne+24th+st-bellevue-wa-98007/id=10553",
+        "opening_hours": "Mo-Su 07:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1329109,
+          47.6306903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 31756053,
+        "hasDetails": true,
+        "name": "O'Reilly Auto Parts",
+        "address": "NE 24th Street 15425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1340266,
+          47.6307219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 340336012,
+        "hasDetails": true,
+        "name": "Apna Bazar",
+        "address": "148th Avenue Northeast 2245, Bellevue",
+        "website": "https://apnabazarstores.com",
+        "opening_hours": "10:00-10:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1449426,
+          47.6307687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3893778038,
+        "hasDetails": true,
+        "name": "PetSmart",
+        "address": "Northeast 24th Street 15445, Bellevue",
+        "website": "https://www.petsmart.com/stores/us/wa/bellevue-store3005.html",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1337275,
+          47.6308878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3892685532,
+        "hasDetails": true,
+        "name": "AT&T",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1331668,
+          47.6308948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3892685535,
+        "hasDetails": true,
+        "name": "Trader Joe's",
+        "address": "Northeast 24th Street 15563, Bellevue",
+        "website": "https://locations.traderjoes.com/wa/bellevue/131/",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1334738,
+          47.6309003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29362491,
+        "hasDetails": true,
+        "name": "Goodwill",
+        "address": "Northeast 24th Street 15301, Redmond",
+        "website": "https://seattlegoodwill.org/",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1362856,
+          47.6310653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.145267,
+          47.6310954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29465738,
+        "hasDetails": true,
+        "name": "Mattress Firm",
+        "address": "148th Avenue Northeast 2337, Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1436054,
+          47.6311199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 29362543,
+        "hasDetails": true,
+        "name": "Les Schwab Tire Center",
+        "address": "Bellevue Redmond Road 2355, Redmond",
+        "website": "https://www.lesschwab.com/",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1349133,
+          47.631307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 31561450,
+        "hasDetails": true,
+        "name": "7-Eleven",
+        "address": "Bel-Red Road 15521, Bellevue",
+        "website": "https://www.7-eleven.com/locations/wa/bellevue/15521-bel-red-rd-14418",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1332984,
+          47.631825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1330283,
+          47.6318262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 390317221,
+        "hasDetails": true,
+        "name": "Cash Company Pawnbroker",
+        "address": "Bel Red Road 15424, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1341953,
+          47.6318632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 352555200,
+        "hasDetails": true,
+        "address": "Northeast 24th Street 15230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1367274,
+          47.6319291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5282730746,
+        "hasDetails": true,
+        "address": "Northeast 24th Street 15230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1365299,
+          47.6319349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5093798421,
+        "hasDetails": true,
+        "name": "Sound Microsystems",
+        "address": "Northeast 24th Street 15114",
+        "website": "https://www.soundms.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1384506,
+          47.631935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5282730745,
+        "hasDetails": true,
+        "address": "Northeast 24th Street 15230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1363011,
+          47.6319357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5045656221,
+        "hasDetails": true,
+        "name": "Oh Wheat Bakery",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1360887,
+          47.6319385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.132952,
+          47.6319455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5093798321,
+        "hasDetails": true,
+        "name": "Dongsheng Studio",
+        "address": "152nd Avenue Northeast 2407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1381115,
+          47.6320295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1337774,
+          47.6322171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5093798621,
+        "hasDetails": true,
+        "name": "K Smoke",
+        "address": "Northeast 24th Street 14808",
+        "names": [
+          "K Smoke",
+          "Water Cube Spa"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1421846,
+          47.6322895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4129359891,
+        "hasDetails": true,
+        "name": "O'Reilly Auto Parts",
+        "address": "Northeast 24th Street 14890, Redmond",
+        "website": "https://locations.oreillyauto.com/wa/redmond/autoparts-3705.html",
+        "opening_hours": "Mo-Sa 07:30-22:00; Su 09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.140931,
+          47.6324359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7271176663,
+        "hasDetails": true,
+        "address": "Northeast 24th Street 14880, Redmond",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1411027,
+          47.6324407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1370271,
+          47.6324435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4129376089,
+        "hasDetails": true,
+        "name": "Overlake Laundromat",
+        "address": "Northeast 24th Street 14910, Redmond",
+        "website": "https://www.overlakelaundromat.com/",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 07:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1405786,
+          47.6324691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10731328245,
+        "hasDetails": true,
+        "name": "Safeway",
+        "address": "Northeast 24th Street 15000, Redmond",
+        "website": "https://local.safeway.com/safeway/wa/redmond/15000-ne-24th-st.html",
+        "opening_hours": "Mo-Su 05:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1401516,
+          47.6324859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5484699949,
+        "hasDetails": true,
+        "name": "ACS Redmond Overlake Discovery Shop",
+        "address": "Northeast 24th Street 14840, Redmond",
+        "website": "https://cancer.org/donate/discovery-shops-national/shops/overlake",
+        "opening_hours": "Mo-Sa 11:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1419893,
+          47.6325864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4129376189,
+        "hasDetails": true,
+        "name": "Honey Nail Spa",
+        "address": "Northeast 24th Street 14830, Redmond",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 11:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1421601,
+          47.632588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1371972,
+          47.6327984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 347259516,
+        "hasDetails": true,
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1372226,
+          47.6329586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1372506,
+          47.633109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11372411100,
+        "hasDetails": true,
+        "name": "Cone & Steiner Redmond",
+        "address": "156th Avenue Northeast 3460, Redmond",
+        "website": "https://www.coneandsteiner.com/",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "names": [
+          "Cone & Steiner Redmond",
+          "Solei & Co. Skin Studio"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1312114,
+          47.6411482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11372411098,
+        "hasDetails": true,
+        "name": "Living Well Eye Care",
+        "address": "156th Avenue Northeast 3460, Redmond",
+        "opening_hours": "Mo-Fr 08:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1315042,
+          47.6413238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11372369933,
+        "hasDetails": true,
+        "name": "L\u2019Experience Bakery",
+        "opening_hours": "Mo-Fr 07:30-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1301554,
+          47.6416253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11372369932,
+        "hasDetails": true,
+        "name": "PinkaBella Cupcakes",
+        "opening_hours": "Mo-Fr 11:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1299798,
+          47.6416681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1370075,
+          47.6426967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30876279,
+        "hasDetails": true,
+        "name": "7-Eleven",
+        "address": "148th Avenue Northeast 5040, Redmond",
+        "website": "https://www.7-eleven.com/locations/wa/redmond/5040-148th-ave-ne-19338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1424597,
+          47.6545127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1336202,
+          47.6549227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 427473503,
+        "hasDetails": true,
+        "name": "Wash Spot",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 10:30-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1181512,
+          47.6603841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1026181,
+          47.6637038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2624167326,
+        "hasDetails": true,
+        "name": "Kirmac Collision Services",
+        "address": "Northeast Redmond Way 18138, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.097706,
+          47.6642495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4853787334,
+        "hasDetails": true,
+        "name": "Eco-Green Cleaners",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0993156,
+          47.6644679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 245744499,
+        "hasDetails": true,
+        "name": "Pennzoil 10 Minute Oil Change",
+        "address": "Northeast Redmond Way 18028, Redmond",
+        "website": "http://redmondpennzoil.com/",
+        "opening_hours": "Tu-Fr 08:00-14:00; Sa,Mo 08:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0980948,
+          47.6647245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 325652230,
+        "hasDetails": true,
+        "name": "Food Mart",
+        "address": "Redmond Way 18065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0994434,
+          47.6648381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1056291217,
+        "hasDetails": true,
+        "name": "Red Way Self-Storage",
+        "address": "Northeast Redmond Way 18024",
+        "website": "https://www.westcoastselfstorage.com/self-storage/washington/red-way-self-storage-redmond/?utm_source=GoogleMyBusiness&utm_medium=GMBlisting&utm_campaign=GMB-Red_Way"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0976276,
+          47.6648908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2628060304,
+        "hasDetails": true,
+        "name": "Autosys",
+        "address": "Northeast Redmond Way 18018, Redmond",
+        "website": "https://www.autosysinc.com/",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.09842,
+          47.6650849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2624169494,
+        "hasDetails": true,
+        "name": "Firestone",
+        "address": "Northeast Redmond Way 18018, Redmond",
+        "website": "https://www.firestonecompleteautocare.com/local/tires/Redmond/WA/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.098571,
+          47.6651829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 316907626,
+        "hasDetails": true,
+        "name": "Les Schwab Tire Center",
+        "address": "East Lake Sammamish Parkway Northeast 6651, Redmond",
+        "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1008027,
+          47.6653692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 105754756,
+        "hasDetails": true,
+        "name": "Sherwin-Williams",
+        "address": "Northeast Redmond Way 18014, Redmond",
+        "website": "https://www.sherwin-williams.com/store-locator/paint-store/redmond/wa/8648"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.098912,
+          47.6655333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 316907627,
+        "hasDetails": true,
+        "name": "Whole Foods Market",
+        "address": "Redmond Way Northeast 17991, Redmond",
+        "website": "https://www.wholefoodsmarket.com/stores/redmond",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1013343,
+          47.6661318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2635422315,
+        "hasDetails": true,
+        "name": "Weldon",
+        "address": "Redmond Way 17887",
+        "names": [
+          "Weldon",
+          "SkinSpirit"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1028849,
+          47.6668686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 65067125,
+        "hasDetails": true,
+        "name": "Authentic Motorcars",
+        "address": "Northeast 70th Street 17351, Redmond",
+        "website": "https://www.authenticmotorcars.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.108333,
+          47.6668964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1241079929,
+        "hasDetails": true,
+        "name": "Super Supplements",
+        "opening_hours": "Mo-Sa 10:00-19:30; Su 10:30-17:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.100449,
+          47.6669517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2624171299,
+        "hasDetails": true,
+        "name": "Russell Watergardens & Koi",
+        "address": "180th Avenue Northeast 6848, Redmond",
+        "website": "https://russellwatergardens.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0998453,
+          47.6672697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5714261323,
+        "hasDetails": true,
+        "name": "Sammamish Cleaners",
+        "address": "Redmond Way 17875, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1024708,
+          47.667292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2633076443,
+        "hasDetails": true,
+        "name": "inSpa",
+        "address": "Redmond Way 17875, Redmond",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.102849,
+          47.6672928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2633076753,
+        "hasDetails": true,
+        "name": "All The Best Pet Care",
+        "address": "Redmond Way 17875, Redmond",
+        "website": "https://www.allthebestpetcare.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1030228,
+          47.6672932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 105755076,
+        "hasDetails": true,
+        "name": "Sunbelt Rentals",
+        "address": "Redmond Way 17950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1007511,
+          47.6673347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2635431245,
+        "hasDetails": true,
+        "name": "Redmond Tire Pros",
+        "address": "Northeast Redmond Way 17657, Redmond",
+        "website": "https://www.redmondtire.com/",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa 08:00-16:00; Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1038332,
+          47.6681201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12688719112,
+        "hasDetails": true,
+        "name": "Big 5 Sporting Goods",
+        "address": "170th Avenue Northeast 7214, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1134162,
+          47.6685843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2071066374,
+        "hasDetails": true,
+        "name": "World Market",
+        "address": "170th Avenue Northeast 7214, Redmond",
+        "website": "https://www.worldmarket.com/",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.113846,
+          47.6686546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1250622148,
+        "hasDetails": true,
+        "name": "Petco",
+        "address": "Bear Creek Parkway 7215, Redmond",
+        "website": "https://stores.petco.com/wa/redmond/pet-supplies-redmond-wa-1218.html",
+        "opening_hours": "Tu-Sa 09:00-19:00; Su,Mo 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.115693,
+          47.6686871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11364874118,
+        "hasDetails": true,
+        "name": "Everbloom Beauty Co",
+        "address": "West Lake Sammamish Parkway Northeast 7295, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1305053,
+          47.6693044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1250628758,
+        "hasDetails": true,
+        "name": "Mayuri International Foods",
+        "cuisine": "indian",
+        "address": "170th Avenue Northeast 7225, Redmond",
+        "website": "https://mayuriseattle.com/grocery",
+        "opening_hours": "Su-Th 10:00-21:00; Fr-Sa 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.115837,
+          47.6693409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 316335933,
+        "hasDetails": true,
+        "name": "The Home Depot",
+        "address": "Northeast 76th Street 17777, Redmond",
+        "website": "https://www.homedepot.com/l/Redmond-WA/WA/Redmond/98052/4723",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1027361,
+          47.6693515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1016474,
+          47.6694089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1305634,
+          47.6694541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4789555199,
+        "hasDetails": true,
+        "name": "Gene Juarez Salon & Spa",
+        "website": "https://www.genejuarez.com/locations/redmond/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1205522,
+          47.6697187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4789555197,
+        "hasDetails": true,
+        "name": "Ducati Redmond",
+        "website": "https://www.ducatiredmond.com/",
+        "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-17:00; May-Aug: Su 12:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.119193,
+          47.6697234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4789555198,
+        "hasDetails": true,
+        "name": "IKEA Redmond Plan and order point with Pick-up",
+        "address": "166th Avenue Northeast 7325, Redmond",
+        "website": "https://ikea.com/us/en/stores/plan-and-order-point-redmond",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1196962,
+          47.6697548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2703202976,
+        "hasDetails": true,
+        "name": "Marymoor Games",
+        "address": "Northeast 74th Street 16507, Redmond",
+        "website": "https://www.unclesgames.com/",
+        "opening_hours": "Su 11:00-19:00; Mo-We 10:00-21:00; Th 10:00-22:00; Fr 10:00+; Sa 10:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1200285,
+          47.6698683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4789555206,
+        "hasDetails": true,
+        "name": "Chair & Trellis",
+        "website": "https://www.chairandtrellis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1212823,
+          47.6698718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11688737389,
+        "hasDetails": true,
+        "name": "T-Mobile",
+        "address": "166th Avenue Northeast 7325, Redmond",
+        "website": "https://www.t-mobile.com/stores/bd/t-mobile-redmond-wa-98052-7886",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1191061,
+          47.6698756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3900473783,
+        "hasDetails": true,
+        "name": "LensCrafters",
+        "address": "Northeast 74th Street 16441, Redmond",
+        "website": "https://local.lenscrafters.com/wa/redmond/7330-164th-ave-ne.html",
+        "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1203824,
+          47.6699126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4792797657,
+        "hasDetails": true,
+        "name": "Getty Jewellers",
+        "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1203768,
+          47.670014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3731225641,
+        "hasDetails": true,
+        "name": "Tanishq",
+        "address": "166th Avenue Northeast 7325, Redmond",
+        "website": "https://www.tanishq.com/storeDetails?storeId=XWS",
+        "opening_hours": "We-Mo 12:00-19:30",
+        "names": [
+          "Tanishq",
+          "Fuego"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1200378,
+          47.6700668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1160916,
+          47.670118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4792797658,
+        "hasDetails": true,
+        "name": "Pinkabella Cupcakes",
+        "cuisine": "cupcake;cake",
+        "address": "Northeast 74th Street 16418, Redmond",
+        "website": "https://pinkabellacupcakes.com/redmond",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "names": [
+          "Pinkabella Cupcakes",
+          "skinluxe"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1203608,
+          47.6701471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1242267553,
+        "hasDetails": true,
+        "name": "Great Clips",
+        "address": "Redmond Way 17181",
+        "website": "https://www.greatclips.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1106589,
+          47.6701483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11218121914,
+        "hasDetails": true,
+        "name": "FedEx Office",
+        "address": "Redmond Way 17181, Redmond",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 12:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1108861,
+          47.6702131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1239340078,
+        "hasDetails": true,
+        "name": "White House Black Market",
+        "website": "https://www.whitehouseblackmarket.com/",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "names": [
+          "White House Black Market",
+          "Bath & Body Works"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1205553,
+          47.6702825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9791566416,
+        "hasDetails": true,
+        "name": "Mattress Firm",
+        "address": "Northeast Redmond Way 17181, Redmond",
+        "website": "https://www.mattressfirm.com/en-us/stores/wa/redmond/819001/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1112669,
+          47.6703216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4562997506,
+        "hasDetails": true,
+        "name": "HobbyTown",
+        "address": "166th Avenue Northeast 7425, Redmond",
+        "website": "https://www.hobbytown.com/redmond-wa/l90",
+        "opening_hours": "Su 11:00-19:00; Mo-Sa 10:00-20:00",
+        "wikidata": "Q5874921",
+        "wikipedia": "en:HobbyTown USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.119363,
+          47.6703293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1195525,
+          47.6703332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4789555218,
+        "hasDetails": true,
+        "name": "Paint Away!",
+        "website": "https://paintawaynow.com/",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1217454,
+          47.6703359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4789555204,
+        "hasDetails": true,
+        "name": "Daiso Japan",
+        "address": "164th Avenue Northeast 7330, Redmond",
+        "opening_hours": "Mo-Su 10:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.120934,
+          47.6704059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4789555211,
+        "hasDetails": true,
+        "name": "Soma",
+        "website": "https://www.soma.com/",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "names": [
+          "Soma",
+          "Zumiez"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1198161,
+          47.6704121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 31991630,
+        "hasDetails": true,
+        "name": "H Mart",
+        "cuisine": "asian",
+        "address": "170th Avenue Northeast 7589, Redmond",
+        "website": "https://hmartus.com/redmond",
+        "opening_hours": "Mo-Su 08:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1158024,
+          47.6704226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4789555205,
+        "hasDetails": true,
+        "name": "The French Bakery",
+        "website": "http://www.thefrenchbakery.com/welcome/#fresh",
+        "opening_hours": "Mo-We 09:00-16:00; Th,Fr 09:00-18:00; Sa,Su 08:00-18:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.121105,
+          47.670442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3731148096,
+        "hasDetails": true,
+        "name": "Midnight Cookie Co",
+        "address": "Northeast 74th Street 16405, Redmond",
+        "opening_hours": "Mo-Su 11:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1212941,
+          47.6704985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4789555191,
+        "hasDetails": true,
+        "name": "Utopia",
+        "website": "https://utopianorthwest.com/",
+        "names": [
+          "Utopia",
+          "Optix",
+          "Sam\u0101 Cellars"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1198885,
+          47.6705089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4789555208,
+        "hasDetails": true,
+        "name": "Evereve",
+        "address": "164th Avenue Northeast 7430, Redmond",
+        "website": "https://www.evereve.com/",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+        "names": [
+          "Evereve",
+          "FrogLegs Cooking School"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.120437,
+          47.6705944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 233693426,
+        "hasDetails": true,
+        "name": "Redmond Town Center",
+        "address": "166th Avenue Northeast 7525, Redmond",
+        "website": "https://redmondtowncenter.com/",
+        "wikidata": "Q7306132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1192109,
+          47.6706042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3965457128,
+        "hasDetails": true,
+        "name": "Gap",
+        "address": "164th Avenue Northeast 7430, Redmond",
+        "website": "https://www.gap.com/",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "names": [
+          "Gap",
+          "Gap Kids"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1208999,
+          47.6707046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13182442473,
+        "hasDetails": true,
+        "name": "The Lash Lounge",
+        "address": "164th Avenue Northeast 7430, Redmond",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1203398,
+          47.6707095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0930124,
+          47.6707349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4789555207,
+        "hasDetails": true,
+        "name": "Brick & Mortar Books",
+        "address": "164th Avenue Northeast 7430, Redmond",
+        "website": "https://www.brickandmortarbooks.com/",
+        "opening_hours": "Mo-Sa 10:00-20:00, Su 11:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1210619,
+          47.6707458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4792797645,
+        "hasDetails": true,
+        "name": "Guitar Center",
+        "address": "164th Avenue Northeast 7430, Redmond",
+        "website": "https://stores.guitarcenter.com/redmond",
+        "opening_hours": "Mo-Fr 11:00-21:00; Sa 10:00-21:00; Su 11:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1212186,
+          47.6707969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1321748,
+        "hasDetails": true,
+        "name": "Redmond Town Center",
+        "website": "https://redmondtowncenter.com",
+        "wikidata": "Q7306132",
+        "wikipedia": "en:Redmond Town Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1208497,
+          47.6708328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4792797632,
+        "hasDetails": true,
+        "name": "Lani\u2019s Tailor & Atelier",
+        "address": "166th Avenue Northeast 7525, Redmond",
+        "website": "https://lanistailor.com/",
+        "opening_hours": "Mo-Sa 10:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.119055,
+          47.6708562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1241154071,
+        "hasDetails": true,
+        "name": "Sprint",
+        "address": "170th Avenue Northeast 7625, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1139946,
+          47.6708639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4792797631,
+        "hasDetails": true,
+        "name": "Hand & Stone Massage and Facial Spa",
+        "address": "166th Avenue Northeast 7525, Redmond",
+        "website": "https://www.handandstoneredmond.com/",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-19:00",
+        "names": [
+          "Hand & Stone Massage and Facial Spa",
+          "Colors of Redmond"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1190552,
+          47.6709477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 257128537,
+        "hasDetails": true,
+        "name": "Discount Tire",
+        "address": "Northeast 76th Street 17977, Redmond",
+        "website": "https://www.discounttire.com/storelocations/Redmond-WA.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.100593,
+          47.6709752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13182442470,
+        "hasDetails": true,
+        "address": "164th Avenue Northeast 7430, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1212994,
+          47.6710234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4792797629,
+        "hasDetails": true,
+        "name": "Eastside Dog and Cats Too",
+        "address": "166th Avenue Northeast 7533, Redmond",
+        "website": "https://eastsidedog.com/",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.119063,
+          47.6712481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2633074372,
+        "hasDetails": true,
+        "name": "Verizon",
+        "address": "Northeast Redmond Way 17258, Redmond",
+        "website": "https://www.verizonwireless.com/b2c/storedetail/Washington/Redmond/D32509",
+        "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.109982,
+          47.6712571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4792797628,
+        "hasDetails": true,
+        "name": "AT&T",
+        "address": "166th Avenue Northeast 7525, Redmond",
+        "website": "https://www.wireless.att.com/",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1190664,
+          47.6713456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2633074679,
+        "hasDetails": true,
+        "name": "Apna Bazar",
+        "address": "Northeast Redmond Way 17256, Redmond",
+        "opening_hours": "Mo-Su 10:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1099634,
+          47.6713565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 901719780,
+        "hasDetails": true,
+        "name": "StorQuest",
+        "address": "187th Pl NE 7555, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.091814,
+          47.6713998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2627343711,
+        "hasDetails": true,
+        "name": "GameStop",
+        "address": "Northeast Redmond Way 17128, Redmond",
+        "website": "https://www.gamestop.com/store/us/wa/redmond/3038/bear-creek-village-gamestop",
+        "opening_hours": "Mo-Sa 10:00-21:00;Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1116403,
+          47.6714096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13343516879,
+        "hasDetails": true,
+        "name": "Swagath Indian Grocery Store",
+        "address": "NE 76th St 5023, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0994963,
+          47.671425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2627346207,
+        "hasDetails": true,
+        "address": "Northeast Redmond Way 17130, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1115691,
+          47.6715175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1146503,
+          47.6715937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 38293091,
+        "hasDetails": true,
+        "name": "O'Reilly Auto Parts",
+        "address": "Redmond Way 17100, Redmond",
+        "website": "https://locations.oreillyauto.com/wa/redmond/autoparts-2519.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.112587,
+          47.671639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 137343012,
+        "hasDetails": true,
+        "name": "Safeway",
+        "address": "Remond Way East 17246, Redmond",
+        "website": "https://local.safeway.com/safeway/wa/redmond/17246-redmond-way.html",
+        "opening_hours": "Mo-Su 05:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1096068,
+          47.6717331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2626105808,
+        "hasDetails": true,
+        "name": "DSW",
+        "address": "Northeast Redmond Way 17158, Redmond",
+        "website": "https://stores.dsw.com/usa/wa/redmond/dsw-designer-shoe-warehouse-bear-creek-village.html",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1114446,
+          47.6717487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1177437,
+          47.6718086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2626108509,
+        "hasDetails": true,
+        "name": "Sport Clips",
+        "address": "Northeast Redmond Way 17158, Redmond",
+        "website": "https://haircutmenredmondwa.com/Home.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1114285,
+          47.6718806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 296802875,
+        "hasDetails": true,
+        "name": "Frederick's Appliance Center",
+        "address": "159th Place Northeast 7509, Redmond",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 11:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1282691,
+          47.6718896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1177343,
+          47.6719183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4353378413,
+        "hasDetails": true,
+        "name": "Computer Surplus",
+        "address": "Cleveland Street 16715",
+        "opening_hours": "Mo-Fr 09:30-18:00; Sa 10:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1170316,
+          47.6719779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1177504,
+          47.6720149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2626111432,
+        "hasDetails": true,
+        "name": "Ulta Beauty",
+        "address": "Northeast Redmond Way 17170, Redmond",
+        "website": "https://www.ulta.com/stores/redmond-wa-502",
+        "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1114983,
+          47.6721442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 31928161,
+        "hasDetails": true,
+        "name": "Jiffy Lube",
+        "address": "Avondale Way Northeast 17015, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1127512,
+          47.6723233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9726087300,
+        "hasDetails": true,
+        "name": "Penny Nicholls Salon",
+        "address": "Redmond Way 16719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1172839,
+          47.6723382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 33613068,
+        "hasDetails": true,
+        "name": "Frederick's Appliance Center",
+        "address": "159th Place Northeast 7509, Redmond",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 11:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1283744,
+          47.6723621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2626113118,
+        "hasDetails": true,
+        "name": "Ross",
+        "address": "Northeast Redmond Way 17170, Redmond",
+        "website": "https://www.rossstores.com/",
+        "opening_hours": "Mo-Th 08:30-23:00; Fr-Sa 08:00-23:30; Su 08:30-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.111549,
+          47.672367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4353378414,
+        "hasDetails": true,
+        "name": "A Masquerade Costume",
+        "address": "Cleveland Street 16640, Redmond",
+        "website": "https://amasquerade.com",
+        "opening_hours": "Mo-Sa 11:00-19:00; PH off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1181393,
+          47.6723737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2627948841,
+        "hasDetails": true,
+        "name": "Kings Flooring",
+        "address": "Redmond Way 16717, Redmond",
+        "website": "https://kingsflooringservice.com",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1173036,
+          47.672436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9726087243,
+        "hasDetails": true,
+        "name": "the Lash & Wax boutique",
+        "address": "Redmond Way 16651",
+        "website": "https://lashwaxboutique.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1174939,
+          47.672437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4353378597,
+        "hasDetails": true,
+        "name": "Chavitos",
+        "address": "Redmond Way 16625",
+        "names": [
+          "Chavitos",
+          "The UPS Store"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1182174,
+          47.6725257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 316353481,
+        "hasDetails": true,
+        "name": "Target",
+        "address": "Northeast 76th Street 17700, Redmond",
+        "website": "https://www.target.com/sl/redmond/995",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1033473,
+          47.6725476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13507879094,
+        "hasDetails": true,
+        "name": "18|8 Fine Men's Salons",
+        "address": "Cleveland Street 16325, Redmond",
+        "website": "https://eighteeneight.com/redmond-wa/",
+        "opening_hours": "We-Sa 08:00-19:00; Su 09:00-14:00; Mo 12:00-19:00; Tu 10:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1217027,
+          47.6725934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2626186131,
+        "hasDetails": true,
+        "name": "Music & Arts",
+        "address": "Redmond Way 16611, Redmond",
+        "website": "https://stores.musicarts.com/wa/redmond/music-store-4759.html",
+        "opening_hours": "Mo-Fr 11:00-20:00; Sa 10:00-17:00; Su 12:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.118716,
+          47.6725961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1196854007,
+        "hasDetails": true,
+        "name": "Bear Creek Floral & Gifts",
+        "address": "Redmond Way 17186, Redmond",
+        "names": [
+          "Bear Creek Floral & Gifts",
+          "Just Food For Dogs"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.110978,
+          47.6726515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1243269378,
+        "hasDetails": true,
+        "name": "American Freestyle Alterations",
+        "address": "Redmond Way 17190, Redmond",
+        "names": [
+          "American Freestyle Alterations",
+          "GNC"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.110829,
+          47.672652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1166559,
+          47.6726526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1243260479,
+        "hasDetails": true,
+        "name": "Massage Envy",
+        "address": "Redmond Way 17214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1099598,
+          47.6726638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9726088935,
+        "hasDetails": true,
+        "name": "Beyond Beauty Brow Bar",
+        "address": "Redmond Way 16615",
+        "website": "https://www.beyondbeautyredmond.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1186196,
+          47.6727368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1243258529,
+        "hasDetails": true,
+        "name": "Bear Creek Barber Shop",
+        "address": "Redmond Way 17208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1099303,
+          47.6727841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1243256637,
+        "hasDetails": true,
+        "name": "Sol Collective",
+        "address": "Redmond Way 17215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.109823,
+          47.6728405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1171928,
+          47.6729619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4853787337,
+        "hasDetails": true,
+        "name": "La Superior - Redmond Mart",
+        "cuisine": "mexican;latin_american;colombian;argentinian",
+        "address": "Avondale Way Northeast 17020, Redmond",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1126453,
+          47.673007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1171962,
+          47.6731031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 31928105,
+        "hasDetails": true,
+        "name": "Half Price Books",
+        "address": "Leary Way Northeast 7805, Redmond",
+        "website": "https://www.hpb.com/054",
+        "opening_hours": "Mo-Su,PH 09:00-22:00; Dec 25 off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1236289,
+          47.6732038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 35993645,
+        "hasDetails": true,
+        "name": "Origins Cannabis",
+        "address": "Cleveland Street 16390, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1217476,
+          47.6732567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 31928107,
+        "hasDetails": true,
+        "name": "Hashtag Cannabis and Supply Company",
+        "address": "Leary Way Northeast 7829, Redmond",
+        "website": "https://shop.seattlehashtag.com/redmond",
+        "opening_hours": "Su-We 09:00-23:00; Th-Sa 09:00-23:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1235067,
+          47.673342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1372946370,
+        "hasDetails": true,
+        "name": "US Nails",
+        "address": "Leary Way Northeast 7844",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1228658,
+          47.673494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 35993648,
+        "hasDetails": true,
+        "name": "Arrow & Sword Tattoo",
+        "address": "Gilman Street 7855, Redmond",
+        "website": "https://arrowandsword.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1225303,
+          47.6735456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4350388492,
+        "hasDetails": true,
+        "name": "Hoffman's Fine Cakes and Pastries",
+        "address": "Cleveland Street 16175",
+        "website": "https://hoffmansfinecakes.com/",
+        "opening_hours": "Mo-Su 07:00-19:00",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1246041,
+          47.6736412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0920257,
+          47.6737352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11028360363,
+        "hasDetails": true,
+        "name": "Farine Bakery & Cafe",
+        "amenity": "cafe",
+        "cuisine": "belgian;brunch;breakfast;coffee_shop;bakery",
+        "address": "Redmond Way 16450, Redmond",
+        "website": "https://farinecafe.com",
+        "opening_hours": "7:00-15:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.120475,
+          47.6737906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7682083221,
+        "hasDetails": true,
+        "name": "Trek",
+        "address": "Redmond Way 16389, Redmond",
+        "opening_hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1218155,
+          47.6738243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12117684425,
+        "hasDetails": true,
+        "name": "Styled With Claire",
+        "address": "Leary Way 7865, Redmond",
+        "website": "https://styledwithclaire.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1230437,
+          47.6739161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 90045101,
+        "hasDetails": true,
+        "name": "Edge & Spoke",
+        "address": "Leary Way Northeast 7875, Redmond",
+        "website": "https://www.edgeandspoke.com/",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 12:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1231271,
+          47.6740453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4353378475,
+        "hasDetails": true,
+        "address": "Cleveland Street 16095, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1262168,
+          47.6740768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 456271152,
+        "hasDetails": true,
+        "name": "Costco",
+        "address": "188th Avenue Northeast 7725, Redmond",
+        "website": "https://www.costco.com/warehouse-locations/redmond-wa-1225.html",
+        "opening_hours": "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0915109,
+          47.6741146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5872685137,
+        "hasDetails": true,
+        "name": "Redmond Vacuum",
+        "address": "Redmond Way 16360, Redmond",
+        "opening_hours": "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1221488,
+          47.6742052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5872680158,
+        "hasDetails": true,
+        "name": "McDonald's Book Exchange",
+        "address": "Gilman Street 7969, Redmond",
+        "opening_hours": "Fr 10:00-18:00; Tu-Th,Sa 10:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1220839,
+          47.6743242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4353378468,
+        "hasDetails": true,
+        "name": "Rudy's Barbershop",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.126606,
+          47.6743395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12877545788,
+        "hasDetails": true,
+        "name": "Minuteman Press",
+        "opening_hours": "Mo-Fr 08:30-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1228197,
+          47.6743625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1310803,
+          47.6743758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 32109886,
+        "hasDetails": true,
+        "name": "Kohl's",
+        "address": "Northeast Union Hill Road 17601, Redmond",
+        "website": "https://www.kohls.com/stores/wa/redmond-1136.shtml",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1047866,
+          47.6743934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4353378471,
+        "hasDetails": true,
+        "name": "Higher Leaf Cannabis",
+        "address": "Northeast Redmond Way 15935, Redmond",
+        "website": "https://www.higherleaf.com/",
+        "opening_hours": "Mo-Su 11:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1287239,
+          47.6744036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1206168,
+          47.6745232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4353378409,
+        "hasDetails": true,
+        "name": "Clampitt's Cleaners",
+        "address": "Leary Way 7981, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1227023,
+          47.6745845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1200134,
+          47.6746306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1233434,
+          47.6746801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1226132,
+          47.6747402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12877578667,
+        "hasDetails": true,
+        "name": "European Wax Center",
+        "opening_hours": "Mo-Fr 08:30-20:00; Sa 08:30-18:00; Su 09:30-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1281633,
+          47.675051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2627371379,
+        "hasDetails": true,
+        "name": "Brugge Chocolates",
+        "website": "https://bruggechocolates.com/",
+        "opening_hours": "Mo,Tu 11:00-18:00; We-Fr 10:00-19:00; Sa 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1280024,
+          47.6750572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 333721606,
+        "hasDetails": true,
+        "name": "AA Auto Service Center",
+        "address": "Avondale Way Northeast 8004, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.107815,
+          47.6750953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12581469420,
+        "hasDetails": true,
+        "name": "Paris Baguette",
+        "address": "161st Avenue Northeast 8065, Redmond",
+        "website": "https://parisbaguette.com/locations/wa/redmond/8065-161st-ave/",
+        "opening_hours": "Mo-Su 06:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1259996,
+          47.6751213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 326181635,
+        "hasDetails": true,
+        "name": "ExtraMile",
+        "address": "Redmond Way 16010, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1267964,
+          47.675219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 31928059,
+        "hasDetails": true,
+        "name": "Christian Science Reading Room",
+        "address": "160th Avenue Northeast 8010, Redmond",
+        "opening_hours": "Mo,We,Fr 11:00-18:00; Tu,Th 11:00-20:00; Sa 11:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1271708,
+          47.6753813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 316480823,
+        "hasDetails": true,
+        "name": "Snapdoodle Toys",
+        "address": "Redmond Way Northeast 15752, Redmond",
+        "opening_hours": "Mo-Sa 10:00-19:00; Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1305931,
+          47.6753821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4853787335,
+        "hasDetails": true,
+        "name": "Euro Auto Serrvice",
+        "address": "Avondale Way Northeast 8040, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1076028,
+          47.6755031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1266949,
+          47.6755458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1269082,
+          47.6756336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1199361915,
+        "hasDetails": true,
+        "name": "Purewag",
+        "address": "160th Avenue Northeast 8070, Redmond",
+        "website": "https://www.purewag.com",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1272991,
+          47.6756372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 316480818,
+        "hasDetails": true,
+        "name": "Ben Franklin",
+        "address": "Redmond Way Northeast 15756, Redmond",
+        "website": "https://www.craftsandframes.com/",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1306426,
+          47.6756554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1298595,
+          47.6756582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1076254624,
+        "hasDetails": true,
+        "name": "Staples",
+        "address": "Redmond Way 15790, Redmond",
+        "website": "https://stores.staples.com/wa/redmond/15790-redmond-way",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1296766,
+          47.6756672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 419324624,
+        "hasDetails": true,
+        "name": "QFC",
+        "opening_hours": "Mo-Su 00:00-01:00,05:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.128898,
+          47.6756673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4353378477,
+        "hasDetails": true,
+        "name": "028 Barber Shop",
+        "address": "Redmond Way 15796, Redmond",
+        "website": "https://028barbershop.com/028-redmond",
+        "opening_hours": "Mo-Sa 10:00-19:00, Su 10:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.129331,
+          47.6756704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1076268999,
+        "hasDetails": true,
+        "name": "Trader Joe's",
+        "address": "Redmond Way 15932, Redmond",
+        "website": "https://locations.traderjoes.com/wa/redmond/140/",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1279042,
+          47.6756999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1221531,
+          47.6758498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6565155986,
+        "hasDetails": true,
+        "name": "Revelar\u00e9",
+        "address": "161st Avenue Northeast 8103, Redmond",
+        "opening_hours": "Tu-Sa 11:30-19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1257958,
+          47.6759793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1020852776,
+        "hasDetails": true,
+        "name": "The British Pantry Ltd.",
+        "amenity": "restaurant",
+        "cuisine": "british",
+        "address": "161st Avenue Northeast 8125, Redmond",
+        "website": "https://www.thebritishpantryltd.com/",
+        "opening_hours": "Mo-Th 10:00-18:00; Fr-Su 10:00-21:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1262638,
+          47.6759811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11040020051,
+        "hasDetails": true,
+        "name": "Nancy\u2019s Nail & Spa",
+        "address": "161st Avenue Northeast 8129, Redmond",
+        "opening_hours": "Mo 10:00-18:00, Tu closed, Sa 09:00-17:00, Su 12:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1267847,
+          47.6760002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12877578671,
+        "hasDetails": true,
+        "name": "Ilash Studio",
+        "address": "161st Avenue Northeast 8135, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1269192,
+          47.6760072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4350380190,
+        "hasDetails": true,
+        "name": "Element Cycles",
+        "address": "Redmond Way 15932",
+        "opening_hours": "Tu-Fr 11:00-18:00; Sa 12:00-18:00; Su 11:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.127935,
+          47.6760148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12877578666,
+        "hasDetails": true,
+        "name": "Landscape Inspired Gallery",
+        "address": "161st Avenue Northeast 8149, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1270367,
+          47.6761001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2847485335,
+        "hasDetails": true,
+        "name": "Hill's Barber Shop",
+        "address": "160th Avenue Northeast 8147",
+        "opening_hours": "Tu-Fr 09:30-18:30; Sa 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1272588,
+          47.6761014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11040020052,
+        "hasDetails": true,
+        "name": "Small Threads for Kids",
+        "address": "160th Avenue Northeast 8215, Redmond",
+        "website": "https://www.smallthreadsforkids.com/",
+        "opening_hours": "Mo,Fr 09:30-18:00; Sa 10:00-17:00; Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1278242,
+          47.6762809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4350294294,
+        "hasDetails": true,
+        "name": "Higher Leaf Cannabis Redmond - Avondale",
+        "address": "Avondale Way Northeast 8210, Redmond",
+        "website": "https://higherleaf.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1068359,
+          47.6763164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4353378466,
+        "hasDetails": true,
+        "name": "Rivage Salon",
+        "opening_hours": "Tu 10:00-16:00; Th,Fr 10:00-18:00; Sa 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1273474,
+          47.6763309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1104250373,
+        "hasDetails": true,
+        "name": "7-Eleven",
+        "address": "164th Avenue Northeast 8316, Redmond",
+        "website": "https://www.7-eleven.com/locations/wa/redmond/8316-164th-ne-14402",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1211174,
+          47.6769425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13002066083,
+        "hasDetails": true,
+        "name": "Neighbor Self Storage",
+        "address": "160th Avenue Northeast 8300, Redmond",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1270358,
+          47.6771866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13140460037,
+        "hasDetails": true,
+        "name": "Attractions Salon",
+        "address": "164th Avenue Northeast 8469, Redmond",
+        "names": [
+          "Attractions Salon",
+          "Vivi's Nail Salon",
+          "Seattle Blinds"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1226199,
+          47.6780203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13140421854,
+        "hasDetails": true,
+        "name": "Origin Salon Spa",
+        "address": "Northeast 85th Street 16375, Redmond",
+        "website": "https://originsalonspa.com/",
+        "opening_hours": "Tu by appointment; We,Th 10:00-19:00; Fr,Sa 10:00-18:00",
+        "names": [
+          "Origin Salon Spa",
+          "Healey Vision"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1218822,
+          47.6783671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11583939113,
+        "hasDetails": true,
+        "name": "Farzy Cuts",
+        "address": "Northeast 85th Street 16071, Redmond",
+        "opening_hours": "Tu-Fr 10:00-19:00; Sa 10:00-20:00; Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1263804,
+          47.6783692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1280686,
+          47.6784158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1258142,
+          47.6796611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11813320101,
+        "hasDetails": true,
+        "name": "Redmond Motorsports",
+        "address": "152nd Avenue Northeast 8541, Redmond",
+        "website": "https://redmond-motorsports.com/",
+        "opening_hours": "Su-Mo off; Tu-Fr 9:00-17:30; Sa 8:30-15:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1381999,
+          47.6801476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1241062376,
+        "hasDetails": true,
+        "name": "L'Etoille Parisienne Beauty Salon",
+        "address": "Northeast 87th Street 16122, Redmond",
+        "names": [
+          "L'Etoille Parisienne Beauty Salon",
+          "Polish Couture Nails & Spa"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1249102,
+          47.6801631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1241057512,
+        "hasDetails": true,
+        "name": "Ocean Eye Care",
+        "address": "Northeast 87th Street 16140, Redmond",
+        "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:30-16:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1245541,
+          47.6801696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1241063042,
+        "hasDetails": true,
+        "name": "Brat Pack",
+        "address": "Northeast 87th Street 16116, Redmond",
+        "website": "https://www.bratpacksalon.com/",
+        "opening_hours": "Mo 12:00-18:00; Tu off; We,Fr 10:00-18:00; Th 11:00-19:00; Sa-Su 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1251541,
+          47.6801722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1055365415,
+        "hasDetails": true,
+        "name": "QFC",
+        "address": "161st Avenue Northeast 6667, Redmond",
+        "website": "https://www.qfc.com/stores/grocery/wa/redmond/bella-bottega/705/00860",
+        "opening_hours": "Mo-Su 05:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.126433,
+          47.6808314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1387998951,
+        "hasDetails": true,
+        "name": "Bella Vision",
+        "address": "161st Avenue Northeast 105",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1245316,
+          47.6808776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11384894321,
+        "hasDetails": true,
+        "name": "Bella Cleaners",
+        "address": "161st Avenue Northeast 6667, Redmond",
+        "opening_hours": "Mo-Fr 07:30-18:00, Sa 08:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1269187,
+          47.681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2635485641,
+        "hasDetails": true,
+        "name": "Mud Bay",
+        "address": "161st Avenue Northeast 8867, Redmond",
+        "website": "https://mudbay.com/stores/Redmond/Redmond",
+        "opening_hours": "Mo-Fr 10:00-19:30; Sa,Su 09:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1271572,
+          47.6810007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1357598,
+          47.6812503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2834354822,
+        "hasDetails": true,
+        "name": "Levue Nails & Spa",
+        "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 10:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1230835,
+          47.681548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13462926124,
+        "hasDetails": true,
+        "name": "OceanHills Auto Detailing",
+        "address": "Northeast 90th Street 15211, Redmond",
+        "website": "https://www.oceanhillsdetailing.com/",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:30-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1370159,
+          47.6819771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1236639447,
+        "hasDetails": true,
+        "name": "Redmond Werkshop",
+        "opening_hours": "Mo-Th 07:00-17:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1373866,
+          47.6819807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1063097271,
+        "hasDetails": true,
+        "name": "ampm",
+        "address": "Willows Road Northeast 9015, Redmond",
+        "website": "https://www.arco.com/en-us/northwest/",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1435291,
+          47.6823944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5250645021,
+        "hasDetails": true,
+        "name": "Queen City Auto Rebuild",
+        "address": "Northeast 91st Street 14505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1472418,
+          47.6831843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1445983,
+          47.6835299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10713154024,
+        "hasDetails": true,
+        "name": "Columbia Valley Luxury Cars",
+        "address": "152nd Avenue Northeast 8531, Redmond",
+        "website": "https://cvluxurycars.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1400272,
+          47.6836113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6234680134,
+        "hasDetails": true,
+        "name": "Bearcom",
+        "address": "Northeast 95th Street 14940, Redmond",
+        "website": "https://bearcom.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1416869,
+          47.68619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1418071085,
+        "hasDetails": true,
+        "name": "Eastside Gym",
+        "address": "Northeast 95th Street 15040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1397682,
+          47.6862466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13141538030,
+        "hasDetails": true,
+        "name": "Cafecito Mexican Bakery",
+        "opening_hours": "We-Sa 08:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1336084,
+          47.6872482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1399002,
+          47.687531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 420020318,
+        "hasDetails": true,
+        "name": "PCC Community Market",
+        "address": "Avondale Road Northeast 11435, Redmond",
+        "website": "http://pccnaturalmarkets.com/locations/rd.html",
+        "opening_hours": "Mo-Su 06:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0934016,
+          47.7015875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 420020322,
+        "hasDetails": true,
+        "name": "Avondale Food Mart",
+        "opening_hours": "Mo-Fr 06:00-23:00; Sa 07:00-23:00; Su 08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0923545,
+          47.7024828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 32540661,
+        "hasDetails": true,
+        "name": "Avondale Cleaners",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0936516,
+          47.7026673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 32540632,
+        "hasDetails": true,
+        "name": "Tips Toes Nail Salon & Spa",
+        "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0936319,
+          47.7027834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 31999606,
+        "hasDetails": true,
+        "name": "Jacksons",
+        "address": "Avondale Road Northeast 11520, Redmond",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0924821,
+          47.7028274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13104699874,
+        "hasDetails": true,
+        "name": "De Jong's Bark and Topsoil",
+        "address": "Avondale Road Northeast 11807, Redmond",
+        "website": "https://www.dejongss.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0939275,
+          47.7053119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1232593,
+          47.7126086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7237660524,
+        "hasDetails": true,
+        "name": "DeLorean Service Northwest",
+        "address": "Redmond-Woodinville Road Northeast 13652, Redmond",
+        "website": "https://www.delorean-service.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.134955,
+          47.7232534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 471977073,
+        "hasDetails": true,
+        "name": "Plants Northwest",
+        "address": "Woodinville-Redmond Road Northeast;Woodinville Redmond Road Northeast 14273, Redmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1399548,
+          47.7283905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4487330446,
+        "hasDetails": true,
+        "name": "Chateau Ste. Michelle Tasting Room & Wine Shop",
+        "opening_hours": "Mo-Su 10:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1499478,
+          47.7289769
+        ]
+      }
+    }
+  ]
+}
