@@ -5,65 +5,6 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
-        "id": 370478197,
-        "hasDetails": true,
-        "name": "Youngstown Cultural Arts Center",
-        "amenity": "arts_centre",
-        "address": "Delridge Way Southwest 4408, Seattle",
-        "website": "https://dnda.org/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3629098,
-          47.5636185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "id": 2429568743,
-        "hasDetails": true,
-        "name": "The Beacon Cinema",
-        "amenity": "cinema",
-        "address": "Rainier Avenue South 4405, Seattle",
-        "website": "https://thebeacon.film/",
-        "wikidata": "Q88225662"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.288367,
-          47.5640676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "id": 2350316299,
-        "hasDetails": true,
-        "name": "Supernova",
-        "amenity": "nightclub",
-        "address": "South Horton Street 110, Seattle",
-        "website": "https://www.supernovaseattle.com/",
-        "wikidata": "Q115802015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.333591,
-          47.5745904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
         "id": 2350317084,
         "hasDetails": true,
         "name": "Monkey Loft",
