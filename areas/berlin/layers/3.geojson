@@ -10735,8 +10735,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.1967299,
-          52.4781941
+          13.1967295,
+          52.4781947
         ]
       }
     },
@@ -42773,6 +42773,24 @@
     {
       "type": "Feature",
       "properties": {
+        "weight": 1.0,
+        "id": 14026857447,
+        "hasDetails": true,
+        "name": "Abraham Brettler",
+        "website": "https://www.stolpersteine-berlin.de/de/christburger-str/35/abraham-brettler",
+        "wikidata": "Q132154696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4276614,
+          52.5356661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "weight": 1.0
       },
       "geometry": {
@@ -42804,6 +42822,28 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 14026892242,
+        "hasDetails": true,
+        "name": "Eliese Wolff",
+        "website": "https://www.stolpersteine-berlin.de/de/christburger-strasse/36/eliese-wolff",
+        "wikidata": "Q109289521",
+        "names": [
+          "Eliese Wolff",
+          "Malvin Moshe Wolff"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4272836,
+          52.5357949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 11694845941,
         "hasDetails": true,
         "name": "Sch\u00e4fer mit Hund und Schafen",
@@ -42814,6 +42854,28 @@
         "coordinates": [
           13.4853074,
           52.5357991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14026859126,
+        "hasDetails": true,
+        "name": "Selma Wohlgemuth",
+        "website": "https://www.stolpersteine-berlin.de/de/christburger-strasse/8/selma-wohlgemuth",
+        "wikidata": "Q109289513",
+        "names": [
+          "Selma Wohlgemuth",
+          "Julius Wohlgemuth"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4264311,
+          52.5359094
         ]
       }
     },
@@ -42879,6 +42941,28 @@
         "coordinates": [
           13.5796254,
           52.5360724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14026719768,
+        "hasDetails": true,
+        "name": "Herbert Croner",
+        "website": "https://www.stolpersteine-berlin.de/de/chodowieckistr/10/cacilie-casper",
+        "wikidata": "Q109279744",
+        "names": [
+          "Herbert Croner",
+          "Gertrud Croner"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4288966,
+          52.5360736
         ]
       }
     },
@@ -43243,6 +43327,24 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 14026600994,
+        "hasDetails": true,
+        "name": "C\u00e4cilie Casper",
+        "website": "https://www.stolpersteine-berlin.de/de/chodowieckistr/10/cacilie-casper",
+        "wikidata": "Q132155260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4285952,
+          52.5368662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 282832869,
         "hasDetails": true,
         "name": "Konfuzius",
@@ -43572,6 +43674,24 @@
         "coordinates": [
           13.2641354,
           52.5375395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14026600995,
+        "hasDetails": true,
+        "name": "Lina Rosen",
+        "website": "https://www.stolpersteine-berlin.de/de/jablonskistrasse/20/lina-rosen",
+        "wikidata": "Q109288574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4243646,
+          52.5376336
         ]
       }
     },
@@ -46194,6 +46314,19 @@
         "coordinates": [
           13.352811,
           52.5455675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4028582,
+          52.5456688
         ]
       }
     },

@@ -5916,21 +5916,6 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
-        "area_sqm": 8862.4,
-        "radius_m": 53.1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.226802607142858,
-          52.44409036071429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
         "area_sqm": 5482.2,
         "radius_m": 41.8
       },
@@ -5954,6 +5939,21 @@
         "coordinates": [
           13.588351434883721,
           52.4441639872093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 8738.5,
+        "radius_m": 52.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.226984550000001,
+          52.444183334375
         ]
       }
     },

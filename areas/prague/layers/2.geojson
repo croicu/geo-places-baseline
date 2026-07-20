@@ -15824,27 +15824,6 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
-        "id": 9727478217,
-        "hasDetails": true,
-        "name": "Johnny Pizza Bar",
-        "amenity": "restaurant",
-        "cuisine": "pizza",
-        "website": "https://www.johnnypizzabar.cz",
-        "opening_hours": "Mo-Sa 11:00-00:00; Su 11:00-24:00",
-        "outdoor_seating": "no"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4320894,
-          50.0721591
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
         "id": 13439719407,
         "hasDetails": true,
         "name": "FOXX",
@@ -23418,7 +23397,8 @@
         "hasDetails": true,
         "name": "Zmrzlin\u00e1\u0159",
         "amenity": "ice_cream",
-        "opening_hours": "Mo-Fr 12:00-18:00",
+        "address": "Slezsk\u00e1 2165/15",
+        "opening_hours": "12:00-19:00",
         "outdoor_seating": "yes"
       },
       "geometry": {
@@ -42976,6 +42956,24 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 14027553187,
+        "hasDetails": true,
+        "name": "KIKI WARD Music Bar",
+        "amenity": "bar",
+        "website": "https://kikiwardbar.cz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4553786,
+          50.0847799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 4398945089,
         "hasDetails": true,
         "name": "Il Palazzo",
@@ -43907,6 +43905,27 @@
         "coordinates": [
           14.4701425,
           50.0852376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12951668101,
+        "hasDetails": true,
+        "name": "300 KM",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;tea",
+        "address": "Havl\u00ed\u010dkovo n\u00e1m\u011bst\u00ed",
+        "website": "https://www.300km.cz/",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4550021,
+          50.0852378
         ]
       }
     },
@@ -45875,7 +45894,7 @@
         "name": "Fat Cat",
         "amenity": "pub",
         "website": "https://www.fat-cat.cz",
-        "opening_hours": "Mo-Su 07:00-10:00, 11:00-23:00",
+        "opening_hours": "Mo-Su 07:00-10:00,11:00-23:00",
         "outdoor_seating": "no"
       },
       "geometry": {
@@ -72359,11 +72378,11 @@
         "weight": 1.0,
         "id": 3289594934,
         "hasDetails": true,
-        "name": "Pra\u017ean",
+        "name": "Pivovar Kolkovna",
         "amenity": "restaurant",
         "address": "V\u00fdstavi\u0161t\u011b 415, Praha",
-        "website": "http://www.restaurantprazan.cz/",
-        "opening_hours": "Mo-Su 11:00-20:00",
+        "website": "https://www.pivovarkolkovna.cz/",
+        "opening_hours": "Mo-Su 11:00-23:00",
         "outdoor_seating": "yes"
       },
       "geometry": {
@@ -75587,6 +75606,19 @@
         "coordinates": [
           14.4108321,
           50.114933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4115266,
+          50.1149819
         ]
       }
     },

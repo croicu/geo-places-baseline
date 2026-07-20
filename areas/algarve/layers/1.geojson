@@ -2548,14 +2548,14 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
-        "area_sqm": 16920.0,
-        "radius_m": 73.4
+        "area_sqm": 16727.3,
+        "radius_m": 73.0
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.172367138095238,
-          37.089439409523806
+          -8.172361076190477,
+          37.08943694285714
         ]
       }
     },
@@ -6759,6 +6759,25 @@
         "coordinates": [
           -8.44023178,
           37.18954658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 513171.1,
+        "radius_m": 404.2,
+        "id": 654722204,
+        "hasDetails": true,
+        "name": "Ombria Resort",
+        "website": "https://www.ombria.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.007738516525423,
+          37.19015156186441
         ]
       }
     },

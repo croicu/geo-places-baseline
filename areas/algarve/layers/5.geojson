@@ -17657,7 +17657,7 @@
         "id": 13135102801,
         "hasDetails": true,
         "name": "P\u00e3o Da Av\u00f3",
-        "address": "25a"
+        "address": "Rua das Portas do Mar 25a, Arma\u00e7\u00e3o de P\u00eara"
       },
       "geometry": {
         "type": "Point",
@@ -18003,7 +18003,11 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 12105757902,
+        "hasDetails": true,
+        "name": "P\u00e3o da Av\u00f3",
+        "opening_hours": "Mo-Su 08:00-13:00,15:00-18:30"
       },
       "geometry": {
         "type": "Point",
@@ -35782,6 +35786,19 @@
         "coordinates": [
           -8.4393637,
           37.1872027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4413112,
+          37.1873199
         ]
       }
     },

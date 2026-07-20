@@ -1690,19 +1690,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6689264,
-          37.0803622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.6713561,
           37.0805756
         ]
@@ -1790,8 +1777,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6685185,
-          37.0822028
+          -8.6685105,
+          37.082175
         ]
       }
     },
@@ -1837,6 +1824,25 @@
     {
       "type": "Feature",
       "properties": {
+        "weight": 1.0,
+        "id": 373743348,
+        "hasDetails": true,
+        "name": "Carso Litoral da Ponta da Piedade",
+        "website": "https://geossitios.progeo.pt/geosites/carso-litoral-da-ponta-da-piedade-ponta-de-joao-arens-e-carvoeiro",
+        "wikidata": "Q2103673",
+        "wikipedia": "en:Ponta da Piedade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6711892,
+          37.0831221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "weight": 1.0
       },
       "geometry": {
@@ -1868,8 +1874,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6678605,
-          37.0834366
+          -8.6678337,
+          37.0834361
         ]
       }
     },
@@ -1996,8 +2002,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.7300569,
-          37.0848268
+          -8.7301927,
+          37.0849527
         ]
       }
     },
@@ -2248,19 +2254,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6687825,
-          37.0866487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.0309692,
           37.0867083
         ]
@@ -2276,19 +2269,6 @@
         "coordinates": [
           -8.7186044,
           37.0867269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6685809,
-          37.0867338
         ]
       }
     },
@@ -2964,19 +2944,6 @@
         "coordinates": [
           -8.1899013,
           37.0900705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6699439,
-          37.0901863
         ]
       }
     },

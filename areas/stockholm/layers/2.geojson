@@ -14968,7 +14968,7 @@
         "name": "Engelen",
         "amenity": "pub",
         "website": "https://www.engelen.se/",
-        "opening_hours": "Mo-Fr 16:00-24:00; Sa 14:00-24:00; Su 00:00-02:00,16:00-24:00; PH 16:00-24:00",
+        "opening_hours": "Mo-Fr,PH 16:00-24:00; Sa 14:00-24:00; Su 16:00-24:00, 00:00-02:00",
         "wikidata": "Q77931712",
         "outdoor_seating": "yes"
       },
@@ -19003,25 +19003,6 @@
         "coordinates": [
           18.0761736,
           59.3289473
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "id": 9468224956,
-        "hasDetails": true,
-        "name": "Oats!",
-        "amenity": "fast_food",
-        "cuisine": "sandwich;breakfast",
-        "website": "https://qopla.com/restaurant/oats!/q0vbdrX2ZW/order"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.060474,
-          59.3289602
         ]
       }
     },

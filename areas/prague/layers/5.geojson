@@ -3368,7 +3368,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.5083641,
+          14.5083587,
           50.0528523
         ]
       }
@@ -47291,7 +47291,7 @@
         "name": "Manufaktura",
         "address": "Karlova 223/26, Praha",
         "website": "https://manufaktura.cz/",
-        "opening_hours": "Mo-Su 10:00-19:00"
+        "opening_hours": "Mo-Su 10:00-20:00"
       },
       "geometry": {
         "type": "Point",
@@ -47587,7 +47587,15 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 9621175596,
+        "hasDetails": true,
+        "name": "Hempo",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "names": [
+          "Hempo",
+          "Old Prague Market"
+        ]
       },
       "geometry": {
         "type": "Point",

@@ -4796,7 +4796,8 @@
         "name": "Tavol\u00e0ta",
         "amenity": "restaurant",
         "cuisine": "italian",
-        "address": "Cleveland Street 16050, Redmond"
+        "address": "Cleveland Street 16050, Redmond",
+        "opening_hours": "Mo-Su 16:00-22:00"
       },
       "geometry": {
         "type": "Point",

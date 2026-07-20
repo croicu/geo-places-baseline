@@ -2244,7 +2244,7 @@
         "amenity": "cafe",
         "address": "Rua Vasco da Gama 19, Faro",
         "website": "https://www.yellowbourbon.pt/",
-        "opening_hours": "Mo-Sa 08:00-19:00",
+        "opening_hours": "Mo-Sa 09:00-18:00; Su 09:00-15:00",
         "names": [
           "Yellow Bourbon Specialty Coffee",
           "gula foodlab"
@@ -4899,11 +4899,13 @@
         "weight": 1.0,
         "id": 10007341480,
         "hasDetails": true,
-        "name": "Leme",
+        "name": "O Leme",
         "amenity": "cafe",
+        "website": "https://marketplace.olhao.pt/en/listing/bar-tapas-o-leme/",
+        "opening_hours": "We-Su 09:00-22:30; Mo 09:00-15:00",
         "outdoor_seating": "yes",
         "names": [
-          "Leme",
+          "O Leme",
           "Le Panorama"
         ]
       },
@@ -5286,8 +5288,10 @@
         "weight": 1.0,
         "id": 4745715840,
         "hasDetails": true,
-        "name": "Kinkas",
+        "name": "100 Montaditos",
         "amenity": "restaurant",
+        "cuisine": "tapas",
+        "opening_hours": "Mo-Fr 12:00-23:00; Sa 10:00-23:59; Su 09:00-23:00",
         "outdoor_seating": "yes"
       },
       "geometry": {
@@ -5473,24 +5477,6 @@
         "coordinates": [
           -7.8418737,
           37.0241163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "weight": 1.0,
-        "id": 8214455706,
-        "hasDetails": true,
-        "name": "Pizza Mar",
-        "amenity": "restaurant",
-        "cuisine": "pizza"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.8380658,
-          37.0241258
         ]
       }
     },
@@ -6813,7 +6799,13 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0
+        "weight": 1.0,
+        "id": 9716281203,
+        "hasDetails": true,
+        "name": "Amoreiras",
+        "amenity": "cafe",
+        "address": "Rua Filipe Ferrer 1",
+        "opening_hours": "Mo-Su 08:00-01:00"
       },
       "geometry": {
         "type": "Point",
@@ -15459,25 +15451,6 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 1.0,
-        "id": 288904491,
-        "hasDetails": true,
-        "name": "Restaurante O Camilo",
-        "amenity": "restaurant",
-        "website": "https://camilorestaurante.com/",
-        "opening_hours": "Mo-Su 11:00-24:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6697306,
-          37.0868952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "weight": 1.0
       },
       "geometry": {
@@ -15485,6 +15458,25 @@
         "coordinates": [
           -8.734822,
           37.0868974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 288904491,
+        "hasDetails": true,
+        "name": "O Camilo",
+        "amenity": "restaurant",
+        "website": "https://camilorestaurante.com/",
+        "opening_hours": "Mo-Su 11:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.669724,
+          37.0868978
         ]
       }
     },
@@ -27070,7 +27062,7 @@
         "name": "Z\u00e9 Leiteiro",
         "amenity": "restaurant",
         "cuisine": "portuguese",
-        "address": "Rua Portas do Mar 17, Arma\u00e7\u00e3o de P\u00eara",
+        "address": "Rua das Portas do Mar 17, Arma\u00e7\u00e3o de P\u00eara",
         "opening_hours": "Tu-Su",
         "outdoor_seating": "yes"
       },
@@ -27558,7 +27550,7 @@
         "weight": 1.0,
         "id": 11627500869,
         "hasDetails": true,
-        "name": "Lopes Tapas",
+        "name": "Lopes Tapas & Wine",
         "amenity": "cafe",
         "cuisine": "spanish",
         "address": "Rua das Velas 4"
@@ -28665,6 +28657,24 @@
         "coordinates": [
           -8.3625542,
           37.1026158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2189991561,
+        "hasDetails": true,
+        "name": "Kippis",
+        "amenity": "pub",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3570307,
+          37.1026222
         ]
       }
     },

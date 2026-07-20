@@ -1,0 +1,8102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8723898,
+          40.3166733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8759159,
+          40.3222557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.866187,
+          40.3229804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 158221457,
+        "hasDetails": true,
+        "name": "Teatro del Bosque",
+        "amenity": "theatre",
+        "address": "Glorieta de Europa",
+        "wikidata": "Q16913158",
+        "wikipedia": "es:Teatro del Bosque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8699483,
+          40.324398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9649110740,
+        "hasDetails": true,
+        "name": "Teatro rey de pikas",
+        "amenity": "theatre",
+        "address": "Tirso de Molina 4, Leganes",
+        "website": "https://teatroreydepikas.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7624681,
+          40.3254847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9654303603,
+        "hasDetails": true,
+        "amenity": "nightclub",
+        "address": "Calle del Maestro 4, Legan\u00e9s",
+        "opening_hours": "23:00-06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7586662,
+          40.3259724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8664498,
+          40.3271419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7642619,
+          40.3284371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10884135137,
+        "hasDetails": true,
+        "name": "Pub Cabana",
+        "amenity": "nightclub",
+        "address": "Calle B\u00e9cquer 6, M\u00f3stoles",
+        "website": "https://pub-cabana.negocio.site",
+        "opening_hours": "Tu-Su 21:00-03:00; Fr-Sa 21:00-03:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8581453,
+          40.3308136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 576094133,
+        "hasDetails": true,
+        "name": "Auditorio",
+        "amenity": "theatre",
+        "address": "Calle de Carlos III, Legan\u00e9s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7648469,
+          40.3327807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30978655,
+        "hasDetails": true,
+        "name": "Teatro Egaleo",
+        "amenity": "theatre",
+        "address": "Avenida del Rey Juan Carlos I 10, Legan\u00e9s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7582084,
+          40.3343248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8225423,
+          40.3368556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 365397262,
+        "hasDetails": true,
+        "name": "Yelmo Cines Rivas H2O",
+        "amenity": "cinema",
+        "website": "https://www.yelmocines.es/cartelera/madrid/rivas-h2o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5257338,
+          40.3377399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7312437,
+          40.3389348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8309358,
+          40.3392224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8473635,
+          40.3401711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 88778604,
+        "hasDetails": true,
+        "name": "Centro Municipal de las Artes",
+        "amenity": "arts_centre",
+        "address": "Alcorc\u00f3n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8351157,
+          40.3450706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8355096,
+          40.3452587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 221708307,
+        "hasDetails": true,
+        "name": "Auditorio Miguel R\u00edos",
+        "amenity": "theatre",
+        "address": "Rivas Vaciamadrid",
+        "website": "https://www.rivasciudad.es/equipamiento/auditorio-miguel-rios/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5136151,
+          40.3454804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13184162101,
+        "hasDetails": true,
+        "name": "Centro del T\u00edtere",
+        "amenity": "arts_centre",
+        "address": "Calle de los Siete Ojos",
+        "website": "https://centrodeltitere.com/",
+        "opening_hours": "Mo-Th 09:30-15:00; Fr 17:00-20:00; Sa-Su 11:00-14:00, 17:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8346875,
+          40.3465625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7167379,
+          40.3485681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5422059,
+          40.3493819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5421524,
+          40.3495023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5441979,
+          40.3526589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8187602,
+          40.3528995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6880461,
+          40.3536285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8072266,
+          40.3545569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 266311886,
+        "hasDetails": true,
+        "name": "Auditorio Pilar Bardem",
+        "amenity": "theatre",
+        "address": "Calle de la Fundici\u00f3n, Rivas Vaciamadrid",
+        "wikidata": "Q52667346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5456881,
+          40.3554455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 326533943,
+        "hasDetails": true,
+        "name": "Centro Sociocultural Bohemios",
+        "amenity": "arts_centre",
+        "address": "Calle de Bohemios 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6940937,
+          40.3563182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 714949640,
+        "hasDetails": true,
+        "name": "Jowke",
+        "amenity": "nightclub",
+        "address": "Avenida San Mart\u00edn de Valdeiglesias 22, Alcorc\u00f3n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8352792,
+          40.357974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4213677892,
+        "hasDetails": true,
+        "name": "la fortuna",
+        "amenity": "theatre",
+        "address": "Calle San Justo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7817658,
+          40.3580368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8327205,
+          40.3580752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12964800211,
+        "hasDetails": true,
+        "name": "Crom\u00e1tica escuela de Arte.",
+        "amenity": "arts_centre",
+        "website": "https://www.escuelacromatica.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5469603,
+          40.3593322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9649007934,
+        "hasDetails": true,
+        "name": "Ode\u00f3n multicines",
+        "amenity": "cinema",
+        "address": "Calle Mondrag\u00f3n, Legan\u00e9s",
+        "opening_hours": "Mo-Su 16:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7763995,
+          40.3597466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6918923,
+          40.361733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7563869,
+          40.3620686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7568781,
+          40.3631053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7383655,
+          40.3639776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6310053,
+          40.3652331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5379855,
+          40.3669758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12396693981,
+        "hasDetails": true,
+        "name": "Tekendama",
+        "amenity": "nightclub",
+        "website": "https://salacapricho.es/discotecas/discoteca-tekendama/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5380662,
+          40.3670797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1008451922,
+        "hasDetails": true,
+        "name": "Cinesa La Gavia",
+        "amenity": "cinema",
+        "website": "https://www.cinesa.es/Cines/La-Gavia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5976238,
+          40.3679444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6907619,
+          40.3683999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7634899,
+          40.369349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7074505,
+          40.3695064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.746216,
+          40.3708405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6606281,
+          40.3722078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6719267,
+          40.3730059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6598212,
+          40.3737147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6089562,
+          40.3739602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7525775,
+          40.3756593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7257314,
+          40.377439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8602132407,
+        "hasDetails": true,
+        "name": "Teatro municipal de Vallecas",
+        "amenity": "theatre",
+        "address": "Calle del Paso de Villamanrique 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6229092,
+          40.3776745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7798334,
+          40.3776997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7591662,
+          40.3782881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6594466,
+          40.3785205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7737645,
+          40.3788105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6614009,
+          40.3794494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 964563693,
+        "hasDetails": true,
+        "name": "Cinema Usera",
+        "amenity": "cinema",
+        "website": "https://www.intermediae.es/proyectos/cinema-usera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7085483,
+          40.3796644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 631135298,
+        "hasDetails": true,
+        "name": "Auditorio al aire libre del Parque Lineal del Manzanares",
+        "amenity": "theatre",
+        "address": "Camino de Perales 48",
+        "website": "https://www.madridcultura.es/entidad/337/auditorio-al-aire-libre-parque-lineal-del-manzanares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6901537,
+          40.3797648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7486599,
+          40.3798567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 472374687,
+        "hasDetails": true,
+        "name": "Auditorio municipal Las trece rosas",
+        "amenity": "theatre",
+        "address": "Calle Monte de Montjuich 7, Madrid",
+        "website": "https://www.madridcultura.es/entidad/236/auditorio-municipal-las-trece-rosas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6167605,
+          40.3805945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4127898389,
+        "hasDetails": true,
+        "name": "ExL\u00edmite",
+        "amenity": "theatre",
+        "address": "Calle de Primitiva Ga\u00f1\u00e1n 5, Madrid",
+        "wikidata": "Q16913140",
+        "wikipedia": "es:Teatro Kubik Fabrik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.709209,
+          40.380873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7437116,
+          40.3820112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4065911795,
+        "hasDetails": true,
+        "name": "Sala Live",
+        "amenity": "nightclub",
+        "address": "42",
+        "website": "https://www.lasala.biz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7475458,
+          40.38342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7641286,
+          40.3852309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7366808,
+          40.385523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7594017,
+          40.3856497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3637609331,
+        "hasDetails": true,
+        "name": "Escuela de Teatro de Mar Navarro",
+        "amenity": "arts_centre",
+        "address": "Calle de Francisco de Guzm\u00e1n 28, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7288494,
+          40.385719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9056957658,
+        "hasDetails": true,
+        "name": "Sala Tarambana",
+        "amenity": "theatre",
+        "address": "Calle de Dolores Armengot 31",
+        "website": "https://tarambana.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74325,
+          40.3857597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7059325,
+          40.3863707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7027181,
+          40.3867802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7007113,
+          40.3874391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7316111,
+          40.3876801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7318398,
+          40.3878966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7321768,
+          40.388022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7314123,
+          40.388101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11113877074,
+        "hasDetails": true,
+        "name": "Ateneo Republicano de Vallekas",
+        "amenity": "arts_centre",
+        "address": "Calle del Arroyo del Olivar 79, Madrid",
+        "website": "https://www.ateneorepublicanodevallecas.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.651445,
+          40.3884365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6654418,
+          40.388824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7584804,
+          40.3888726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7522961,
+          40.3896731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7527177,
+          40.3898472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7524905,
+          40.3900305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 28910061,
+        "hasDetails": true,
+        "name": "Auditorio del Parque de Enrique Tierno Galv\u00e1n",
+        "amenity": "theatre",
+        "wikidata": "Q110746468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6835272,
+          40.3901145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6370965,
+          40.390913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4150045748,
+        "hasDetails": true,
+        "name": "El Drag\u00f3n Estrag\u00f3n",
+        "amenity": "theatre",
+        "address": "Calle de la Abejuela 17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7461958,
+          40.3911141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3619677863,
+        "hasDetails": true,
+        "name": "Cineteca",
+        "amenity": "cinema",
+        "website": "https://www.cinetecamadrid.com/index.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6964168,
+          40.3915379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6969847,
+          40.3915548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 25850576,
+        "hasDetails": true,
+        "name": "Matadero Madrid, Centro de creaci\u00f3n Contempor\u00e1nea",
+        "amenity": "arts_centre",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "wikidata": "Q4043800",
+        "wikipedia": "es:Matadero Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6978259,
+          40.3915886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 566412041,
+        "hasDetails": true,
+        "name": "Naves Matadero",
+        "amenity": "theatre",
+        "website": "https://naves.mataderomadrid.org/es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6974425,
+          40.3916184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11032139002,
+        "hasDetails": true,
+        "name": "Centro de residencias art\u00edsticas",
+        "amenity": "arts_centre",
+        "address": "Plaza Matadero",
+        "website": "https://www.mataderomadrid.org/programas/centro-de-residencias-artisticas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6988958,
+          40.3917229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7123233,
+          40.3917426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6973861,
+          40.391836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.708964,
+          40.3920445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7661422,
+          40.3920546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2135090297,
+        "hasDetails": true,
+        "name": "Enjoy R\u00edo",
+        "amenity": "nightclub",
+        "website": "http://www.enjoyrio.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7034686,
+          40.3925011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12397604631,
+        "hasDetails": true,
+        "name": "Medialab Matadero",
+        "amenity": "arts_centre",
+        "address": "Madrid",
+        "website": "https://www.medialab-matadero.es/",
+        "wikidata": "Q6008551",
+        "wikipedia": "es:Medialab Matadero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6976905,
+          40.3925684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7245933,
+          40.3927699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9887600258,
+        "hasDetails": true,
+        "name": "El Cafetal",
+        "amenity": "nightclub",
+        "address": "Calle del Parador del Sol 18",
+        "website": "http://www.elcafetalbardecopasmadrid.com/",
+        "opening_hours": "Mo 00:00-05:30; Tu 22:00-24:00; We-Fr 00:00-05:00,22:00-24:00; Sa,Su 00:00-05:30,22:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7098565,
+          40.3930526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.761896,
+          40.3931098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9915124575,
+        "hasDetails": true,
+        "name": "Boa mistura",
+        "amenity": "arts_centre",
+        "address": "Calle del Monte Perdido 53, Madrid",
+        "website": "https://boamistura.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6672873,
+          40.3933023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7124852,
+          40.393454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4291773,
+        "hasDetails": true,
+        "name": "Kin\u00e9polis Ciudad de la Imagen",
+        "amenity": "cinema",
+        "website": "https://kinepolis.es/cines/kinepolis-madrid-ciudad-de-la-imagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7962897,
+          40.3938263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7673605,
+          40.3939645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7455071,
+          40.394264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7120246,
+          40.3942906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7126774,
+          40.394528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7125014,
+          40.3949377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.743101,
+          40.3950874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.668038,
+          40.3969417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30666895,
+        "hasDetails": true,
+        "name": "Cinesa M\u00e9ndez \u00c1lvaro",
+        "amenity": "cinema",
+        "address": "Calle Acanto 2",
+        "website": "https://www.cinesa.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6759094,
+          40.3969646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7732279,
+          40.3975749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1045522647,
+        "hasDetails": true,
+        "name": "Espacio Ibercaja Delicias",
+        "amenity": "theatre",
+        "address": "Paseo de las Delicias 61, Madrid",
+        "website": "https://planletsgo.com/espacio-delicias/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6888078,
+          40.3978783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7615192,
+          40.3979358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6143294,
+          40.3984708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7621623,
+          40.3985491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7205331697,
+        "hasDetails": true,
+        "name": "Grada m\u00e1gica",
+        "amenity": "theatre",
+        "address": "Calle de Emilio Ortu\u00f1o 20, Madrid",
+        "website": "https://www.gradamagica.com/es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6658605,
+          40.3986059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3116998229,
+        "hasDetails": true,
+        "name": "Teatro Encantado",
+        "amenity": "theatre",
+        "address": "Calle Pozuelo de Zarz\u00f3n 3, Madrid",
+        "website": "https://teatroencantado.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038297,
+          40.3986154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6989339,
+          40.399598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.776248,
+          40.3995999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13176963451,
+        "hasDetails": true,
+        "name": "Codere",
+        "amenity": "casino",
+        "address": "Avenida de Pe\u00f1a Prieta 9, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6672493,
+          40.3998741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13476272262,
+        "hasDetails": true,
+        "name": "Cines Embajadores R\u00edo",
+        "amenity": "cinema",
+        "address": "Calle de Ercilla 53, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7006198,
+          40.4001242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6630952,
+          40.4005164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4341356242,
+        "hasDetails": true,
+        "name": "Cine Embajadores",
+        "amenity": "cinema",
+        "address": "Glorieta de Santa Mar\u00eda de la Cabeza 5, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6985656,
+          40.4006457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7040856,
+          40.4007616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 18849642,
+        "hasDetails": true,
+        "name": "Real Teatro de Retiro",
+        "amenity": "theatre",
+        "website": "https://www.realteatroderetiro.es/",
+        "opening_hours": "We-Su 10:00-14:00,16:00-19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6772283,
+          40.4015818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4716559702,
+        "hasDetails": true,
+        "name": "PlotPoint",
+        "amenity": "theatre",
+        "address": "Calle de Ercilla 29",
+        "website": "https://www.plotpoint.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7020506,
+          40.401947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12994577506,
+        "hasDetails": true,
+        "name": "Bulul\u00fa 2120",
+        "amenity": "theatre",
+        "address": "Calle de las Canarias 16, Madrid",
+        "website": "https://bululu2120.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6964913,
+          40.4019636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6992366,
+          40.4022855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3299660209,
+        "hasDetails": true,
+        "name": "Teatro Lagrada",
+        "amenity": "theatre",
+        "website": "https://www.teatrolagrada.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7028385,
+          40.4026422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3299660207,
+        "hasDetails": true,
+        "name": "Sala Cuarta Pared",
+        "amenity": "theatre",
+        "website": "https://www.cuartapared.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7026399,
+          40.402729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4716559703,
+        "hasDetails": true,
+        "name": "Teatro La Encina",
+        "amenity": "theatre",
+        "address": "Calle de Ercilla 15, Madrid",
+        "wikidata": "Q96184374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7028306,
+          40.4029431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4082698298,
+        "hasDetails": true,
+        "name": "Nave73",
+        "amenity": "theatre",
+        "address": "Calle de Palos de la Frontera 5, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6987436,
+          40.4031574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3299660206,
+        "hasDetails": true,
+        "name": "Estudio 2",
+        "amenity": "theatre",
+        "address": "Calle de Moratines 11, Madrid",
+        "website": "https://www.martesteatro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7026207,
+          40.4032499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6968507,
+          40.403893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 170951960,
+        "hasDetails": true,
+        "name": "Sala Villanos",
+        "amenity": "nightclub",
+        "address": "Calle de Bernardino Obreg\u00f3n 18",
+        "website": "https://salavillanos.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7000048,
+          40.4039372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6999383,
+          40.404211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2524811546,
+        "hasDetails": true,
+        "name": "Sala Tam",
+        "amenity": "nightclub",
+        "address": "Paseo de los Olmos 13, Madrid",
+        "opening_hours": "Th-Su 22:00-06:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7105797,
+          40.4043439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 238608553,
+        "hasDetails": true,
+        "name": "La Neomud\u00e9jar",
+        "amenity": "arts_centre",
+        "website": "https://www.laneomudejar.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6839926,
+          40.40466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2277540330,
+        "hasDetails": true,
+        "name": "Artistic Metropol",
+        "amenity": "cinema",
+        "address": "Calle de las Cigarreras 6, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7074611,
+          40.4049046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6799587,
+          40.4049879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6961528,
+          40.4051976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 315239463,
+        "hasDetails": true,
+        "name": "Circo Price",
+        "amenity": "theatre",
+        "wikidata": "Q5121553",
+        "wikipedia": "es:Circo Price"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.698476,
+          40.405616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 292612652,
+        "hasDetails": true,
+        "name": "Sala Silikona",
+        "amenity": "nightclub",
+        "address": "Plaza del Encuentro 1, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6522472,
+          40.4058859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 145281834,
+        "hasDetails": true,
+        "name": "Centro Cultural El Torito",
+        "amenity": "arts_centre",
+        "address": "Avenida de Moratalaz 130, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.646783,
+          40.4060965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 493686100,
+        "hasDetails": true,
+        "name": "Teatro Municipal",
+        "amenity": "theatre",
+        "address": "Calle de los M\u00e1rtires 1, Boadilla del Monte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8758532,
+          40.4064508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9592714274,
+        "hasDetails": true,
+        "name": "Centro Act\u00faa",
+        "amenity": "arts_centre",
+        "address": "Calle de Cavanilles 15, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6766043,
+          40.4064732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6704557,
+          40.407041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7034391448,
+        "hasDetails": true,
+        "name": "Sala Mirador",
+        "amenity": "theatre",
+        "address": "Calle del Doctor Fourquet 31, Madrid",
+        "website": "https://lamirador.com/",
+        "wikidata": "Q21573843",
+        "wikipedia": "es:Sala Mirador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6988713,
+          40.4070512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13723483692,
+        "hasDetails": true,
+        "name": "WIT Impro",
+        "amenity": "theatre",
+        "address": "Calle Navas del Rey 70",
+        "website": "https://vivirsinguion.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7362591,
+          40.407141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6954901,
+          40.4074034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3780678016,
+        "hasDetails": true,
+        "name": "El Burdel a escena",
+        "amenity": "theatre",
+        "address": "Calle de la Sombrerer\u00eda 3, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6996751,
+          40.4075883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 166226369,
+        "hasDetails": true,
+        "name": "Teatro Valle-Incl\u00e1n",
+        "amenity": "theatre",
+        "address": "Plaza de Lavapi\u00e9s, Madrid",
+        "website": "http://cdn.mcu.es",
+        "wikidata": "Q7691967",
+        "wikipedia": "es:Teatro Valle-Incl\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7002888,
+          40.407983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7973499,
+          40.4079887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7980227,
+          40.4080332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 991444051,
+        "hasDetails": true,
+        "name": "Museo Nacional Centro de Arte Reina Sof\u00eda",
+        "amenity": "arts_centre",
+        "address": "Calle de Santa Isabel 52, Madrid",
+        "website": "https://www.museoreinasofia.es/",
+        "opening_hours": "Mo 10:00-21:00; We-Sa 10:00-21:00; Su 10:00-19:00",
+        "wikidata": "Q460889",
+        "wikipedia": "es:Museo Nacional Centro de Arte Reina Sof\u00eda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.694595,
+          40.4080445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7011798,
+          40.4085271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 380608312,
+        "hasDetails": true,
+        "name": "Shoko",
+        "amenity": "nightclub",
+        "address": "Calle de Toledo 86, Madrid",
+        "website": "https://www.shokomadrid.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7108633,
+          40.4088245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6395597724,
+        "hasDetails": true,
+        "name": "Iglesia Pat\u00f3lica (Paticano)",
+        "amenity": "theatre",
+        "address": "Traves\u00eda de la Primavera 3, Madrid",
+        "website": "http://paticano.com/",
+        "opening_hours": "Su 13:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7006764,
+          40.4092681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4834891921,
+        "hasDetails": true,
+        "name": "Astrozombie",
+        "amenity": "nightclub",
+        "address": "Calle de Calatrava 29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7123807,
+          40.4092973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3208888461,
+        "hasDetails": true,
+        "name": "Escuela Mayor de Danza",
+        "amenity": "arts_centre",
+        "address": "Calle Ribera de Curtidores, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7076115,
+          40.4094814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3365559337,
+        "hasDetails": true,
+        "name": "El Teatro del Barrio",
+        "amenity": "theatre",
+        "address": "Calle de Zurita 20, Madrid",
+        "website": "https://teatrodelbarrio.com/",
+        "wikidata": "Q25400165",
+        "wikipedia": "es:Teatro del Barrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.699174,
+          40.4096081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3255241666,
+        "hasDetails": true,
+        "name": "independance Club",
+        "amenity": "nightclub",
+        "address": "Calle de Atocha 125",
+        "website": "https://independanceclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6930041,
+          40.409692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2556170940,
+        "hasDetails": true,
+        "name": "Juglar",
+        "amenity": "nightclub",
+        "address": "Calle de Lavapi\u00e9s 37, Madrid",
+        "website": "https://salajuglar.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7021378,
+          40.4096946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 167302343,
+        "hasDetails": true,
+        "name": "Teatro Kapital",
+        "amenity": "nightclub",
+        "address": "Calle de Atocha 125",
+        "website": "https://teatrokapital.com/",
+        "opening_hours": "Su, We-Th 23:00-05:30; Fr-Sa 23:00-06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6932244,
+          40.409774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3209584687,
+        "hasDetails": true,
+        "name": "La Cabeza No Para",
+        "amenity": "arts_centre",
+        "address": "Calle de L\u00f3pez Silva 5, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7088049,
+          40.409969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2558248412,
+        "hasDetails": true,
+        "name": "El Rey Midas",
+        "amenity": "casino",
+        "address": "Calle de Atocha 121, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6940689,
+          40.4100885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 49016398,
+        "hasDetails": true,
+        "name": "Teatro Pav\u00f3n",
+        "amenity": "theatre",
+        "address": "Calle de Embajadores 9, Madrid",
+        "website": "https://teatrokamikaze.com/",
+        "wikidata": "Q7691940",
+        "wikipedia": "es:Teatro Pav\u00f3n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.706104,
+          40.4100898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 219016719,
+        "hasDetails": true,
+        "name": "Espacio Cultural Serrer\u00eda Belga",
+        "amenity": "arts_centre",
+        "address": "Calle de la Alameda 15, Madrid",
+        "wikidata": "Q42912700",
+        "wikipedia": "es:Serrer\u00eda Belga (Madrid)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6935882,
+          40.4104464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7509284,
+          40.4104698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5035928179,
+        "hasDetails": true,
+        "name": "Teatro Karpas",
+        "amenity": "theatre",
+        "website": "https://www.karpasteatro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6977188,
+          40.4104769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2546794623,
+        "hasDetails": true,
+        "name": "Azucar",
+        "amenity": "nightclub",
+        "address": "Calle de Atocha 107, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6951679,
+          40.4105687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7068469,
+          40.4107441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 338313755,
+        "hasDetails": true,
+        "name": "Asociaci\u00f3n La P\u00e9rtiga",
+        "amenity": "arts_centre",
+        "address": "Calle de Alb\u00e9niz 3, Madrid",
+        "website": "https://asociacionlapertiga.wordpress.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7365448,
+          40.4110587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 622204633,
+        "hasDetails": true,
+        "name": "La Escalera de Jacob",
+        "amenity": "theatre",
+        "address": "Calle de Lavapi\u00e9s 9, Madrid",
+        "website": "https://www.laescaleradejacob.es/",
+        "opening_hours": "Mo-Fr 18:30-24:00; Sa,Su 00:00-02:00,10:30-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7028472,
+          40.4113585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7116813,
+          40.4114253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4514561799,
+        "hasDetails": true,
+        "name": "Qu\u00e9 movida!",
+        "amenity": "nightclub",
+        "address": "Costanilla de los Desamparados 21, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6966932,
+          40.4115038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6583897,
+          40.4115318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 622204634,
+        "hasDetails": true,
+        "name": "Teatro Espada de Madera",
+        "amenity": "theatre",
+        "address": "Calle del Calvario 21, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7020583,
+          40.4115555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 118189863,
+        "hasDetails": true,
+        "name": "Teatro La Latina",
+        "amenity": "theatre",
+        "address": "Plaza de la Cebada 2, Madrid",
+        "website": "https://www.teatrolalatina.es/",
+        "wikidata": "Q3323525",
+        "wikipedia": "es:Teatro La Latina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7087614,
+          40.4115566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6998288,
+          40.4115923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 86627940,
+        "hasDetails": true,
+        "name": "Cine Dor\u00e9",
+        "amenity": "cinema",
+        "address": "Calle de Santa Isabel 3, Madrid",
+        "opening_hours": "Tu-Su 08:00-23:55",
+        "wikidata": "Q5449162",
+        "wikipedia": "es:Filmoteca Espa\u00f1ola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6991471,
+          40.4118376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6155992,
+          40.4118945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5284797621,
+        "hasDetails": true,
+        "name": "Sala Equis",
+        "amenity": "cinema",
+        "address": "Calle del Duque de Alba 4, Madrid",
+        "website": "https://salaequis.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7057283,
+          40.4119892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4711670703,
+        "hasDetails": true,
+        "name": "Off de La Latina",
+        "amenity": "theatre",
+        "address": "Calle de los Mancebos 4, Madrid",
+        "website": "https://offlatina.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71201,
+          40.4120565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 292002486,
+        "hasDetails": true,
+        "name": "Teatro Nuevo Apolo",
+        "amenity": "theatre",
+        "address": "Plaza de Tirso de Molina 1, Madrid",
+        "website": "https://www.summummusic.com/",
+        "wikidata": "Q6139839",
+        "wikipedia": "es:Teatro Apolo (Plaza de Tirso de Molina)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7033178,
+          40.4121214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7513302,
+          40.412199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7021068,
+          40.4122075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6172656139,
+        "hasDetails": true,
+        "name": "Medias Puri",
+        "amenity": "nightclub",
+        "website": "https://mediaspuri.com/",
+        "opening_hours": "Fr-Sa 23:30-05:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7034561,
+          40.4123226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7484813,
+          40.4123296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7493013,
+          40.4124911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6322244,
+          40.4125435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2697589088,
+        "hasDetails": true,
+        "name": "Contraclub",
+        "amenity": "nightclub",
+        "address": "Calle de Bail\u00e9n 16, Madrid",
+        "website": "http://www.contraclub.es/#!informacion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7139466,
+          40.4126029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1367876566,
+        "hasDetails": true,
+        "name": "Teatro Monumental",
+        "amenity": "theatre",
+        "wikidata": "Q3516764",
+        "wikipedia": "es:Teatro Monumental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6991127,
+          40.412604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10994718106,
+        "hasDetails": true,
+        "name": "Heroe Bar de los 80",
+        "amenity": "nightclub",
+        "address": "Costanilla de los Desamparados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6964904,
+          40.4126697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5167415223,
+        "hasDetails": true,
+        "name": "Mi madre era una groupie",
+        "amenity": "nightclub",
+        "address": "Calle Santa Polonia 5, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6974464,
+          40.4126894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 292002478,
+        "hasDetails": true,
+        "name": "Monumental",
+        "amenity": "theatre",
+        "wikidata": "Q37469265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6990171,
+          40.4127039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6998094,
+          40.4128279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4718119369,
+        "hasDetails": true,
+        "name": "RockNRolla",
+        "amenity": "nightclub",
+        "address": "Costanilla de los Desamparados 4, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6965866,
+          40.4128372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 136005925,
+        "hasDetails": true,
+        "name": "La Riviera",
+        "amenity": "nightclub",
+        "address": "Paseo Bajo de la Virgen del Puerto, Madrid",
+        "website": "https://salariviera.com/",
+        "opening_hours": "\"Depende de la programaci\u00f3n\"",
+        "wikidata": "Q10315093",
+        "wikipedia": "es:Sala La Riviera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7221344,
+          40.4129871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3647679317,
+        "hasDetails": true,
+        "name": "Marula Caf\u00e9",
+        "amenity": "nightclub",
+        "website": "https://marulacafe.com/mad/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7132871,
+          40.4133862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7035482,
+          40.4134369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 268051340,
+        "hasDetails": true,
+        "name": "Yelmo Cines Ideal",
+        "amenity": "cinema",
+        "address": "Calle del Doctor Cortezo 6, Madrid",
+        "website": "http://www.yelmocines.es",
+        "wikidata": "Q5769490",
+        "wikipedia": "es:Cine Ideal (Madrid)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.703938,
+          40.4135665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 23596451,
+        "hasDetails": true,
+        "name": "Palacio de Cristal",
+        "amenity": "arts_centre",
+        "wikidata": "Q2420025",
+        "wikipedia": "es:Palacio de Cristal del Retiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.682057,
+          40.4135924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12976822513,
+        "hasDetails": true,
+        "name": "Auditorio Marcelino Camacho",
+        "amenity": "theatre",
+        "address": "Calle de Lope de Vega 38, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.694374,
+          40.4136704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9826790017,
+        "hasDetails": true,
+        "name": "Icon Bar",
+        "amenity": "nightclub",
+        "address": "Calle del Doctor Cortezo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.703592,
+          40.4137067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7127079,
+          40.4137748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 162920613,
+        "hasDetails": true,
+        "name": "Teatro Auditorio. Pabell\u00f3n del INI.",
+        "amenity": "theatre",
+        "website": "https://www.madrid-destino.com/espacios-y-eventos/instalaciones/teatro-auditorio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7412911,
+          40.4137966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 49016418,
+        "hasDetails": true,
+        "name": "Teatro Calder\u00f3n",
+        "amenity": "theatre",
+        "address": "Calle del Doctor Cortezo 1, Madrid",
+        "wikidata": "Q6381861",
+        "wikipedia": "es:Teatro Calder\u00f3n (Madrid)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7033951,
+          40.413895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7126579,
+          40.4139984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 622204624,
+        "hasDetails": true,
+        "name": "Teatro Espa\u00f1ol",
+        "amenity": "theatre",
+        "website": "https://www.teatroespanol.es/",
+        "wikidata": "Q3891573",
+        "wikipedia": "es:Teatro Espa\u00f1ol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7001523,
+          40.414865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 18253505,
+        "hasDetails": true,
+        "name": "Centro Sefarad-Israel",
+        "amenity": "arts_centre",
+        "address": "Calle Mayor 69, Madrid",
+        "website": "http://www.casasefarad-israel.es/",
+        "wikidata": "Q29942684",
+        "wikipedia": "es:Palacio de Ca\u00f1ete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7112573,
+          40.4151742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1022094161,
+        "hasDetails": true,
+        "name": "Ateneo Cient\u00edfico, Literario y Art\u00edstico de Madrid",
+        "amenity": "arts_centre",
+        "address": "Calle del Prado 19, Madrid",
+        "website": "https://www.ateneodemadrid.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6983059,
+          40.4151747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12772983245,
+        "hasDetails": true,
+        "name": "Calle 365",
+        "amenity": "nightclub",
+        "address": "Calle de Echegaray 18",
+        "website": "https://calle365madrid.com/",
+        "opening_hours": "Mo-Th 18:00-03:00; Fr-Sa 18:00-03:30; Su 18:00-03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6996408,
+          40.4151775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 23595002,
+        "hasDetails": true,
+        "name": "Palacio de Vel\u00e1zquez",
+        "amenity": "arts_centre",
+        "wikidata": "Q3891623",
+        "wikipedia": "es:Palacio de Vel\u00e1zquez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6819828,
+          40.4151922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4177215772,
+        "hasDetails": true,
+        "name": "Commo",
+        "amenity": "nightclub",
+        "address": "Calle de Espoz y Mina 22, Madrid",
+        "website": "http://www.partyareamadrid.com/locales-partyareamadrid/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7023992,
+          40.4152649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 235504227,
+        "hasDetails": true,
+        "name": "Ateneo Cient\u00edfico, Literario y Art\u00edstico de Madrid",
+        "amenity": "arts_centre",
+        "address": "Calle del Prado 21, Madrid",
+        "website": "https://www.ateneodemadrid.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6983947,
+          40.415313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13440856094,
+        "hasDetails": true,
+        "name": "Teatro Alb\u00e9niz",
+        "amenity": "theatre",
+        "address": "Calle de la Paz 11, Madrid",
+        "website": "https://umusic-hotels.com/umusic-hotel-madrid/theater-albeniz/",
+        "wikidata": "Q6139586",
+        "wikipedia": "es:Teatro Alb\u00e9niz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7040234,
+          40.4154216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4699333550,
+        "hasDetails": true,
+        "name": "Cardamomo Tablao Flamenco",
+        "amenity": "theatre",
+        "address": "Calle de Echegaray 15, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6995555,
+          40.4154284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 929294331,
+        "hasDetails": true,
+        "name": "Teatro de la Comedia",
+        "amenity": "theatre",
+        "address": "Calle del Pr\u00edncipe 14, Madrid",
+        "website": "https://teatroclasico.mcu.es/",
+        "wikidata": "Q10378974",
+        "wikipedia": "es:Teatro de la Comedia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7003987,
+          40.4156155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8911480318,
+        "hasDetails": true,
+        "name": "Macera Club",
+        "amenity": "nightclub",
+        "website": "https://maceraclub.com/",
+        "opening_hours": "Su 17:00-01:00; We-Th 18:00-02:00; Fr 18:00-03:00; Sa 17:00-03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6988336,
+          40.4156793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9871243017,
+        "hasDetails": true,
+        "name": "Discoteca El Son",
+        "amenity": "nightclub",
+        "address": "Calle de la Victoria 6",
+        "website": "http://www.discotecaelson.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7017521,
+          40.4160068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8564194900,
+        "hasDetails": true,
+        "name": "La esquinita del Artista",
+        "amenity": "arts_centre",
+        "website": "http://www.laesquinitadelartista.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6717687,
+          40.4160113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 692639989,
+        "hasDetails": true,
+        "name": "Casa Amante",
+        "amenity": "nightclub",
+        "address": "Calle de Santiago 3, 28013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7099152,
+          40.4160873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 937066556,
+        "hasDetails": true,
+        "name": "Teatro Reina Victoria",
+        "amenity": "theatre",
+        "address": "Carrera de San Jer\u00f3nimo 24",
+        "website": "https://www.elteatroreinavictoria.com/",
+        "wikidata": "Q6139886",
+        "wikipedia": "es:Teatro Reina Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6998544,
+          40.4165062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8662149,
+          40.4166997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4554111290,
+        "hasDetails": true,
+        "name": "Escenario Puerta del \u00c1ngel",
+        "amenity": "theatre",
+        "address": "Calle Herradura 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7277127,
+          40.4169431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12700360601,
+        "hasDetails": true,
+        "name": "Ochoymedio",
+        "amenity": "nightclub",
+        "address": "Calle Arenal 11",
+        "website": "https://ochoymedioclub.com/",
+        "opening_hours": "Fr-Sa 00:00-06:00",
+        "names": [
+          "Ochoymedio",
+          "Joy Eslava"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7063923,
+          40.4171084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 17883273,
+        "hasDetails": true,
+        "name": "Teatro de la Zarzuela",
+        "amenity": "theatre",
+        "address": "Calle de Jovellanos 4, Madrid",
+        "website": "http://teatrodelazarzuela.mcu.es/",
+        "wikidata": "Q3321632",
+        "wikipedia": "es:Teatro de la Zarzuela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6971409,
+          40.4172389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 256390684,
+        "hasDetails": true,
+        "name": "Teatro Magno",
+        "amenity": "nightclub",
+        "address": "Calle de Los Madrazo 7, Madrid",
+        "website": "https://teatromagno.com/",
+        "wikidata": "Q9082119",
+        "wikipedia": "es:Teatro Arniches (Madrid)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6982415,
+          40.4173664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5363453871,
+        "hasDetails": true,
+        "amenity": "casino",
+        "address": "Calle de la Montera 5, Madrid",
+        "website": "https://www.madridjpjuegos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7030687,
+          40.4173765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 19709138,
+        "hasDetails": true,
+        "name": "Teatro Alc\u00e1zar",
+        "amenity": "theatre",
+        "address": "Calle de Alcal\u00e1 20, Madrid",
+        "website": "https://gruposmedia.com/teatro-alcazar/",
+        "wikidata": "Q6139588",
+        "wikipedia": "es:Teatro Alc\u00e1zar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6989247,
+          40.4174527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3373090977,
+        "hasDetails": true,
+        "name": "Espacio Niram",
+        "amenity": "arts_centre",
+        "address": "Calle de Independencia 2, Madrid",
+        "website": "https://espacioniram.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7099213,
+          40.4175634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10574487010,
+        "hasDetails": true,
+        "name": "Mondo Disko",
+        "amenity": "nightclub",
+        "address": "Calle de Alcal\u00e1 20",
+        "website": "https://mondodisko.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6989375,
+          40.4178268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9906134205,
+        "hasDetails": true,
+        "name": "Juegosiesta",
+        "amenity": "casino",
+        "address": "Calle de Alcal\u00e1 15, Madrid",
+        "website": "https://juegosiesta.com/apuestas-deportivas/mejores-cuotas/",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7004834,
+          40.4180441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6962744,
+          40.4180464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1474148147,
+        "hasDetails": true,
+        "name": "Teatro Bellas Artes",
+        "amenity": "theatre",
+        "address": "Calle del Marqu\u00e9s de Casa Riera 2, Madrid",
+        "wikidata": "Q6139609",
+        "wikipedia": "es:Teatro Bellas Artes (Madrid)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6963263,
+          40.4181727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4328975,
+        "hasDetails": true,
+        "name": "Teatro Real",
+        "amenity": "theatre",
+        "address": "Plaza de Isabel II, Madrid",
+        "website": "https://www.teatroreal.es",
+        "wikidata": "Q211250",
+        "wikipedia": "es:Teatro Real (Madrid)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.710583,
+          40.4182094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 534586118,
+        "hasDetails": true,
+        "name": "Teatro Mu\u00f1oz Seca",
+        "amenity": "theatre",
+        "address": "Plaza del Carmen 1",
+        "website": "https://www.teatromunozseca.es/",
+        "opening_hours": "Mo-Th off; Fr 18:00-21:00; Sa 17:00-20:00; Su 16:00-19:00",
+        "wikidata": "Q2879450",
+        "wikipedia": "es:Teatro Mu\u00f1oz Seca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7032747,
+          40.4183658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10198399117,
+        "hasDetails": true,
+        "name": "Moondance",
+        "amenity": "nightclub",
+        "address": "Calle de la Aduana 21",
+        "opening_hours": "Th-Su 23:59-06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7010518,
+          40.4184103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6205303,
+          40.4186309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 562785827,
+        "hasDetails": true,
+        "name": "Teatro de T\u00edteres de El Retiro",
+        "amenity": "theatre",
+        "website": "https://teatrotiteresretiro.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6867038,
+          40.4187135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7084425,
+          40.4187733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4402846589,
+        "hasDetails": true,
+        "name": "CentroCentro",
+        "amenity": "arts_centre",
+        "address": "Plaza de la Cibeles 1, Madrid",
+        "website": "https://www.centrocentro.org/",
+        "opening_hours": "Tu-Su 10:15-20:00",
+        "wikidata": "Q3773976",
+        "wikipedia": "es:Ayuntamiento de Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6920892,
+          40.4189657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2779006949,
+        "hasDetails": true,
+        "name": "Sala El Sol",
+        "amenity": "nightclub",
+        "address": "Calle de los Jardines 3, Madrid",
+        "website": "https://salaelsol.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.701625,
+          40.4189786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7083893,
+          40.4190867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7034391,
+          40.4192198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11277866104,
+        "hasDetails": true,
+        "name": "Encuentros VIP Madrid",
+        "amenity": "nightclub",
+        "address": "Calle de Vicente Caballero 14",
+        "website": "https://encuentrosvip.com/",
+        "opening_hours": "Mo-Su 16:00-06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6684867,
+          40.419222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4736042053,
+        "hasDetails": true,
+        "name": "Cadavra Club",
+        "amenity": "nightclub",
+        "address": "Calle del Caballero de Gracia 10, Madrid",
+        "website": "https://cadavraclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7007184,
+          40.4194363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4856145254,
+        "hasDetails": true,
+        "name": "Falco Films",
+        "amenity": "cinema",
+        "website": "https://falcofilms.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7974782,
+          40.4194401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 184049331,
+        "hasDetails": true,
+        "name": "Teatro Pr\u00edncipe Gran V\u00eda",
+        "amenity": "theatre",
+        "address": "Calle de las Tres Cruces 8",
+        "wikidata": "Q66135427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7026244,
+          40.4195823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6970609,
+          40.4196291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7972105,
+          40.4197576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3430170245,
+        "hasDetails": true,
+        "name": "Tablao Torres Bermejas",
+        "amenity": "theatre",
+        "address": "Calle de Mesonero Romanos 11, Madrid",
+        "website": "https://www.torresbermejas.com/index.php/es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7042697,
+          40.4197692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6911335,
+          40.4199239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3007306701,
+        "hasDetails": true,
+        "name": "Cines Callao",
+        "amenity": "cinema",
+        "address": "Plaza de Callao 3",
+        "wikidata": "Q5769470",
+        "wikipedia": "es:Cine Callao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7060654,
+          40.4199478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 262485837,
+        "hasDetails": true,
+        "name": "Renoir Retiro",
+        "amenity": "cinema",
+        "address": "Calle de Narv\u00e1ez 42, Madrid",
+        "wikidata": "Q28936851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6764364,
+          40.4200934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5754139100,
+        "hasDetails": true,
+        "name": "Casino Gran Via",
+        "amenity": "casino",
+        "address": "Gran V\u00eda 24, Madrid",
+        "website": "https://www.casinogranvia.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7010282,
+          40.4201455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2696236496,
+        "hasDetails": true,
+        "name": "Velvet",
+        "amenity": "nightclub",
+        "address": "Calle de Jacometrezo 6, Madrid",
+        "website": "https://www.velvetdisco.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7076421,
+          40.4203387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4745037859,
+        "hasDetails": true,
+        "name": "DT",
+        "amenity": "theatre",
+        "address": "Calle de la Reina 9, Madrid",
+        "website": "http://dtespacioescenico.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7003097,
+          40.4204173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 658140724,
+        "hasDetails": true,
+        "name": "Cine Palacio de la Prensa",
+        "amenity": "cinema",
+        "address": "Plaza de Callao 4, Madrid",
+        "website": "https://callaocitylights.reservaentradas.com/cine/palaciodelaprensa/",
+        "wikidata": "Q37468558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7058271,
+          40.4204713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 184049531,
+        "hasDetails": true,
+        "name": "Cine Capitol",
+        "amenity": "cinema",
+        "wikidata": "Q5769473",
+        "wikipedia": "es:Cine Capitol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7066782,
+          40.4205118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2694452206,
+        "hasDetails": true,
+        "name": "Marta, cari\u00f1o!",
+        "amenity": "nightclub",
+        "address": "Calle de Silva 4, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7077304,
+          40.4206157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2527850685,
+        "hasDetails": true,
+        "name": "Caf\u00e9 Libertad 8",
+        "amenity": "theatre",
+        "address": "Calle de la Libertad 8, Madrid",
+        "website": "https://libertad8cafe.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6973412,
+          40.4207411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4695709000,
+        "hasDetails": true,
+        "name": "Gran Teatro Caixabank Pr\u00edncipe P\u00edo",
+        "amenity": "theatre",
+        "address": "Cuesta de San Vicente 44, Madrid",
+        "website": "http://laestacion.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7187511,
+          40.4208539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7097192,
+          40.4210345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4703448414,
+        "hasDetails": true,
+        "name": "Ya'sta",
+        "amenity": "nightclub",
+        "address": "Calle de Valverde 10, Madrid",
+        "website": "http://www.yastaclub.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7020108,
+          40.421072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11822292021,
+        "hasDetails": true,
+        "name": "Stardust Club",
+        "amenity": "nightclub",
+        "address": "Calle de Isabel La Cat\u00f3lica 6",
+        "website": "https://stardustclub.es",
+        "opening_hours": "Fr, Sa 00:00-06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7090024,
+          40.4211316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6512876415,
+        "hasDetails": true,
+        "name": "Bearbie Madrid",
+        "amenity": "nightclub",
+        "address": "Plaza de Pedro Zerolo, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6997786,
+          40.4211462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7200226,
+          40.4211505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1877642117,
+        "hasDetails": true,
+        "name": "Teatro Arlequ\u00edn Gran V\u00eda",
+        "amenity": "theatre",
+        "address": "Calle de San Bernardo 5, Madrid",
+        "website": "http://teatroarlequingranvia.com/",
+        "wikidata": "Q21483924",
+        "wikipedia": "es:Teatro Arlequ\u00edn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7082023,
+          40.4211706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9756985020,
+        "hasDetails": true,
+        "name": "Stigmata Vampire & Gothic Club",
+        "amenity": "nightclub",
+        "opening_hours": "Fr 21:00-03:30; Sa 22:00-03:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7104274,
+          40.4211908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3685201568,
+        "hasDetails": true,
+        "name": "Sala Cool",
+        "amenity": "nightclub",
+        "address": "Calle de Isabel La Cat\u00f3lica 6, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7090696,
+          40.4212342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6553934900,
+        "hasDetails": true,
+        "name": "Lula Club",
+        "amenity": "nightclub",
+        "address": "Gran V\u00eda 54, Madrid",
+        "website": "https://lula.club/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7071374,
+          40.4212349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 623071250,
+        "hasDetails": true,
+        "name": "Teatro Rialto",
+        "amenity": "theatre",
+        "address": "Gran V\u00eda 54, Madrid",
+        "wikidata": "Q5769684",
+        "wikipedia": "es:Teatro Rialto (Madrid)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7072389,
+          40.421301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3603166808,
+        "hasDetails": true,
+        "name": "Sala Azarte",
+        "amenity": "theatre",
+        "website": "https://azarte.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6983305,
+          40.4214007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4678235388,
+        "hasDetails": true,
+        "name": "Microteatro",
+        "amenity": "theatre",
+        "address": "Calle de Loreto Prado y Enrique Chicote 9, Madrid",
+        "website": "http://microteatro.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7040918,
+          40.4215375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3507803788,
+        "hasDetails": true,
+        "name": "Gabana",
+        "amenity": "nightclub",
+        "address": "Calle de Vel\u00e1zquez 6",
+        "website": "https://www.gabana.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6841825,
+          40.4217715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 623071247,
+        "hasDetails": true,
+        "name": "Teatro Lope de Vega",
+        "amenity": "theatre",
+        "address": "Gran V\u00eda 57, Madrid",
+        "wikidata": "Q6676154",
+        "wikipedia": "es:Teatro Lope de Vega (Madrid)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70869,
+          40.4217768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3680014994,
+        "hasDetails": true,
+        "name": "Sala Republik",
+        "amenity": "nightclub",
+        "address": "Calle de la Puebla 6, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7022591,
+          40.4220548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 335412089,
+        "hasDetails": true,
+        "name": "Teatro Marquina",
+        "amenity": "theatre",
+        "wikidata": "Q9082161",
+        "wikipedia": "es:Teatro Marquina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.693722,
+          40.4220759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8074958152,
+        "hasDetails": true,
+        "name": "Morocco",
+        "amenity": "nightclub",
+        "address": "Calle del Marqu\u00e9s de Legan\u00e9s 7, Madrid",
+        "website": "http://salamoroccomadrid.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7073814,
+          40.4221104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1530664301,
+        "hasDetails": true,
+        "name": "Teatro de Lara",
+        "amenity": "theatre",
+        "address": "Corredera Baja de San Pablo 15, Madrid",
+        "website": "https://www.teatrolara.com/",
+        "wikidata": "Q6139776",
+        "wikipedia": "es:Teatro Lara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7043663,
+          40.4221297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 214456035,
+        "hasDetails": true,
+        "name": "Teatro Infanta Isabel",
+        "amenity": "theatre",
+        "address": "Calle del Barquillo 24",
+        "website": "https://www.teatroinfantaisabel.es",
+        "wikidata": "Q6139753",
+        "wikipedia": "es:Teatro Infanta Isabel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6953854,
+          40.4222241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6970775,
+          40.4222383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 600212332,
+        "hasDetails": true,
+        "name": "Teatro Gran V\u00eda",
+        "amenity": "theatre",
+        "address": "Gran V\u00eda 66, Madrid",
+        "website": "https://gruposmedia.com/teatro-edp-gran-via/",
+        "wikidata": "Q8346271",
+        "wikipedia": "es:Cine Gran V\u00eda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7088477,
+          40.4223397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7210854,
+          40.4225834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.691016,
+          40.422624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11777817669,
+        "hasDetails": true,
+        "name": "Centro Cultural Flamenco Madrid",
+        "amenity": "theatre",
+        "address": "Calle del Conde de Xiquena 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6940527,
+          40.4226799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5303416,
+          40.4226841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3007302450,
+        "hasDetails": true,
+        "name": "Teatro Sof\u00eda",
+        "amenity": "theatre",
+        "address": "Gran V\u00eda 70, Madrid",
+        "website": "https://www.lachocitadelloro.com/Teatro-La-Chocita-del-Loro-Senator.php",
+        "wikidata": "Q37469082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.709553,
+          40.4227884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 335583298,
+        "hasDetails": true,
+        "name": "Teatro Mar\u00eda Guerrero",
+        "amenity": "theatre",
+        "address": "Calle de Tamayo y Baus 4, Madrid",
+        "website": "https://cdn.mcu.es/el-cdn/maria-guerrero/",
+        "wikidata": "Q5399324",
+        "wikipedia": "es:Teatro Mar\u00eda Guerrero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6927899,
+          40.4228602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2731037267,
+        "hasDetails": true,
+        "name": "Master Plat\u00f3",
+        "amenity": "nightclub",
+        "address": "Plaza de los Mostenses, Madrid",
+        "website": "https://www.masterplato-karaoke.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7089795,
+          40.4229097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2678581206,
+        "hasDetails": true,
+        "name": "Golden",
+        "amenity": "nightclub",
+        "address": "Plaza de los Mostenses 11, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7087456,
+          40.4230136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2639591612,
+        "hasDetails": true,
+        "name": "El Intruso",
+        "amenity": "nightclub",
+        "address": "Calle de Augusto Figueroa 3, Madrid",
+        "website": "https://www.intrusobar.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7001733,
+          40.4230276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2688163583,
+        "hasDetails": true,
+        "name": "Sala Vesta",
+        "amenity": "nightclub",
+        "address": "Calle del Barquillo 29, Madrid",
+        "website": "https://salavesta.com",
+        "opening_hours": "Su-Th 17:00-05:30; Fr,Sa 17:00-06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6956681,
+          40.4230419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5700181958,
+        "hasDetails": true,
+        "name": "Teatro Flamenco Madrid",
+        "amenity": "theatre",
+        "address": "Calle del Pez 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7044582,
+          40.4231556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 26066575,
+        "hasDetails": true,
+        "name": "Teatro Alfil",
+        "amenity": "theatre",
+        "address": "Calle del Pez 10, Madrid",
+        "wikidata": "Q6139590",
+        "wikipedia": "es:Teatro Alfil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7045532,
+          40.4232134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 85817341,
+        "hasDetails": true,
+        "name": "Nuevo Teatro Alcal\u00e1",
+        "amenity": "theatre",
+        "website": "http://www.teatroalcalamadrid.com",
+        "wikidata": "Q9051124",
+        "wikipedia": "es:Nuevo Teatro Alcal\u00e1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6781032,
+          40.423231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9303690145,
+        "hasDetails": true,
+        "name": "Teatro Coliseum",
+        "amenity": "theatre",
+        "address": "Gran V\u00eda 78, Madrid",
+        "wikidata": "Q6139667",
+        "wikipedia": "es:Edificio Coliseum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.710327,
+          40.4232763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4834869278,
+        "hasDetails": true,
+        "name": "Leather Club (gay)",
+        "amenity": "nightclub",
+        "address": "Calle de Pelayo 42",
+        "opening_hours": "Mo-Su 20:00-03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6979305,
+          40.423478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2583955839,
+        "hasDetails": true,
+        "name": "Teatro Victoria",
+        "amenity": "theatre",
+        "address": "Calle del Pez 17, Madrid",
+        "website": "https://www.teatrovictoria.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7055499,
+          40.4237539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 245228435,
+        "hasDetails": true,
+        "name": "Teatro San Pol",
+        "amenity": "theatre",
+        "address": "Plaza de San Pol de Mar 1, Madrid",
+        "website": "https://www.teatrosanpol.com/",
+        "wikidata": "Q45911498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7269818,
+          40.42404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6962623,
+          40.4242623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2703977214,
+        "hasDetails": true,
+        "name": "Rocksde",
+        "amenity": "nightclub",
+        "address": "Calle del Marqu\u00e9s de Santa Ana 11, Madrid",
+        "website": "https://rockade.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7051662,
+          40.4242939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 622204566,
+        "hasDetails": true,
+        "name": "Cines Renoir Plaza de Espa\u00f1a",
+        "amenity": "cinema",
+        "address": "Calle de Mart\u00edn de los Heros 12, Madrid",
+        "website": "http://www.cinesrenoir.com/cartelera/cine/E746B8D4524AAA5B/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7134171,
+          40.4244029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3426644993,
+        "hasDetails": true,
+        "name": "Casino Gran Madrid",
+        "amenity": "casino",
+        "address": "Paseo de Recoletos 37",
+        "website": "https://www.casinogranmadrid.es/colon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6913834,
+          40.4245328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5437763,
+          40.4245356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 623071233,
+        "hasDetails": true,
+        "name": "Cines Golem",
+        "amenity": "cinema",
+        "address": "Calle de Mart\u00edn de los Heros 14, Madrid",
+        "website": "http://www.golem.es/golemv9/cine.php?idCine=8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7136082,
+          40.4246171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8493929935,
+        "hasDetails": true,
+        "name": "Borinquen",
+        "amenity": "nightclub",
+        "address": "Calle Fundadores 7, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6677131,
+          40.4247052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1621005283,
+        "hasDetails": true,
+        "name": "Fitz Club",
+        "amenity": "nightclub",
+        "address": "Calle de la Princesa 1, Madrid",
+        "website": "https://fitzclubmadrid.com",
+        "opening_hours": "Su,Mo off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7122142,
+          40.4247168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 116868015,
+        "hasDetails": true,
+        "name": "Institut fran\u00e7ais de Madrid",
+        "amenity": "arts_centre",
+        "address": "Calle del Marqu\u00e9s de la Ensenada 12, Madrid",
+        "website": "https://www.institutfrancais.es/madrid/",
+        "wikidata": "Q55228075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.692198,
+          40.4247366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3710459853,
+        "hasDetails": true,
+        "name": "Sala Pirandello",
+        "amenity": "nightclub",
+        "address": "Calle de Mart\u00edn de los Heros 14, Madrid",
+        "website": "http://www.salarena.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.713805,
+          40.4248377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4821323921,
+        "hasDetails": true,
+        "name": "DLRO Live",
+        "amenity": "nightclub",
+        "address": "Calle de Pelayo 59",
+        "website": "https://deliriochueca.com/",
+        "opening_hours": "Su-Th 00:00-05:30; Fr,Sa,PH 00:00-06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6969418,
+          40.4248932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8039199,
+        "hasDetails": true,
+        "name": "Teatro Fern\u00e1n G\u00f3mez",
+        "amenity": "theatre",
+        "wikidata": "Q6139714",
+        "wikipedia": "es:Teatro Fern\u00e1n G\u00f3mez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6898478,
+          40.4249063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 658140726,
+        "hasDetails": true,
+        "name": "Cines Princesa Salas 10-11",
+        "amenity": "cinema",
+        "address": "Pasaje Mart\u00edn de los Heros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7134276,
+          40.4249263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 390582227,
+        "hasDetails": true,
+        "name": "Galer\u00eda de arte Dionis Bennassar",
+        "amenity": "arts_centre",
+        "address": "Calle de San Lorenzo 15, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.698398,
+          40.4249296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7138876,
+          40.4249302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7129287,
+          40.4249833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11889122656,
+        "hasDetails": true,
+        "name": "Caro Club",
+        "amenity": "nightclub",
+        "website": "https://caroclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917145,
+          40.4250895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2621636924,
+        "hasDetails": true,
+        "name": "Cines Conde Duque Goya",
+        "amenity": "cinema",
+        "address": "Calle de Goya 67, Madrid",
+        "website": "http://www.cinescondeduque.es/web/conde-duque-goya/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6796577,
+          40.4251426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6897038,
+          40.4252538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6829257,
+          40.4254007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.650752,
+          40.4255258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6615815,
+          40.4255468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5325555,
+          40.4256054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6951833,
+          40.4257705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10197862117,
+        "hasDetails": true,
+        "name": "Maravillas Club",
+        "amenity": "nightclub",
+        "address": "Calle de San Vicente Ferrer 33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7044097,
+          40.4257747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3361315178,
+        "hasDetails": true,
+        "name": "Teatro Nueve Norte",
+        "amenity": "theatre",
+        "address": "Calle del Norte 9, Madrid",
+        "website": "http://www.nuevenorte.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7076058,
+          40.4260211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2702466190,
+        "hasDetails": true,
+        "name": "Lucy In The Sky",
+        "amenity": "nightclub",
+        "address": "Calle de San Vicente Ferrer 55, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7078435,
+          40.4261184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4701447670,
+        "hasDetails": true,
+        "name": "Boite Alfonso",
+        "amenity": "nightclub",
+        "address": "Calle de las Negras, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7126018,
+          40.4261805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4686806242,
+        "hasDetails": true,
+        "name": "The Host",
+        "amenity": "nightclub",
+        "address": "Calle de Ferraz 38, Madrid",
+        "website": "http://www.thehostclub.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7173099,
+          40.4263136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6949445,
+          40.4263366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8125287400,
+        "hasDetails": true,
+        "name": "Le Mur",
+        "amenity": "arts_centre",
+        "address": "Calle de Amaniel 20, Madrid",
+        "website": "https://lemurgallery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7092773,
+          40.426361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 963308112,
+        "hasDetails": true,
+        "name": "Teatro Municipal de Coslada",
+        "amenity": "theatre",
+        "address": "Avenida de los Pr\u00edncipes de Espa\u00f1a 2, Coslada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5518902,
+          40.4264917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5650147,
+          40.4264982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5627444,
+          40.4265204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5420773,
+          40.4265775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8125287396,
+        "hasDetails": true,
+        "name": "La Integra",
+        "amenity": "theatre",
+        "address": "Calle de Amaniel 24, Madrid",
+        "website": "https://www.laintegrateatro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7093025,
+          40.4266023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 549722981,
+        "hasDetails": true,
+        "name": "Cine de verano La Bombilla",
+        "amenity": "cinema",
+        "website": "https://www.fescinal.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7261045,
+          40.42663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5416559,
+          40.4266328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5375200493,
+        "hasDetails": true,
+        "name": "Teatro Intemperie",
+        "amenity": "theatre",
+        "address": "Calle de Velarde 15, Madrid",
+        "website": "http://intemperieteatro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7033733,
+          40.4267996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10614989245,
+        "hasDetails": true,
+        "name": "Siroco",
+        "amenity": "nightclub",
+        "address": "Calle de San Dimas 3, Madrid",
+        "website": "https://siroco.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7077365,
+          40.4269196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 355513279,
+        "hasDetails": true,
+        "name": "Teatro Barcel\u00f3",
+        "amenity": "theatre",
+        "address": "Calle de Barcel\u00f3 11, Madrid",
+        "website": "https://teatrobarcelo.com/",
+        "wikidata": "Q5769468",
+        "wikipedia": "es:Cine Barcel\u00f3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6997313,
+          40.4270506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7047445,
+          40.4270542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 73436,
+        "hasDetails": true,
+        "name": "Centro de Cultura Contempor\u00e1nea Conde Duque",
+        "amenity": "arts_centre",
+        "website": "https://www.condeduquemadrid.es/",
+        "wikidata": "Q5191859",
+        "wikipedia": "es:Cuartel del Conde-Duque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7110579,
+          40.4275138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3461870818,
+        "hasDetails": true,
+        "name": "Galer\u00eda de Arte Movart",
+        "amenity": "arts_centre",
+        "address": "Calle del Conde Duque 28, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7102923,
+          40.4275655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4821323922,
+        "hasDetails": true,
+        "name": "At Substation",
+        "amenity": "nightclub",
+        "address": "Calle de Montserrat 30",
+        "opening_hours": "Mo-Th 22:00-04:00; Fr-Sa 23:30-06:30; Su 20:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7091508,
+          40.4279566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2671114636,
+        "hasDetails": true,
+        "name": "Que Guay",
+        "amenity": "nightclub",
+        "address": "Calle de Amaniel 33, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7096308,
+          40.4279772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4821324021,
+        "hasDetails": true,
+        "name": "Naked Bar Madrid",
+        "amenity": "nightclub",
+        "address": "Calle de Montele\u00f3n 5",
+        "website": "https://nakedbarmadrid.com/",
+        "opening_hours": "Mo-Fr 18:00-03:00; Sa-Su 18:00-03:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7051262,
+          40.4280954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3628683894,
+        "hasDetails": true,
+        "name": "Moroder Sound Club",
+        "amenity": "nightclub",
+        "address": "Calle de San Hermenegildo 7, Madrid",
+        "website": "http://www.morodersoundclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7074475,
+          40.428265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5513737,
+          40.4283736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7859429,
+          40.4285959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6875739,
+          40.4286456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 267588624,
+        "hasDetails": true,
+        "name": "Teatro Maravillas",
+        "amenity": "theatre",
+        "wikidata": "Q6139794",
+        "wikipedia": "es:Teatro Maravillas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7032629,
+          40.4286897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6874118,
+          40.428821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5318064,
+          40.4289188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6873859,
+          40.4290015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6538176709,
+        "hasDetails": true,
+        "name": "Le Boutique Club",
+        "amenity": "nightclub",
+        "website": "https://www.leboutique.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6876109,
+          40.4292074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1434655892,
+        "hasDetails": true,
+        "name": "Conde Duque",
+        "amenity": "cinema",
+        "address": "Calle de Alberto Aguilera 4",
+        "opening_hours": "Mo-Su 16:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7065216,
+          40.4298099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 501055006,
+        "hasDetails": true,
+        "name": "Auditorio Parque El Para\u00edso",
+        "amenity": "theatre",
+        "address": "Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6217026,
+          40.4299676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1016578387,
+        "hasDetails": true,
+        "name": "Cine Yelmo Luxury",
+        "amenity": "cinema",
+        "address": "Calle de Luchana 15, Madrid",
+        "website": "https://yelmocines.es/luxury",
+        "wikidata": "Q37469052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7008998,
+          40.4301024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6969902,
+          40.4301523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1357992373,
+        "hasDetails": true,
+        "name": "Cine Paz",
+        "amenity": "cinema",
+        "address": "Calle de Fuencarral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7034022,
+          40.4308724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5372481243,
+        "hasDetails": true,
+        "name": "Trashcan Music Club",
+        "amenity": "nightclub",
+        "address": "Calle del Cardenal Cisneros 30, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7019821,
+          40.4315245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 248905967,
+        "hasDetails": true,
+        "name": "Cinesa Proyecciones",
+        "amenity": "cinema",
+        "address": "Calle de Fuencarral 136, Madrid",
+        "website": "https://www.cinesa.es/Cines/Proyecciones",
+        "wikidata": "Q37469110",
+        "wikipedia": "en:Cine Proyecciones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7029394,
+          40.431556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5723712639,
+        "hasDetails": true,
+        "name": "Kluster",
+        "amenity": "nightclub",
+        "address": "Calle de Covarrubias 42",
+        "names": [
+          "Kluster",
+          "Eventos Chang\u00f3 Club"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6981169,
+          40.4316301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2582170768,
+        "hasDetails": true,
+        "name": "Malaba Club",
+        "amenity": "nightclub",
+        "address": "Calle Cardenal Cisneros 32, Madrid",
+        "website": "https://malabaclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7020275,
+          40.4316938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4874423219,
+        "hasDetails": true,
+        "name": "Sala Mala Sa\u00f1a",
+        "amenity": "theatre",
+        "address": "Calle de Palafox 14, Madrid",
+        "website": "http://www.salamalasania.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7013342,
+          40.4317179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1016578314,
+        "hasDetails": true,
+        "name": "Teatros Luchana",
+        "amenity": "theatre",
+        "website": "https://teatrosluchana.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6982529,
+          40.4318686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4525351432,
+        "hasDetails": true,
+        "name": "Peque\u00f1o Cine Estudio",
+        "amenity": "cinema",
+        "address": "Calle de Magallanes 1, Madrid",
+        "website": "https://www.pcineestudio.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7058074,
+          40.4324328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7102181,
+          40.4324804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7059816,
+          40.4327335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4962757522,
+        "hasDetails": true,
+        "name": "Almonte",
+        "amenity": "nightclub",
+        "website": "http://www.almontesalarociera.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.678704,
+          40.4327561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 327475934,
+        "hasDetails": true,
+        "name": "Liberty",
+        "amenity": "nightclub",
+        "address": "Calle de Juan Bravo 31, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6789308,
+          40.4327679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12259255007,
+        "hasDetails": true,
+        "name": "URBAN Teatro",
+        "amenity": "theatre",
+        "address": "Calle de Emilio Ferrari 33, Madrid",
+        "website": "https://urbanteatro.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6423889,
+          40.4329592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4525351439,
+        "hasDetails": true,
+        "name": "Arapiles 16",
+        "amenity": "theatre",
+        "website": "http://escueladeactoresunir.com/sala-arapiles-16/la-sala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7082812,
+          40.4332289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7154422,
+          40.4333181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4668680262,
+        "hasDetails": true,
+        "name": "Teatro Guindalera",
+        "amenity": "theatre",
+        "address": "Calle de Mart\u00ednez Izquierdo 20, Madrid",
+        "website": "http://www.teatroguindalera.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6696505,
+          40.4334071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7147686,
+          40.4337289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 347355745,
+        "hasDetails": true,
+        "name": "Centro Cultural Galileo",
+        "amenity": "arts_centre",
+        "wikidata": "Q27031499",
+        "wikipedia": "es:Centro Cultural Galileo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7106672,
+          40.4338628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4688742298,
+        "hasDetails": true,
+        "name": "Vanity",
+        "amenity": "nightclub",
+        "address": "Calle de Miguel \u00c1ngel 3, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6914889,
+          40.4338633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 347355747,
+        "hasDetails": true,
+        "name": "Teatro Galileo",
+        "amenity": "theatre",
+        "address": "Calle de Galileo 39, Madrid",
+        "website": "https://galileoteatro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7111924,
+          40.4338852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7148706,
+          40.433893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13161110201,
+        "hasDetails": true,
+        "name": "Teatro Serrano",
+        "amenity": "theatre",
+        "address": "Calle de Serrano 104, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6863069,
+          40.4342509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1016578188,
+        "hasDetails": true,
+        "name": "Teatro Amaya",
+        "amenity": "theatre",
+        "address": "Paseo del General Mart\u00ednez Campos 9",
+        "wikidata": "Q63161974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6970943,
+          40.4351466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4227015746,
+        "hasDetails": true,
+        "name": "Caravan",
+        "amenity": "nightclub",
+        "website": "https://caravanmadrid.wordpress.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6959407,
+          40.4351724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1669117677,
+        "hasDetails": true,
+        "name": "Sala Cop\u00e9rnico",
+        "amenity": "nightclub",
+        "address": "Calle de Fern\u00e1ndez de los R\u00edos 67, Madrid",
+        "website": "https://salacopernico.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7135817,
+          40.4352677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5714907,
+        "hasDetails": true,
+        "name": "Teatro de la Abad\u00eda Centro de Estudios y Formaci\u00f3n Escenica de la Comunidad de Madrid",
+        "amenity": "arts_centre",
+        "address": "Calle de Fern\u00e1ndez de los R\u00edos 42, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7089087,
+          40.4353435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 266315488,
+        "hasDetails": true,
+        "name": "Teatro de La Abad\u00eda",
+        "amenity": "theatre",
+        "address": "Calle de Fern\u00e1ndez de los R\u00edos 42, Madrid",
+        "website": "https://www.teatroabadia.com/home/index.php",
+        "wikidata": "Q3982248",
+        "wikipedia": "es:Teatro de La Abad\u00eda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7095648,
+          40.4353577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7181342,
+          40.4354217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9202701544,
+        "hasDetails": true,
+        "name": "Club Swinger Okapi\u00b4Sw",
+        "amenity": "nightclub",
+        "address": "Calle de Vicente Espinel 8, Madrid",
+        "website": "https://www.okapis.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6412037,
+          40.435491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 446496535,
+        "hasDetails": true,
+        "name": "Teatro de La Abad\u00eda",
+        "amenity": "theatre",
+        "address": "Calle de Fern\u00e1ndez de los R\u00edos 42, Madrid",
+        "website": "https://www.teatroabadia.com/home/index.php",
+        "wikidata": "Q3982248",
+        "wikipedia": "es:Teatro de La Abad\u00eda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7096096,
+          40.4355768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5365812394,
+        "hasDetails": true,
+        "name": "Teatro Quevedo",
+        "amenity": "theatre",
+        "address": "Calle de Bravo Murillo 18, Madrid",
+        "website": "http://www.teatroquevedo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7041115,
+          40.4356334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8098294,
+          40.4356584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2981308483,
+        "hasDetails": true,
+        "name": "Sala Mon",
+        "amenity": "nightclub",
+        "address": "Calle de Hilari\u00f3n Eslava 36, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7164961,
+          40.4357657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2668403182,
+        "hasDetails": true,
+        "name": "Sala Berlanga",
+        "amenity": "cinema",
+        "address": "Calle de Andr\u00e9s Mellado 53, Madrid",
+        "website": "https://www.salaberlanga.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7144902,
+          40.43594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8031886,
+          40.4360919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12699943601,
+        "hasDetails": true,
+        "name": "U\u00f1as Chung Lee",
+        "amenity": "nightclub",
+        "address": "Calle de Hilari\u00f3n Eslava 38",
+        "website": "https://unaschunglee.com/",
+        "opening_hours": "Fr-Sa 00:00-06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7162928,
+          40.4361459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1016578413,
+        "hasDetails": true,
+        "name": "Cines Verdi",
+        "amenity": "cinema",
+        "address": "Calle de Bravo Murillo 28",
+        "website": "https://madrid.cines-verdi.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.704078,
+          40.4365689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6618509,
+          40.4365998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4264588226,
+        "hasDetails": true,
+        "name": "Cines Artesiete",
+        "amenity": "cinema",
+        "address": "Calle de Alcal\u00e1 414, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6378082,
+          40.4367357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6504647,
+          40.4367365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2664863059,
+        "hasDetails": true,
+        "name": "Gabana",
+        "amenity": "nightclub",
+        "address": "Calle de Mar\u00eda de Molina 39, Madrid",
+        "website": "https://www.gabana.es/",
+        "opening_hours": "We-Th 00:00-05:30; Fr-Sa 00:00-06:00; Su-Tu off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6796492,
+          40.4376293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12627911756,
+        "hasDetails": true,
+        "name": "La Que Faltaba",
+        "amenity": "nightclub",
+        "address": "Calle de Santa Engracia 84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6996753,
+          40.4376345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6304563712,
+        "hasDetails": true,
+        "name": "Cien por cien",
+        "amenity": "nightclub",
+        "address": "Calle de la Sant\u00edsima Trinidad 30, Madrid",
+        "website": "https://cienporcienmadrid.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7009961,
+          40.4378909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12058931774,
+        "hasDetails": true,
+        "name": "Epoka the Club",
+        "amenity": "nightclub",
+        "address": "Calle de Joaqu\u00edn Mar\u00eda L\u00f3pez 74, Madrid",
+        "website": "https://prvt.re/VMdaAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7174348,
+          40.4379269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3245207602,
+        "hasDetails": true,
+        "name": "Opium Madrid",
+        "amenity": "nightclub",
+        "address": "Calle de Jos\u00e9 Abascal 56, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6921718,
+          40.4379346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8184627,
+          40.4380819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4568431193,
+        "hasDetails": true,
+        "name": "Zoe",
+        "amenity": "nightclub",
+        "address": "Calle de Jos\u00e9 Abascal 8, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7009916,
+          40.4382379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 293703823,
+        "hasDetails": true,
+        "name": "Teatros del Canal",
+        "amenity": "theatre",
+        "website": "https://www.teatroscanal.com/",
+        "wikidata": "Q6140051",
+        "wikipedia": "es:Teatros del Canal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7051722,
+          40.4382403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11649011436,
+        "hasDetails": true,
+        "name": "Far\u00e1ndula",
+        "amenity": "theatre",
+        "address": "Calle de Galileo 98",
+        "names": [
+          "Far\u00e1ndula",
+          "Sala Galileo Galilei"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7098419,
+          40.4384328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10614982135,
+        "hasDetails": true,
+        "name": "Insomnio Club",
+        "amenity": "nightclub",
+        "address": "Calle de Cea Berm\u00fadez 21",
+        "website": "https://insomnioclub.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7095949,
+          40.4387032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 48238313,
+        "hasDetails": true,
+        "name": "Dep\u00f3sito del Canal de Isabel II",
+        "amenity": "arts_centre",
+        "wikidata": "Q5803317",
+        "wikipedia": "es:Dep\u00f3sito elevado de Chamber\u00ed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70136,
+          40.4394767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7272311,
+          40.4406539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2676792774,
+        "hasDetails": true,
+        "amenity": "nightclub",
+        "address": "Calle de Guzm\u00e1n el Bueno 98, Madrid",
+        "website": "http://www.ricordamadrid.es",
+        "opening_hours": "Th-Sa 23:00-06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.712546,
+          40.4414963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4715622690,
+        "hasDetails": true,
+        "name": "Cine Conde Duque Santa Engracia",
+        "amenity": "cinema",
+        "address": "Calle de Santa Engracia 132",
+        "website": "http://www.cinescondeduque.es/web/conde-duque-santa-engracia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7025618,
+          40.4422775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6105441,
+          40.4424604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13473069519,
+        "hasDetails": true,
+        "name": "El Golfo comedy club",
+        "amenity": "theatre",
+        "website": "https://elgolfocomedy.com",
+        "opening_hours": "Mo-Th 19:00-01:00; Fr 18:00-03:00; Sa 13:00-03:00; Su 13:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6781925,
+          40.4427182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5838976086,
+        "hasDetails": true,
+        "name": "Cats",
+        "amenity": "nightclub",
+        "address": "Calle Juli\u00e1n Romea 4, Madrid",
+        "website": "https://www.catsmadrid.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7135343,
+          40.4427538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9455397962,
+        "hasDetails": true,
+        "name": "Er\u00f3tika",
+        "amenity": "nightclub",
+        "address": "Calle de Canillas 66, Madrid",
+        "opening_hours": "23:00-06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6727895,
+          40.4435588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30597145,
+        "hasDetails": true,
+        "name": "Auditorio El Torre\u00f3n",
+        "amenity": "theatre",
+        "address": "Camino de las Huertas, Pozuelo de Alarc\u00f3n",
+        "website": "https://cultura.pozuelodealarcon.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8101399,
+          40.4443984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7103355,
+          40.4447959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11613697206,
+        "hasDetails": true,
+        "name": "Elefante Blanco",
+        "amenity": "nightclub",
+        "address": "Calle de Santa Hortensia 14",
+        "website": "https://www.elefanteblancomadrid.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6698297,
+          40.4451164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 30597143,
+        "hasDetails": true,
+        "name": "Mira Teatro",
+        "amenity": "theatre",
+        "address": "Camino de las Huertas 42, Pozuelo de Alarc\u00f3n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.809418,
+          40.4452868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6777074,
+          40.4457846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10574603841,
+        "hasDetails": true,
+        "name": "Bardot Madrid",
+        "amenity": "nightclub",
+        "address": "Calle de Joaqu\u00edn Costa 29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6859128,
+          40.4459145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 27125344,
+        "hasDetails": true,
+        "name": "Auditorio Nacional de M\u00fasica",
+        "amenity": "arts_centre",
+        "address": "Calle del Pr\u00edncipe de Vergara 146, Madrid",
+        "website": "https://www.auditorionacional.mcu.es/contenido/informacion/es/informacion-general/",
+        "wikidata": "Q3774680",
+        "wikipedia": "es:Auditorio Nacional de M\u00fasica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6776712,
+          40.4460366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4554061490,
+        "hasDetails": true,
+        "name": "Sala Houdini",
+        "amenity": "theatre",
+        "address": "Calle de Garc\u00eda Luna 13",
+        "website": "https://houdinimadrid.com/",
+        "opening_hours": "Mo-We off; Th-Fr 21:30-02:00; Sa 18:30-02:00; Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6751527,
+          40.4461751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6776144,
+          40.4464168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1846689924,
+        "hasDetails": true,
+        "name": "Yelmo Plenilunio",
+        "amenity": "cinema",
+        "website": "https://yelmocines.es/cartelera/madrid/yelmo-cines-plenilunio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5869306,
+          40.4469025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10607371905,
+        "hasDetails": true,
+        "name": "Pop and Roll",
+        "amenity": "nightclub",
+        "address": "Calle de Santa Hortensia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6638179,
+          40.4470543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7050497,
+          40.4471187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6301603,
+          40.4471262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13512689901,
+        "hasDetails": true,
+        "name": "Replika Teatro",
+        "amenity": "theatre",
+        "address": "Calle de la Explanada 14",
+        "website": "https://replikateatro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.711783,
+          40.448221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7155001346,
+        "hasDetails": true,
+        "name": "Conde Duque Morasol",
+        "amenity": "cinema",
+        "address": "Calle de Pradillo 4D",
+        "wikidata": "Q37469020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6757867,
+          40.4482515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4780106654,
+        "hasDetails": true,
+        "name": "Pradillo",
+        "amenity": "theatre",
+        "wikidata": "Q6139857",
+        "wikipedia": "es:Teatro Pradillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6746245,
+          40.4485399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10257833098,
+        "hasDetails": true,
+        "name": "Teatro Asura",
+        "amenity": "theatre",
+        "address": "Calle de Abel 1, Madrid",
+        "website": "https://teatroasura.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7072163,
+          40.449795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6756591,
+          40.4498509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7034804,
+          40.4516625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4253224520,
+        "hasDetails": true,
+        "name": "Banloo",
+        "amenity": "nightclub",
+        "address": "Calle del Poeta Joan Maragall 1, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6933823,
+          40.4530602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7032487,
+          40.4531554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3217458634,
+        "hasDetails": true,
+        "name": "Teatro Gran Maestre",
+        "amenity": "theatre",
+        "address": "Calle de Fortunata y Jacinta 17",
+        "website": "https://www.teatrobodevil.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6976707,
+          40.4542807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3102470064,
+        "hasDetails": true,
+        "name": "Caramelo",
+        "amenity": "nightclub",
+        "address": "Avenida de Brasil 5, Madrid",
+        "website": "http://discotecacaramelomadrid.blogspot.com.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6940147,
+          40.4543876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2774926583,
+        "hasDetails": true,
+        "name": "Moby Dick",
+        "amenity": "nightclub",
+        "address": "Avenida de Brasil",
+        "website": "https://www.mobydickclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.693986,
+          40.4545809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.874322,
+          40.4547628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6051773,
+          40.4563119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6920361,
+          40.4564487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 356570022,
+        "hasDetails": true,
+        "name": "Centro Cultural Juan Gris",
+        "amenity": "arts_centre",
+        "address": "Calle de Francos Rodr\u00edguez 100, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.712143,
+          40.4582502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7005684,
+          40.4583169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7001174,
+          40.4593114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2920238135,
+        "hasDetails": true,
+        "name": "La Antigua",
+        "amenity": "arts_centre",
+        "address": "Calle de la Hierbabuena 12, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7015247,
+          40.460102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6861422023,
+        "hasDetails": true,
+        "name": "Espacio Naranjo",
+        "amenity": "arts_centre",
+        "website": "https://espacio-naranjo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7011775,
+          40.4610627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7668129,
+          40.4612049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6205547186,
+        "hasDetails": true,
+        "name": "Blackhaus",
+        "amenity": "nightclub",
+        "address": "Carretera de La Coru\u00f1a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7663213,
+          40.4612075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7081804,
+          40.4615683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3161591037,
+        "hasDetails": true,
+        "name": "New Garamond",
+        "amenity": "nightclub",
+        "address": "Calle de Rosario Pino 14, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6930503,
+          40.4625113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6361022,
+          40.4631411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6562808,
+          40.4638566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4109400894,
+        "hasDetails": true,
+        "name": "Luckia",
+        "amenity": "casino",
+        "address": "Calle de Bravo Murillo 345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6950225,
+          40.4646678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 726656550,
+        "hasDetails": true,
+        "name": "Cines Zoco Majadahonda",
+        "amenity": "cinema",
+        "opening_hours": "Mo-Th 15:30-21:00; Fr,Sa 15:30-23:00; Su 15:30-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8663591,
+          40.4665517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1003443532,
+        "hasDetails": true,
+        "name": "Espacio Raro",
+        "amenity": "theatre",
+        "address": "Calle de Ribera del Sena 7, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6225339,
+          40.4667769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 312395632,
+        "hasDetails": true,
+        "name": "Liberarte",
+        "amenity": "theatre",
+        "address": "Calle de Francisca Conde 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6996284,
+          40.4681078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 158486632,
+        "hasDetails": true,
+        "name": "Casa de la Cultura \u00abCarmen Conde\u00bb",
+        "amenity": "arts_centre",
+        "website": "https://www.majadahonda.org/edificios-municipales/-/asset_publisher/AfnilBEJVrkj/content/cultura-casa-de-la-cultura-carmen-conde-",
+        "opening_hours": "Mo-Fr 09:00-14:00; Sa-Su off",
+        "names": [
+          "Casa de la Cultura \u00abCarmen Conde\u00bb",
+          "Teatro de la Casa de la Cultura Carmen Conde"
+        ],
+        "amenities": [
+          "arts_centre",
+          "theatre"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8701944,
+          40.4686263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8674389,
+          40.4713761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7029945,
+          40.4720017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11799236950,
+        "hasDetails": true,
+        "name": "Teatro por los Rincones",
+        "amenity": "theatre",
+        "address": "Calle Doctor Ciriaco Garc\u00eda 4, Majadahonda",
+        "opening_hours": "Mo-We 09:30-11:00,17:00-21:30; Th off; Fr 09:30-11:00,17:00-21:30; Sa-Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8745635,
+          40.4721455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5830704007,
+        "hasDetails": true,
+        "name": "Royal",
+        "amenity": "casino",
+        "opening_hours": "Fr,Sa 10:00-01:00, Mo-Th 10:00-00:30, Su 10:00-00:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8711936,
+          40.4737993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7098884,
+          40.4765469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 234932740,
+        "hasDetails": true,
+        "name": "Sala Monforte",
+        "amenity": "casino",
+        "address": "Avenida de Monforte de Lemos 157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7140949,
+          40.476629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10825138765,
+        "hasDetails": true,
+        "name": "Ocine Urban Caleido",
+        "amenity": "cinema",
+        "address": "Paseo de la Castellana 259, Madrid",
+        "website": "https://www.ocineurbancaleido.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6889801,
+          40.4767713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7119134,
+          40.4795725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 26261493,
+        "hasDetails": true,
+        "name": "Multicines La Vaguada",
+        "amenity": "cinema",
+        "address": "Avenida de Monforte de Lemos 36, Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7074361,
+          40.4798421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7158632,
+          40.4799446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7128207,
+          40.4811414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 303820901,
+        "hasDetails": true,
+        "name": "Cinesa Manoteras",
+        "amenity": "cinema",
+        "address": "Avenida de Manoteras 40, Madrid",
+        "website": "https://www.cinesa.es/Cines/Manoteras/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6656428,
+          40.4860343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 16837514,
+        "hasDetails": true,
+        "name": "Autocine Madrid RACE",
+        "amenity": "cinema",
+        "website": "https://www.autocinesmadrid.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6779915,
+          40.4861528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8806487,
+          40.489247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8776167,
+          40.4894927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7046449,
+          40.4918521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8748208,
+          40.4927438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8772272,
+          40.4950692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 686471835,
+        "hasDetails": true,
+        "name": "Zapadores Ciudad del Arte. Museo La Neomudejar",
+        "amenity": "arts_centre",
+        "address": "Calle de Antonio de Cabez\u00f3n 70",
+        "website": "https://zapadores.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.681275,
+          40.496206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8810689,
+          40.4962805
+        ]
+      }
+    }
+  ]
+}

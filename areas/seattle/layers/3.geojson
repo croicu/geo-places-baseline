@@ -1330,6 +1330,24 @@
       "type": "Feature",
       "properties": {
         "weight": 1.0,
+        "id": 14027816501,
+        "hasDetails": true,
+        "name": "Occidental Fine Arts Center",
+        "address": "Occidental Avenue South 311 1/2",
+        "website": "https://occidentalfinearts.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3331248,
+          47.5995732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
         "id": 2351723987,
         "hasDetails": true,
         "name": "Gallery Erato",
