@@ -1,0 +1,1632 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9136961,
+          43.2974644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5818635619,
+        "hasDetails": true,
+        "name": "Atano III.a eskultura, Mariano_Juaristi",
+        "address": "Anoeta pasealekua, Donostia / San Sebasti\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.975345,
+          43.3011009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9748958,
+          43.3013705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5649353322,
+        "hasDetails": true,
+        "name": "Trikitilariak",
+        "address": "Donostia / San Sebasti\u00e1n",
+        "wikidata": "Q45219136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9797601,
+          43.3045046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8569721320,
+        "hasDetails": true,
+        "name": "Gruta artificial",
+        "address": "Aiete pasealekua, Donostia / San Sebasti\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9914319,
+          43.304855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0063502,
+          43.305169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5818745294,
+        "hasDetails": true,
+        "name": "Ateak",
+        "address": "Irun plaza, Donostia / San Sebasti\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9745532,
+          43.3053256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0170108,
+          43.3054072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9710485,
+          43.3073181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5849440485,
+        "hasDetails": true,
+        "name": "Estela",
+        "address": "Bigarren Errepublikaren plaza, Donostia / San Sebasti\u00e1n",
+        "website": "https://www.santelmomuseoa.eus/atlas/?lang=eu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9734783,
+          43.3073905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.979516,
+          43.3074352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.009945,
+          43.3086815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10943742006,
+        "hasDetails": true,
+        "name": "Fanderiako Errota Museoa",
+        "address": "Dolores Ibarruri zumardia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8879922,
+          43.3089858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9598582,
+          43.3090737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0020954,
+          43.3091281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9654362,
+          43.3097609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.010959,
+          43.3098931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8944242,
+          43.3099515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8986737,
+          43.309991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8988567,
+          43.3113568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9008706,
+          43.3116137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 646894646,
+        "hasDetails": true,
+        "name": "Xenpelar Etxea",
+        "address": "Madalen kalea 32, Errenteria",
+        "website": "https://kultura.errenteria.eus/es/espacios/xenpelar-etxea/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9004402,
+          43.3119428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8965976,
+          43.3121413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8967265,
+          43.3121573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9780471,
+          43.3122963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10181269761,
+        "hasDetails": true,
+        "name": "Mikel laboa mosaikoa",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.897151,
+          43.3123046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5849393625,
+        "hasDetails": true,
+        "name": "Estela",
+        "wikidata": "Q18577265",
+        "wikipedia": "eu:Estela (Rikardo Ugarte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9805964,
+          43.3124076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8970894,
+          43.3126899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10203527073,
+        "hasDetails": true,
+        "name": "Xenpelarren fruituak",
+        "wikidata": "Q55725102",
+        "wikipedia": "eu:Xenpelarren fruituak (eskultura)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8996697,
+          43.3126968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10943758205,
+        "hasDetails": true,
+        "name": "Jantziaren Zentroa",
+        "address": "Kapitanenea kalea 6, Errenteria",
+        "website": "https://jantziarenzentroa.eus",
+        "opening_hours": "Sa 11:00-14:00, 17:00-20:00; Su 11:00-14:00",
+        "wikidata": "Q63171188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8987289,
+          43.3129396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95633,
+          43.3136749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9749753,
+          43.3140525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0025481,
+          43.3141042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0005779,
+          43.3142431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9823181,
+          43.3142529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9351627,
+          43.3143419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9003963,
+          43.3147044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9965105,
+          43.3147644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9989901,
+          43.3147824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14096404344,
+        "hasDetails": true,
+        "name": "Homofobiaren aurkako zebrabidea",
+        "wikidata": "Q141081748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9019885,
+          43.3148499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9891611,
+          43.3151877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9829152,
+          43.3153412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9983816,
+          43.3154467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.988399,
+          43.3154524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9760946,
+          43.315625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9980148,
+          43.3157403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8806615132,
+        "hasDetails": true,
+        "name": "Koldo Mitxelena",
+        "website": "http://kmk.gipuzkoakultura.eus/eu/erakustaretoa-",
+        "opening_hours": "Tu-Sa 11:00-14:00, 16:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9813638,
+          43.3160728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.935884,
+          43.3166052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9356952,
+          43.3166378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9353303,
+          43.3166602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9762705,
+          43.316716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9005215,
+          43.317572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9774851,
+          43.3183472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9279438,
+          43.3188625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9279004,
+          43.3190377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9847196,
+          43.3190756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9275688,
+          43.319079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9280072,
+          43.3192244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0174169,
+          43.3192824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9281172,
+          43.3193977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9773338,
+          43.3194514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9772014,
+          43.3206689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9855403,
+          43.3207841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0096514,
+          43.321044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9770733,
+          43.3210934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9824351,
+          43.3212539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0087076,
+          43.3214592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9776047,
+          43.3215262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9751234,
+          43.3215378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 361066700,
+        "hasDetails": true,
+        "name": "Haizearen orrazia",
+        "wikidata": "Q1187408",
+        "wikipedia": "es:Peine del Viento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0055536,
+          43.3216939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0056324,
+          43.3217939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0053655,
+          43.3218115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4361946753,
+        "hasDetails": true,
+        "name": "Ategorrietako Ate Gorriak",
+        "wikidata": "Q27644432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9611081,
+          43.3218516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.009679,
+          43.3218947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0054728,
+          43.3219891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 361064995,
+        "hasDetails": true,
+        "name": "Igeldoko itsasargia",
+        "wikidata": "Q973815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.010312,
+          43.3226763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9919773,
+          43.322859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 259491671,
+        "hasDetails": true,
+        "name": "Donostiako Aquariuma",
+        "address": "Carlos Blasco de Imaz plaza 1, Donostia / San Sebasti\u00e1n",
+        "website": "https://aquariumss.com",
+        "opening_hours": "Jan-Mar,Oct-Dec: Tu-Fr 10:00-19:00; Jan-Mar,Oct-Dec: Sa,Su,PH 10:00-20:00; Apr-Jun,Sep: Mo-Fr 10:00-19:00; Apr-Jun,Sep: Sa,Su,PH 10:00-20:00; Jul-Aug: Mo-Su 10:00-20:00; Jan 01, Jan 20, Dec 25 off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9921186,
+          43.3229005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9808545,
+          43.3229628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.982986,
+          43.3230018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 27263481,
+        "hasDetails": true,
+        "name": "Euskal Itsas Museoa",
+        "address": "Kaiko pasealekua 24, Donostia / San Sebasti\u00e1n",
+        "website": "https://itsasmuseoa.eus",
+        "opening_hours": "Tu-Sa 10:00-14:00,16:00-19:00; Su,PH 11:00-14:00, Jun 15-Sep 15: Su,PH 16:00-19:00; Jan 01, Jan 06, Jan 20 off; Dec 24, Dec 31 10:00-14:00; Dec 25 off",
+        "wikidata": "Q12268587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9910201,
+          43.3230098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9902987,
+          43.3230128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9829083,
+          43.3232276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9923326,
+          43.3233067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9868966,
+          43.3237965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9910011,
+          43.3238542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13517916680,
+        "hasDetails": true,
+        "name": "Euskadiko Arkitektura Institutua",
+        "address": "Elbira Zipitria kalea 1",
+        "website": "https://eai.eus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.98726,
+          43.3240534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9914399,
+          43.3240704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9930367,
+          43.3241908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9935624,
+          43.3243254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.985218,
+          43.3243318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.983928,
+          43.324451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2413508814,
+        "hasDetails": true,
+        "name": "Eraikuntza Hutsa-Construcci\u00f3n Vac\u00eda",
+        "wikidata": "Q12256943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9935657,
+          43.3244776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13121900567,
+        "hasDetails": true,
+        "name": "Vela en homenaje a Blas de Lezo",
+        "wikidata": "Q136108530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9249382,
+          43.3248963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9932404,
+          43.3249009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9885433,
+          43.3249372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9788971,
+          43.3249384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9887321,
+          43.3249508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 394054,
+        "hasDetails": true,
+        "name": "San Telmo Museoa",
+        "address": "Zuloaga plaza, Donostia",
+        "website": "https://www.santelmomuseoa.eus",
+        "opening_hours": "Tu-Su,PH 10:00-19:00; Apr-Oct Tu-Su,PH 10:00-20:00; Jan 01,20,Dec 25 off; Dec 21,24,31 Tu-Su 10:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.985361,
+          43.3250255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 28156564,
+        "hasDetails": true,
+        "name": "Mota gaztelua",
+        "wikidata": "Q12268644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9889636,
+          43.3250394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9875376,
+          43.3250642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9887976,
+          43.3256977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 233299982,
+        "hasDetails": true,
+        "name": "Bateria del Mirador",
+        "website": "https://monumentalnet.org/monumento.php?r=SS-CAS-021&seo=bateria-del-mirador-donostia-guipuzcoa-pais-vasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9856574,
+          43.3257214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4332292298,
+        "hasDetails": true,
+        "name": "Mater",
+        "website": "https://mater.eus/",
+        "opening_hours": "Tu-Sa 11:00-14:00, 16:00-19:00; Su 11:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9216783,
+          43.3257805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9853168,
+          43.3257929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 210623696,
+        "hasDetails": true,
+        "name": "Victor Hugo Extea",
+        "address": "Donibane kalea 63, Pasaia",
+        "website": "https://www.oarsoaldeaturismoa.eus/es/conoce-oarsoaldea/nuestros-museos/casa-de-victor-hugo.html",
+        "wikidata": "Q63170852"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9198757,
+          43.3258512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.980801,
+          43.3259284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9243294,
+          43.3278064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9657399,
+          43.327939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9215457,
+          43.3282344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3971804099,
+        "hasDetails": true,
+        "name": "Albaola Itsas Kultur Faktoria",
+        "website": "http://www.albaola.com",
+        "opening_hours": "Tu 10:00-14:00; We-Sa 10:00-14:00,15:00-18:00; Su 10:00-14:00",
+        "wikidata": "Q20035625",
+        "wikipedia": "eu:Albaola Itsas Kultur Erakundea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9259399,
+          43.3292046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9698579,
+          43.3298079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9584203,
+          43.330316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8957024,
+          43.3324522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9262848,
+          43.3324955
+        ]
+      }
+    }
+  ]
+}

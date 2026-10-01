@@ -1,0 +1,1199 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 221.7,
+        "radius_m": 8.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.120674333333333,
+          40.927190466666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1177.4,
+        "radius_m": 19.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1175069875,
+          40.9272595625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1774.7,
+        "radius_m": 23.8,
+        "id": 611225789,
+        "hasDetails": true,
+        "name": "Parque Juli\u00e1n San Isidro",
+        "address": "Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1166358857142855,
+          40.92860664285714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 86.2,
+        "radius_m": 5.2,
+        "id": 585211333,
+        "hasDetails": true,
+        "name": "Parque para ni\u00f1os",
+        "address": "Plaza Espronceda, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0993077,
+          40.93000706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1548.2,
+        "radius_m": 22.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.098279716666666,
+          40.931477341666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 14000.9,
+        "radius_m": 66.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.100269269230769,
+          40.93162684615384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 84868.4,
+        "radius_m": 164.4,
+        "id": 152665775,
+        "hasDetails": true,
+        "name": "Parque de la Dehesa del Alto Clamores",
+        "address": "Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.104817279310345,
+          40.931709575862065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1630.7,
+        "radius_m": 22.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1011182,
+          40.93250431538461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1464.0,
+        "radius_m": 21.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0997854333333335,
+          40.933149441666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 29031.9,
+        "radius_m": 96.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.107252133333334,
+          40.93363657407408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 632.6,
+        "radius_m": 14.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.101395566666667,
+          40.93409448333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 15869.1,
+        "radius_m": 71.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.110058759999999,
+          40.934812210000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1189.7,
+        "radius_m": 19.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.110006638888889,
+          40.937284355555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 744.3,
+        "radius_m": 15.4,
+        "id": 1493159915,
+        "hasDetails": true,
+        "address": "Calle Par\u00eds, Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1074232,
+          40.9374947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 767.3,
+        "radius_m": 15.6,
+        "id": 1493159916,
+        "hasDetails": true,
+        "address": "Calle Par\u00eds, Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1087982400000005,
+          40.93822808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2524.6,
+        "radius_m": 28.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.116325162068966,
+          40.93843168275862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5014.9,
+        "radius_m": 40.0,
+        "id": 294848737,
+        "hasDetails": true,
+        "name": "Jard\u00edn del Parque Infantil de Tr\u00e1fico",
+        "address": "Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.109699114285714,
+          40.9386688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 12546.8,
+        "radius_m": 63.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10296427,
+          40.938731634999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 10243.3,
+        "radius_m": 57.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.105122028947369,
+          40.93884281315789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5827.7,
+        "radius_m": 43.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.106364058333333,
+          40.93885508333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 6491.9,
+        "radius_m": 45.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.108763139285714,
+          40.93965820714286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2339.0,
+        "radius_m": 27.3,
+        "id": 544578431,
+        "hasDetails": true,
+        "name": "Parque de la Comunidad de Ciudad y Tierra",
+        "address": "Calle Campo Az\u00e1lvaro, Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.107024495238095,
+          40.94033487619048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5275.7,
+        "radius_m": 41.0,
+        "id": 294848744,
+        "hasDetails": true,
+        "name": "Jard\u00edn de Vill \u00c1ngela",
+        "address": "Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.108871985714286,
+          40.940639971428574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4024.6,
+        "radius_m": 35.8,
+        "id": 544578436,
+        "hasDetails": true,
+        "name": "Plaza de Jos\u00e9 Zorrilla",
+        "address": "Calle Jos\u00e9 Zorrilla, Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1158300187500005,
+          40.94133566875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2349.8,
+        "radius_m": 27.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.102915937500001,
+          40.941415075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1320.7,
+        "radius_m": 20.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1120868625,
+          40.9415481375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3065.8,
+        "radius_m": 31.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10209586,
+          40.942257260000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3590.3,
+        "radius_m": 33.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.118085654545454,
+          40.942442354545456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 350.3,
+        "radius_m": 10.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1127582600000006,
+          40.94303754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 786.1,
+        "radius_m": 15.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1088454500000005,
+          40.9432501875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 80.6,
+        "radius_m": 5.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.114084471428571,
+          40.94351668571428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2603.5,
+        "radius_m": 28.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.110260266666667,
+          40.9439816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5169.6,
+        "radius_m": 40.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.123593239130435,
+          40.94408483043478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1622.1,
+        "radius_m": 22.7,
+        "id": 48306193,
+        "hasDetails": true,
+        "name": "Plaza de Santa Eulalia",
+        "address": "Plaza de Santa Eulalia, Segovia",
+        "opening_hours": "24/7",
+        "wikidata": "Q29323795",
+        "wikipedia": "es:Plaza de Santa Eulalia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.115848992307692,
+          40.94411684615385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5139.3,
+        "radius_m": 40.4,
+        "id": 48343659,
+        "hasDetails": true,
+        "name": "Jardinillos de San Roque",
+        "address": "Calle Jardinillos de San Roque, Segovia",
+        "opening_hours": "24/7",
+        "wikidata": "Q115799081",
+        "wikipedia": "es:Jardinillos de San Roque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.120514778571429,
+          40.944570757142856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 865.3,
+        "radius_m": 16.6,
+        "id": 294480228,
+        "hasDetails": true,
+        "name": "Jard\u00edn de Tom\u00e1s Urrialde",
+        "address": "Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.113384166666667,
+          40.94526458333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 7050.1,
+        "radius_m": 47.4,
+        "id": 152665756,
+        "hasDetails": true,
+        "name": "Plaza de la Gimn\u00e1stica Segoviana",
+        "address": "Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1061217999999995,
+          40.94585768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 341.0,
+        "radius_m": 10.4,
+        "id": 241834823,
+        "hasDetails": true,
+        "name": "Plaza de las Pe\u00f1uelas",
+        "address": "Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1149189,
+          40.94591790714286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 920.6,
+        "radius_m": 17.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.120540883333333,
+          40.946765633333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2109.2,
+        "radius_m": 25.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1212459038461535,
+          40.946768173076926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2711.1,
+        "radius_m": 29.4,
+        "id": 366976062,
+        "hasDetails": true,
+        "name": "Jardines del Instituto Mariano Quintanilla",
+        "address": "Segovia",
+        "opening_hours": "Mo-Fr 15:30+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11606822,
+          40.946805389999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 573.9,
+        "radius_m": 13.5,
+        "id": 241834841,
+        "hasDetails": true,
+        "name": "Plaza del Salvador",
+        "wikidata": "Q118233428",
+        "wikipedia": "es:Plaza del Salvador (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.114060242857144,
+          40.946822757142854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 973.8,
+        "radius_m": 17.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.12158545,
+          40.94709378333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 239.8,
+        "radius_m": 8.7,
+        "id": 366976065,
+        "hasDetails": true,
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.114200944444445,
+          40.947416555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1950.6,
+        "radius_m": 24.9,
+        "id": 1265880915,
+        "hasDetails": true,
+        "name": "Jard\u00edn de Marcelo La\u00ednez",
+        "address": "Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1077085,
+          40.94742225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 151.0,
+        "radius_m": 6.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.116825842857144,
+          40.947484028571424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2154.8,
+        "radius_m": 26.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1228852866666665,
+          40.94764013333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 466.6,
+        "radius_m": 12.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.118101207142857,
+          40.94836237142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 16209.0,
+        "radius_m": 71.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.126150696296296,
+          40.94853054814815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4821.8,
+        "radius_m": 39.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.123016821739131,
+          40.94859968695652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2034.2,
+        "radius_m": 25.4,
+        "id": 1136147423,
+        "hasDetails": true,
+        "name": "Alamedilla de Conejo",
+        "address": "Avenida V\u00eda Roma, Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1139225153846155,
+          40.94919696923077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 742.0,
+        "radius_m": 15.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.117550183333333,
+          40.94981451666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1787.7,
+        "radius_m": 23.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.121212455555555,
+          40.950113144444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1675.1,
+        "radius_m": 23.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.119038059999999,
+          40.95048554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2260.9,
+        "radius_m": 26.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1158694,
+          40.9504924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2902.4,
+        "radius_m": 30.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.116948077777778,
+          40.95080026666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 591.1,
+        "radius_m": 13.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.121663215384616,
+          40.95086594615385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 329.4,
+        "radius_m": 10.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.121138377777778,
+          40.95096298888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2515.7,
+        "radius_m": 28.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.127319328571429,
+          40.9511016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2378.1,
+        "radius_m": 27.5,
+        "id": 544578438,
+        "hasDetails": true,
+        "name": "Jard\u00edn de los Zuloaga",
+        "address": "Segovia",
+        "opening_hours": "Mo-Sa 10:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.117198957142857,
+          40.95126392857143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 327.0,
+        "radius_m": 10.2,
+        "id": 241957270,
+        "hasDetails": true,
+        "name": "Plaza San Nicol\u00e1s",
+        "wikidata": "Q118236631",
+        "wikipedia": "es:Plaza de San Nicol\u00e1s (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1216083999999995,
+          40.951814925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 75.1,
+        "radius_m": 4.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.121824139999999,
+          40.95187474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 8830.1,
+        "radius_m": 53.0,
+        "id": 71807926,
+        "hasDetails": true,
+        "name": "Plaza de Reina Victoria Eugenia",
+        "address": "Plaza de Reina Victoria Eugenia, Segovia",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "wikidata": "Q113655205",
+        "wikipedia": "es:Plaza de la Reina Victoria Eugenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.131192483870968,
+          40.95221858709677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 998.5,
+        "radius_m": 17.8,
+        "id": 71806362,
+        "hasDetails": true,
+        "name": "Plaza Jard\u00edn de Mauricio Fromkes",
+        "address": "Segovia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1277387875,
+          40.95232075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2733.2,
+        "radius_m": 29.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.120510594444444,
+          40.952360516666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3509.0,
+        "radius_m": 33.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.12750864,
+          40.95278364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1255134,
+          40.9528058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3256.3,
+        "radius_m": 32.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1281009229166665,
+          40.95316482083333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2193.2,
+        "radius_m": 26.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10939005,
+          40.953192509999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 48192.8,
+        "radius_m": 123.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.132522852,
+          40.953292059999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 7302.9,
+        "radius_m": 48.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1338485482758625,
+          40.95427176206896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4934.5,
+        "radius_m": 39.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1288131521739135,
+          40.95471991304348
+        ]
+      }
+    }
+  ]
+}

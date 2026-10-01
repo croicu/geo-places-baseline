@@ -1,0 +1,2329 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 33123.2,
+        "radius_m": 102.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.004074237777778,
+          43.29940740666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4319.7,
+        "radius_m": 37.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0050789176470585,
+          43.30015185294118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1521.4,
+        "radius_m": 22.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9803123222222223,
+          43.30069108888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2497.9,
+        "radius_m": 28.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0056680125,
+          43.3009112375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 27518.5,
+        "radius_m": 93.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9848293548387097,
+          43.30163204516129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1918.1,
+        "radius_m": 24.7,
+        "id": 324488085,
+        "hasDetails": true,
+        "name": "Jorge Oteiza plaza",
+        "address": "Plaza de Jorge Oteiza, Donostia / San Sebasti\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.01761465,
+          43.30172048333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 104.6,
+        "radius_m": 5.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.013992,
+          43.30283546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2855.9,
+        "radius_m": 30.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9965832235294116,
+          43.30287825294118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5742.9,
+        "radius_m": 42.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.969824880952381,
+          43.303039042857144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 706.8,
+        "radius_m": 15.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.007147675,
+          43.303046275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 151.3,
+        "radius_m": 6.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.014204488888889,
+          43.30333544444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2156.7,
+        "radius_m": 26.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00611998,
+          43.30354976666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1665.2,
+        "radius_m": 23.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9725417454545455,
+          43.304179872727275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 675.8,
+        "radius_m": 14.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.98083046,
+          43.304246840000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 40217.5,
+        "radius_m": 113.1,
+        "id": 185899405,
+        "hasDetails": true,
+        "name": "Puio Parkea",
+        "wikidata": "Q12266346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.985203981818182,
+          43.30428952424242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 23810.1,
+        "radius_m": 87.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.014201733333333,
+          43.30470243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1882.6,
+        "radius_m": 24.5,
+        "id": 557027629,
+        "hasDetails": true,
+        "name": "Marugame plaza",
+        "address": "Donostia / San Sebasti\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0161143714285714,
+          43.30477632857143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 84307.7,
+        "radius_m": 163.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9905886833333335,
+          43.30509657619047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 28420.1,
+        "radius_m": 95.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9586695625,
+          43.30515164583333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 617.5,
+        "radius_m": 14.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9811101714285715,
+          43.305307642857144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 9523.3,
+        "radius_m": 55.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0085566695652175,
+          43.30563080434783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 6300.6,
+        "radius_m": 44.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9786888111111112,
+          43.305655477777776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 10003.4,
+        "radius_m": 56.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.012371405882353,
+          43.30604770588235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5488.1,
+        "radius_m": 41.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.018035453846154,
+          43.3060551076923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 584.4,
+        "radius_m": 13.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.970101075,
+          43.30606965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 135.0,
+        "radius_m": 6.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0174718,
+          43.30623912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 579.9,
+        "radius_m": 13.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0176960142857143,
+          43.30627524285715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4916.9,
+        "radius_m": 39.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9779882166666667,
+          43.30631623333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1101.0,
+        "radius_m": 18.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00837815,
+          43.3063554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1257.1,
+        "radius_m": 20.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.013548842857143,
+          43.306469771428574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 8729.1,
+        "radius_m": 52.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.97129095,
+          43.306478057142854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3516.3,
+        "radius_m": 33.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00953464,
+          43.306688120000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4225.8,
+        "radius_m": 36.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8842365384615385,
+          43.30675844615385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1157.3,
+        "radius_m": 19.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.011609575,
+          43.30688599166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5948.6,
+        "radius_m": 43.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.989663438095238,
+          43.30697011428571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 58.6,
+        "radius_m": 4.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0096325999999998,
+          43.30700194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 717.6,
+        "radius_m": 15.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0099257500000003,
+          43.307012883333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 28261.1,
+        "radius_m": 94.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.889976173255814,
+          43.30707815348837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2390.9,
+        "radius_m": 27.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0169647599999996,
+          43.307233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1123.7,
+        "radius_m": 18.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0120104125,
+          43.307326325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 935.0,
+        "radius_m": 17.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0163532933333332,
+          43.30733762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1200.8,
+        "radius_m": 19.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9734962769230768,
+          43.30736100769231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4161.6,
+        "radius_m": 36.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0101703,
+          43.307469659999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 918.5,
+        "radius_m": 17.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.008897522222222,
+          43.30756502222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 18208.1,
+        "radius_m": 76.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9705332969696967,
+          43.30769571818182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 175016.8,
+        "radius_m": 236.0,
+        "id": 30960418,
+        "hasDetails": true,
+        "name": "Arramendi",
+        "wikidata": "Q32180106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8981559037499998,
+          43.307865737499995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 905.0,
+        "radius_m": 17.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00833206,
+          43.30834794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 30722.3,
+        "radius_m": 98.9,
+        "id": 177396155,
+        "hasDetails": true,
+        "name": "Serafin Baroja parkea",
+        "opening_hours": "May-Sep: 08:00-21:00; Oct-Apr: 08:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.001868834782609,
+          43.30850736086957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1146.1,
+        "radius_m": 19.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.009931133333333,
+          43.3086786952381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 8886.3,
+        "radius_m": 53.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8904835130434783,
+          43.308829734782606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2707.4,
+        "radius_m": 29.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.88780932,
+          43.308907399999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 8173.6,
+        "radius_m": 51.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.88552405,
+          43.30900955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 66106.8,
+        "radius_m": 145.1,
+        "id": 42722713,
+        "hasDetails": true,
+        "name": "Larratxo parkea",
+        "wikidata": "Q12261922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9400404483870968,
+          43.30914884516129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 13909.1,
+        "radius_m": 66.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.98794817,
+          43.3095035075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 359.3,
+        "radius_m": 10.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9676769799999998,
+          43.30953624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1538.1,
+        "radius_m": 22.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89052343,
+          43.30954727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 22640.0,
+        "radius_m": 84.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8866582568181818,
+          43.30960178409091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 92.2,
+        "radius_m": 5.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8920607249999999,
+          43.309983349999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 15356.5,
+        "radius_m": 69.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.888885380952381,
+          43.310097861904765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 46503.5,
+        "radius_m": 121.7,
+        "id": 43645541,
+        "hasDetails": true,
+        "name": "Otxoki parkea",
+        "wikidata": "Q12265391",
+        "wikipedia": "eu:Otxokiko parkea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9509026862745098,
+          43.3101168745098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 207.9,
+        "radius_m": 8.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8921379333333332,
+          43.31016821666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1635.4,
+        "radius_m": 22.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8927212666666666,
+          43.310245877777774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1409.9,
+        "radius_m": 21.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89298014,
+          43.310297430000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 165.5,
+        "radius_m": 7.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8922133818181819,
+          43.310581872727276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 413.5,
+        "radius_m": 11.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8930270666666666,
+          43.31071566666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 222.4,
+        "radius_m": 8.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89313511,
+          43.310875800000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5292.5,
+        "radius_m": 41.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.896587125,
+          43.31117081428572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 597.8,
+        "radius_m": 13.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9649540599999997,
+          43.311278279999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 236.5,
+        "radius_m": 8.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89402585,
+          43.311361075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2741.8,
+        "radius_m": 29.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0098302733333333,
+          43.31160500666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3428.4,
+        "radius_m": 33.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9078076125,
+          43.311621425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2860.7,
+        "radius_m": 30.2,
+        "id": 44025707,
+        "hasDetails": true,
+        "name": "Mentxu Gal Lorategiak",
+        "address": "Parke kalea 3, Donostia / San Sebasti\u00e1n",
+        "wikidata": "Q19853436",
+        "wikipedia": "eu:Mentxu Gal lorategiak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9806788888888889,
+          43.31172156111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 17176.5,
+        "radius_m": 73.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9500130416666668,
+          43.311804304166664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4903.2,
+        "radius_m": 39.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00409293,
+          43.31209745333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4527.5,
+        "radius_m": 38.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9580529769230768,
+          43.31211989230769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 9292.5,
+        "radius_m": 54.4,
+        "id": 23915836,
+        "hasDetails": true,
+        "name": "Araba parkea",
+        "wikidata": "Q12253783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.979927608,
+          43.312201536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3758.7,
+        "radius_m": 34.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9113277897959184,
+          43.3124650367347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 734.9,
+        "radius_m": 15.3,
+        "id": 44025708,
+        "hasDetails": true,
+        "name": "Mendeurren plaza",
+        "wikidata": "Q21963496",
+        "wikipedia": "eu:Mendeurrenaren plaza (Donostia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9805700666666668,
+          43.31255986666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1886.7,
+        "radius_m": 24.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0087163099999996,
+          43.31268182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 10185.9,
+        "radius_m": 56.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.987002888888889,
+          43.31279165833334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 10644.3,
+        "radius_m": 58.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9659814928571429,
+          43.3129047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1395.6,
+        "radius_m": 21.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9672787500000002,
+          43.3129362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1929.1,
+        "radius_m": 24.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0075662555555556,
+          43.3132621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 117.6,
+        "radius_m": 6.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9102849599999998,
+          43.31326348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 6433.4,
+        "radius_m": 45.3,
+        "id": 23848127,
+        "hasDetails": true,
+        "name": "Zubimusu parkea",
+        "wikidata": "Q12269462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0062923,
+          43.3134130125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1843.5,
+        "radius_m": 24.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9358680200000002,
+          43.31374044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 36000.8,
+        "radius_m": 107.0,
+        "id": 43649015,
+        "hasDetails": true,
+        "name": "Siustegi parkea",
+        "wikidata": "Q25474502",
+        "wikipedia": "eu:Siustegi parkea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.953112859090909,
+          43.31389396363637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 10688.8,
+        "radius_m": 58.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9183026791666666,
+          43.313906816666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 100519.3,
+        "radius_m": 178.9,
+        "id": 23937260,
+        "hasDetails": true,
+        "name": "Kristina-Enea parkea - Parque de Cristina Enea",
+        "opening_hours": "Apr-Sep: 08:00-21:00; Oct-Mar: 08:00-19:00",
+        "wikidata": "Q24023483"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9754961636363637,
+          43.313918052272726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 516.5,
+        "radius_m": 12.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8995787499999999,
+          43.31405636666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4905.1,
+        "radius_m": 39.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00765922,
+          43.31410241333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1406.0,
+        "radius_m": 21.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.005693,
+          43.31417175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 233.1,
+        "radius_m": 8.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9830121200000002,
+          43.31427652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 118.9,
+        "radius_m": 6.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.982946825,
+          43.314549725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1696.1,
+        "radius_m": 23.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.93637306,
+          43.31481255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 31607.8,
+        "radius_m": 100.3,
+        "id": 194402382,
+        "hasDetails": true,
+        "name": "Miramar parkea - Parque de Miramar",
+        "opening_hours": "Apr-Sep: 08:00-21:00; Oct-Mar: 08:00-19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9986705666666666,
+          43.31484407301588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 686.5,
+        "radius_m": 14.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.916459622222222,
+          43.31502808888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 29889.3,
+        "radius_m": 97.5,
+        "id": 123891042,
+        "hasDetails": true,
+        "name": "Castelao parkea",
+        "wikidata": "Q25474498",
+        "wikipedia": "eu:Castelao parkea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9588811400000001,
+          43.31502910142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 539.3,
+        "radius_m": 13.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0050523,
+          43.3155694625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 39541.3,
+        "radius_m": 112.2,
+        "id": 118739704,
+        "hasDetails": true,
+        "name": "Zilegi basoen parkea",
+        "wikidata": "Q25474507",
+        "wikipedia": "eu:Zilegi basoen parkea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9507678452830188,
+          43.31591566415094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2925.0,
+        "radius_m": 30.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9524993727272728,
+          43.31606458181818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 19739.6,
+        "radius_m": 79.3,
+        "id": 122395316,
+        "hasDetails": true,
+        "name": "Etzieta parkea",
+        "wikidata": "Q25474488",
+        "wikipedia": "eu:Etzieta parkea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9563601436363636,
+          43.31609119090909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 16586.9,
+        "radius_m": 72.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.003213857142857,
+          43.31643042619047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 221.8,
+        "radius_m": 8.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9292757999999999,
+          43.31682714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 212.7,
+        "radius_m": 8.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9857760857142857,
+          43.316860514285715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 15850.3,
+        "radius_m": 71.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9664862891304349,
+          43.31701909565218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1484.4,
+        "radius_m": 21.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.94736656,
+          43.317125340000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2563.8,
+        "radius_m": 28.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.908866092,
+          43.317363539999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1111.5,
+        "radius_m": 18.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9101146857142857,
+          43.317424685714286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 26662.8,
+        "radius_m": 92.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.90853292625,
+          43.31746543125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 8928.3,
+        "radius_m": 53.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9353026636363637,
+          43.31748223181818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5698.7,
+        "radius_m": 42.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9559630352941175,
+          43.317590499999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 37445.8,
+        "radius_m": 109.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9256222818181818,
+          43.317728990909096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 741.4,
+        "radius_m": 15.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.96019695,
+          43.318336783333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 26543.1,
+        "radius_m": 91.9,
+        "id": 184239164,
+        "hasDetails": true,
+        "name": "Arrobitxulo parkea",
+        "website": "https://www.donostia.eus/home.nsf/0/89CE9F63506570CCC1257F7F003FC15B?OpenDocument&idioma=cas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9428966615384615,
+          43.31841929615385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1083.6,
+        "radius_m": 18.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9753614,
+          43.318986450000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 55.0,
+        "radius_m": 4.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9847316400000001,
+          43.31907502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 27532.0,
+        "radius_m": 93.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9633217474999998,
+          43.3191509725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2049.4,
+        "radius_m": 25.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9578657799999999,
+          43.3191608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 23683.2,
+        "radius_m": 86.8,
+        "id": 38333646,
+        "hasDetails": true,
+        "name": "Harria parkea",
+        "wikidata": "Q12258907",
+        "wikipedia": "eu:Harriako parkea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9315806714285715,
+          43.31936482142857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 847.5,
+        "radius_m": 16.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9752885857142857,
+          43.31940508571428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 12580.1,
+        "radius_m": 63.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9500514277777776,
+          43.31965571388889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3227.9,
+        "radius_m": 32.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9546986000000002,
+          43.31986561666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5081.9,
+        "radius_m": 40.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9710682954545455,
+          43.320010418181816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 7465.4,
+        "radius_m": 48.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9341791210526313,
+          43.320238510526316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1664.4,
+        "radius_m": 23.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.97023591,
+          43.32069112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3855.8,
+        "radius_m": 35.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9611970416666666,
+          43.32089745833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4699.1,
+        "radius_m": 38.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89820426,
+          43.32090359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 18899.5,
+        "radius_m": 77.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9379728047619047,
+          43.32100886825397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 4861.9,
+        "radius_m": 39.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.982223588888889,
+          43.32118366666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 561.5,
+        "radius_m": 13.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8951048,
+          43.32133964285715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1883.9,
+        "radius_m": 24.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9668270142857143,
+          43.321920385714286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 561.6,
+        "radius_m": 13.4,
+        "id": 628547686,
+        "hasDetails": true,
+        "name": "Zona compost",
+        "address": "Sagardiandia plaza, Lezo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8952245600000002,
+          43.32210794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 13034.8,
+        "radius_m": 64.4,
+        "id": 554635018,
+        "hasDetails": true,
+        "name": "Uliako Mintegietako parkea",
+        "wikidata": "Q24035293",
+        "wikipedia": "eu:Uliako Mintegietako parkea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9532439647058824,
+          43.32236107058823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2683.1,
+        "radius_m": 29.2,
+        "id": 1365736826,
+        "hasDetails": true,
+        "name": "Miren Gezala parkea",
+        "wikidata": "Q12263699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8995110142857143,
+          43.32256648214286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 9475.4,
+        "radius_m": 54.9,
+        "id": 193041555,
+        "hasDetails": true,
+        "name": "Bidebietako Parkea",
+        "wikidata": "Q12255160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9433712518518518,
+          43.322978518518525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 6141.9,
+        "radius_m": 44.2,
+        "id": 966503197,
+        "hasDetails": true,
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95921975,
+          43.323081495454545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2236.3,
+        "radius_m": 26.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9395799,
+          43.32329502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 2076.2,
+        "radius_m": 25.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9165292846153847,
+          43.32374483076923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 968.7,
+        "radius_m": 17.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9147838,
+          43.3238147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5760.3,
+        "radius_m": 42.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9328062136363635,
+          43.323940245454544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 1522.5,
+        "radius_m": 22.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9372107285714286,
+          43.324176085714285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 3043.8,
+        "radius_m": 31.1,
+        "id": 217198782,
+        "hasDetails": true,
+        "name": "Salvador Allende Parkea",
+        "wikidata": "Q12266816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.943517011111111,
+          43.3243776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 181126.4,
+        "radius_m": 240.1,
+        "id": 1046443068,
+        "hasDetails": true,
+        "name": "Urgull",
+        "opening_hours": "Apr-Sep: 08:00-21:00; Oct-Mar: 08:00-19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9897754023809524,
+          43.324888204761905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5323414707,
+        "hasDetails": true,
+        "name": "Fronton",
+        "website": "https://www.pasaia.eus/es/fronton-san-pedro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9265496,
+          43.3253255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 5898.0,
+        "radius_m": 43.3,
+        "id": 73207476,
+        "hasDetails": true,
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9697193292682929,
+          43.32569955365854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "area_sqm": 10021.3,
+        "radius_m": 56.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9337802400000002,
+          43.325752066666674
+        ]
+      }
+    }
+  ]
+}

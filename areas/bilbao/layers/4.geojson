@@ -1,0 +1,1095 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 56126620,
+        "hasDetails": true,
+        "name": "Social Antzokia",
+        "amenity": "theatre",
+        "wikidata": "Q12267475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8892786,
+          43.2350321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11899583469,
+        "hasDetails": true,
+        "name": "Sala Mytho",
+        "amenity": "nightclub",
+        "address": "Telleria kalea 7",
+        "website": "https://grupomytho.company.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9027971,
+          43.2478289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2859717163,
+        "hasDetails": true,
+        "name": "Santana 27",
+        "amenity": "nightclub",
+        "address": "Telleria kalea 27",
+        "website": "https://www.santana27.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8999363,
+          43.2502623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9458651,
+          43.2511889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9305157,
+          43.2518132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9282099,
+          43.2525307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2759508762,
+        "hasDetails": true,
+        "name": "Hikaateneo Bilbao",
+        "amenity": "arts_centre",
+        "address": "Muelle Ibeni 1, Bilbao",
+        "website": "https://hikaateneo.eus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9223506,
+          43.2547042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9228998,
+          43.2563174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4710102000,
+        "hasDetails": true,
+        "name": "improBilbao",
+        "amenity": "theatre",
+        "address": "Belostikale 16, Bilbao",
+        "website": "https://improbilbao.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9241651,
+          43.2564654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4739465025,
+        "hasDetails": true,
+        "name": "Expogela - BilbaoHistoriko",
+        "amenity": "arts_centre",
+        "website": "https://expogela.bilbaohistoriko.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9301923,
+          43.2565748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 41082562,
+        "hasDetails": true,
+        "name": "Zazpi Katu II Gaztetxea",
+        "amenity": "arts_centre",
+        "website": "http://www.7katugaztetxea.com/",
+        "wikidata": "Q12269244",
+        "wikipedia": "eu:Zazpikatu gaztetxea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9216473,
+          43.2570599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 51983636,
+        "hasDetails": true,
+        "name": "Bilborock",
+        "amenity": "theatre",
+        "website": "http://www.bilbao.eus/cs/Satellite?c=Page&cid=1279117614447&language=es&pageid=1279117614447&pagename=Bilbaonet%2FPage%2FBIO_contenidoFinal",
+        "wikidata": "Q12255239",
+        "wikipedia": "eu:Bilborock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9275993,
+          43.2571356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9355105,
+          43.2582348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10646824505,
+        "hasDetails": true,
+        "name": "Bidebarrieta kulturgunea",
+        "amenity": "theatre",
+        "address": "Bidebarrieta kalea 4, Bilbao",
+        "website": "https://bilbaokultura.eus/es/bidebarrieta-kulturgunea/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9249554,
+          43.2587198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 28320546,
+        "hasDetails": true,
+        "name": "Arriaga antzokia",
+        "amenity": "theatre",
+        "address": "Arriaga plaza 1, Bilbao",
+        "website": "https://www.teatroarriaga.eus/",
+        "opening_hours": "Horario de Taquilla: Mo-Tu,Sa-Su 11:30-14:00,17:00-19:00; We-Fr 11:30-14:00,17:00-20:00",
+        "wikidata": "Q3750900",
+        "wikipedia": "es:Teatro Arriaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9250042,
+          43.2594684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1116551003,
+        "hasDetails": true,
+        "name": "Golem Alh\u00f3ndiga",
+        "amenity": "cinema",
+        "address": "Recalde zumarkalea 56",
+        "website": "https://www.golem.es/golem/golem-alhondiga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9371724,
+          43.2595971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 203301018,
+        "hasDetails": true,
+        "name": "Teatro Campos El\u00edseos antzokia",
+        "amenity": "theatre",
+        "address": "Bertendona kalea 3, Bilbao",
+        "website": "https://www.teatrocampos.com/",
+        "wikidata": "Q514689",
+        "wikipedia": "es:Teatro Campos El\u00edseos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9315162,
+          43.2596047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 96337695,
+        "hasDetails": true,
+        "name": "Azkuna Zentroa",
+        "amenity": "arts_centre",
+        "address": "Arriquibar plaza 4, Bilbao",
+        "website": "https://www.azkunazentroa.eus/az/cast/inicio",
+        "opening_hours": "09:00-21:00",
+        "wikidata": "Q3285202",
+        "wikipedia": "es:Azkuna Zentroa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9371313,
+          43.2597454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10315470109,
+        "hasDetails": true,
+        "name": "Cineclub FAS",
+        "amenity": "cinema",
+        "address": "Indautxu plaza, Bilbao",
+        "website": "https://www.cineclubfas.com",
+        "opening_hours": "Tu 19:45+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9408838,
+          43.2601599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9305951,
+          43.2601848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10315440209,
+        "hasDetails": true,
+        "name": "Sal\u00f3n de Actos Unamuno",
+        "amenity": "theatre",
+        "address": "Poza lizentziatuaren kalea 1, Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9334323,
+          43.2606519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9260316,
+          43.2608427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9350408,
+          43.2612298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.945369,
+          43.2615002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9429135,
+          43.2616496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9308223,
+          43.2618877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4714948288,
+        "hasDetails": true,
+        "name": "Crystal",
+        "amenity": "nightclub",
+        "address": "Bilbao",
+        "website": "https://elcrystalbilbao.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9245657,
+          43.2626849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 412096838,
+        "hasDetails": true,
+        "name": "Sociedad Filarm\u00f3nica de Bilbao",
+        "amenity": "theatre",
+        "address": "Portuko Markesaren kalea 2, Bilbao",
+        "website": "https://www.filarmonica.org/",
+        "wikidata": "Q25476426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9331751,
+          43.2632952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9440755,
+          43.2637235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 28757165,
+        "hasDetails": true,
+        "name": "Kafe Antzokia",
+        "amenity": "theatre",
+        "address": "Done Bikendi kalea 2, Bilbao",
+        "website": "https://www.kafeantzokia.eus/",
+        "wikidata": "Q12261187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9278329,
+          43.2637556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5056383439,
+        "hasDetails": true,
+        "name": "Stage Live",
+        "amenity": "nightclub",
+        "address": "Uribitarte kalea 8, Bilbao",
+        "website": "https://www.stagelivebilbao.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9276149,
+          43.2642316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11882322969,
+        "hasDetails": true,
+        "name": "Nave 9",
+        "amenity": "theatre",
+        "address": "Muelle Ram\u00f3n de la Sota y Llano 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9463045,
+          43.26622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4727750130,
+        "hasDetails": true,
+        "name": "Rocket",
+        "amenity": "nightclub",
+        "address": "Mazarredo zumarkalea 31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9307204,
+          43.2669256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 174088299,
+        "hasDetails": true,
+        "name": "Euskalduna jauregia",
+        "amenity": "theatre",
+        "address": "Abandoibarra etorbidea 4, Bilbao",
+        "website": "https://www.euskalduna.eus/",
+        "wikidata": "Q1783240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9443188,
+          43.2670102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5763866180,
+        "hasDetails": true,
+        "name": "Institut fran\u00e7ais de Bilbao",
+        "amenity": "arts_centre",
+        "address": "Campo Volantin pasealekua 23, Bilbao",
+        "website": "https://www.institutfrancais.es/bilbao/i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9268465,
+          43.2671383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3696895644,
+        "hasDetails": true,
+        "name": "Pabell\u00f3n 6",
+        "amenity": "theatre",
+        "address": "Deustuibarra 47",
+        "website": "https://pabellon6.org",
+        "wikidata": "Q12265422",
+        "wikipedia": "eu:Pabell\u00f3n N\u00ba 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9604465,
+          43.2673338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9605687,
+          43.267795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9494628,
+          43.2686773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10313700309,
+        "hasDetails": true,
+        "name": "La FuNdicIon",
+        "amenity": "theatre",
+        "address": "Francesc Macia kalea 1-3, Bilbao",
+        "website": "https://www.lafundicion.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9426557,
+          43.2696477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12087072670,
+        "hasDetails": true,
+        "name": "Next Museum",
+        "amenity": "arts_centre",
+        "address": "Blas de Otero kalea 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9504322,
+          43.2699399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4254043807,
+        "hasDetails": true,
+        "name": "Holiday",
+        "amenity": "nightclub",
+        "address": "Madariaga etorbidea, Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9480668,
+          43.271122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13564941201,
+        "hasDetails": true,
+        "name": "La Terminal FICC",
+        "amenity": "arts_centre",
+        "opening_hours": "Sa-Su 12:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9637386,
+          43.2713614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10315485009,
+        "hasDetails": true,
+        "name": "Teatro Salesianos Deusto",
+        "amenity": "theatre",
+        "address": "Agirre lehendakariaren etorbidea 75, Bilbao",
+        "website": "https://www.salesianosdeusto.com/servicios/teatro-salesianos-deusto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9532544,
+          43.2718672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9744326,
+          43.2740843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0072946,
+          43.287278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0051943,
+          43.2929036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9846571,
+          43.295991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 733753689,
+        "hasDetails": true,
+        "name": "Barakaldo Antzokia",
+        "amenity": "theatre",
+        "address": "Elcano kalea 4, Barakaldo",
+        "wikidata": "Q11908141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.987722,
+          43.2968632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0069987,
+          43.2990633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8865012,
+          43.2992225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9748568,
+          43.3019027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0082958,
+          43.3050335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.006304,
+          43.3090549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10881701312,
+        "hasDetails": true,
+        "name": "Dock Cine",
+        "amenity": "cinema",
+        "website": "https://www.dockcine.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0209136,
+          43.3118581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 370978134,
+        "hasDetails": true,
+        "name": "Sonora",
+        "amenity": "nightclub",
+        "website": "http://www.salasonora.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9871539,
+          43.314288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5102694240,
+        "hasDetails": true,
+        "name": "Centro de estudios musicales",
+        "amenity": "arts_centre",
+        "address": "Calle Gipuzkoa, Portugalete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0226332,
+          43.3206931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0193884,
+          43.3212345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0026639,
+          43.3212369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0162885,
+          43.3251117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 169034071,
+        "hasDetails": true,
+        "name": "Serantes Kultur Aretoa",
+        "amenity": "theatre",
+        "wikidata": "Q12267318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0332558,
+          43.3266253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9683987,
+          43.3287708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2244953824,
+        "hasDetails": true,
+        "name": "Be Cool",
+        "amenity": "nightclub",
+        "address": "Capit\u00e1n Mendiz\u00e1bal, 8 Trasera",
+        "website": "http://becoolsanturtzi.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0334292,
+          43.3312551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0338649,
+          43.3315652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0171808,
+          43.34042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9906333,
+          43.3408796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0129369,
+          43.3511422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 297738851,
+        "hasDetails": true,
+        "name": "Berango Antzokia",
+        "amenity": "theatre",
+        "address": "Berango"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9948725,
+          43.3549922
+        ]
+      }
+    }
+  ]
+}

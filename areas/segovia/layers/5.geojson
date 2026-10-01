@@ -1,0 +1,2542 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1113126,
+          40.9233671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1100128,
+          40.9234212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1107298,
+          40.9244044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1147237,
+          40.9262976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9337803546,
+        "hasDetails": true,
+        "name": "Mingorauto",
+        "website": "https://mingorauto.toyota.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1100628,
+          40.9268648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1162583,
+          40.9276114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1195552,
+          40.929042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1005771,
+          40.9292756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0993026,
+          40.9293892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 570005872,
+        "hasDetails": true,
+        "name": "Mercadona",
+        "address": "Calle Baltasar Graci\u00e1n 4",
+        "opening_hours": "Mo-Sa 09:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.098076,
+          40.9297059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13321904540,
+        "hasDetails": true,
+        "name": "Mobility-Centro",
+        "website": "https://www.mobilitycentro.com/concesionarios/segovia",
+        "opening_hours": "Mo-Fr 09:00-14:30,15:30-18:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.110614,
+          40.9297383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0977848,
+          40.9299504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13409194017,
+        "hasDetails": true,
+        "name": "Avenida",
+        "opening_hours": "Mo-Sa 10:00-14:00, Mo-Fr 17:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0974108,
+          40.9299908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4133501902,
+        "hasDetails": true,
+        "name": "Librer\u00eda Gorudi",
+        "address": "Leopoldo Alas \"Clar\u00edn\" 6, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1006701,
+          40.9300371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1089664802,
+        "hasDetails": true,
+        "name": "Mobility-Centro",
+        "website": "https://www.mobilitycentro.com",
+        "opening_hours": "Mo-Fr 09:30-14:00,16:30-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1111416,
+          40.9301893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 570005871,
+        "hasDetails": true,
+        "name": "Gran Plaza Segovia",
+        "opening_hours": "Mo-Sa 09:30-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0972963,
+          40.9303869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1000439,
+          40.9306787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1001436,
+          40.9308012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5592949205,
+        "hasDetails": true,
+        "name": "Auto Express",
+        "address": "Plaza Espronceda 14, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0995747,
+          40.9309317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.110519,
+          40.9318425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0985211,
+          40.9322177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1079229,
+          40.933186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1084078,
+          40.9335447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1077482,
+          40.9335787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1084704,
+          40.9338359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1819493524,
+        "hasDetails": true,
+        "name": "Dia",
+        "address": "Avenida de la Constituci\u00f3n 27, Segovia",
+        "opening_hours": "Mo-Sa 09:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10858,
+          40.934009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1138702,
+          40.9343963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1108049,
+          40.9346015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7775113853,
+        "hasDetails": true,
+        "name": "Melonsamur",
+        "opening_hours": "Mo-Sa 09:30-21:30; Su,PH 09:30-14:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1117103,
+          40.9355853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1074825,
+          40.9356862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1128178,
+          40.9363566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1826257078,
+        "hasDetails": true,
+        "name": "Mercadona",
+        "website": "https://www.mercadona.es",
+        "opening_hours": "Mo-Sa 09:15-21:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.111942,
+          40.9369802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1126503,
+          40.9370843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1090249,
+          40.9371481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.114031,
+          40.9372069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9606182993,
+        "hasDetails": true,
+        "name": "Dia",
+        "address": "Paseo del Conde de Sep\u00falveda 32, Segovia",
+        "opening_hours": "Mo-Sa 09:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1145357,
+          40.9375764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1050434,
+          40.93766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1106876,
+          40.9377866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1116765,
+          40.9381014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1145167,
+          40.9390856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11225290386,
+        "hasDetails": true,
+        "name": "Dia",
+        "address": "Calle Jos\u00e9 Zorrilla 89, Segovia",
+        "opening_hours": "Mo-Sa 09:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1148653,
+          40.9396673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.115348,
+          40.9399789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1153947,
+          40.9400949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488491596,
+        "hasDetails": true,
+        "name": "Cava de puros",
+        "address": "Calle Jos\u00e9 Zorrilla 81, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1152835,
+          40.9405732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488491597,
+        "hasDetails": true,
+        "name": "Expreso costura",
+        "address": "Calle Miraflores 16, Segovia",
+        "website": "https://www.expresocostura.es/",
+        "opening_hours": "Mo-Fr 09:00-14:00; Sa 09:30-13:30; Mo-We 16:30-19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1150124,
+          40.9406537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488493306,
+        "hasDetails": true,
+        "name": "Frutas Azahara",
+        "address": "Calle Jos\u00e9 Zorrilla 63, Segovia",
+        "opening_hours": "Mo-Fr 09:00-15:00,17:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1154109,
+          40.9411981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488493307,
+        "hasDetails": true,
+        "name": "Gabi",
+        "address": "Calle Miraflores 7, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1149536,
+          40.9412705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6741726740,
+        "hasDetails": true,
+        "name": "Bicicletas Melero",
+        "address": "Calle del Clavel 4, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1182318,
+          40.9413628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488493304,
+        "hasDetails": true,
+        "name": "El Eden",
+        "address": "Calle Jos\u00e9 Zorrilla 47, Segovia",
+        "website": "https://www.floristeriaeleden.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1154362,
+          40.9414053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 294880305,
+        "hasDetails": true,
+        "name": "Dia",
+        "address": "Avenida Don Juan de Borb\u00f3n y Battemberg, Segovia",
+        "opening_hours": "Mo-Sa 09:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1059004,
+          40.9415777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1154773,
+          40.941601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488491594,
+        "hasDetails": true,
+        "name": "Tien21",
+        "address": "Paseo de Ezequiel Gonz\u00e1lez 38, Segovia",
+        "website": "https://www.tien21.es",
+        "opening_hours": "Mo-Fr 09:45-13:30,16:30-20:00; Sa 09:45-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1180764,
+          40.9417827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10765639052,
+        "hasDetails": true,
+        "name": "Ricosoft",
+        "address": "Plaza de la Universidad 4, Segovia",
+        "opening_hours": "Mo-Fr 09:00-14:00,16:30-20:00; Sa 10:00-14:00",
+        "names": [
+          "Ricosoft",
+          "Loter\u00edas y Apuestas del Estado"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.114246,
+          40.9419008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1169777,
+          40.9420338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11643248901,
+        "hasDetails": true,
+        "name": "Todo\u00datil",
+        "address": "Calle Jos\u00e9 Zorrilla, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.115852,
+          40.942057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11225252491,
+        "hasDetails": true,
+        "name": "Dia",
+        "address": "Calle Jos\u00e9 Zorrilla, Segovia",
+        "opening_hours": "Mo-Sa 09:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1158636,
+          40.9421526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488493301,
+        "hasDetails": true,
+        "name": "Entre libros",
+        "address": "Calle Jos\u00e9 Zorrilla 24, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.115841,
+          40.9423015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11379370310,
+        "hasDetails": true,
+        "name": "Teresa Cocinas",
+        "address": "Calle Jos\u00e9 Zorrilla, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1155545,
+          40.9423661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1147589,
+          40.9427557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488491592,
+        "hasDetails": true,
+        "name": "Redecoratucasa",
+        "address": "Calle de Santo Tom\u00e1s 5, Segovia",
+        "website": "https://www.redecoratucasa.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1180006,
+          40.9429954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 891509278,
+        "hasDetails": true,
+        "name": "Alain Afflelou",
+        "opening_hours": "Mo-Fr 10:30-13:30,17:00-20:00; Sa 10:30-13:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1195797,
+          40.9433781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14068052314,
+        "hasDetails": true,
+        "name": "Zapater\u00eda Barefoot Piecitos",
+        "address": "Calle Jos\u00e9 Zorrilla 6, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1160171,
+          40.9434642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8917417117,
+        "hasDetails": true,
+        "name": "Dia",
+        "address": "Paseo de Ezequiel Gonz\u00e1lez 39, Segovia",
+        "opening_hours": "Mo-Sa 09:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1198111,
+          40.9435638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.118122,
+          40.943578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1200003,
+          40.9436762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11018109550,
+        "hasDetails": true,
+        "name": "Smile",
+        "address": "Calle Tejedores 16, Segovia",
+        "opening_hours": "Mo-Sa 09:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.103089,
+          40.943922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1201978,
+          40.9439791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11133359813,
+        "hasDetails": true,
+        "name": "Viajes Laura",
+        "address": "Paseo de Ezequiel Gonz\u00e1lez 24, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1208427,
+          40.9439792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9758983917,
+        "hasDetails": true,
+        "name": "Anyu Pasteler\u00eda",
+        "address": "Calle Alfonso VI 23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1075894,
+          40.9440058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1189488,
+          40.9440208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1169515,
+          40.9440278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.116398,
+          40.9441418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1189234,
+          40.9442901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1105866,
+          40.9443038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1191669,
+          40.9443319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11096605614,
+        "hasDetails": true,
+        "name": "Natalia Fuentetaja slow beauty",
+        "address": "Calle del Roble 12, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1183232,
+          40.9444145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1190861,
+          40.9445622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1188015,
+          40.9446349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8296498242,
+        "hasDetails": true,
+        "name": "Telas La Tonelada",
+        "website": "https://www.telaslatonelada.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1171908,
+          40.9446928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1187511,
+          40.9447421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1185945,
+          40.9447468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1190151,
+          40.9448142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1250961719,
+        "hasDetails": true,
+        "name": "ONCE",
+        "address": "Avenida del Acueducto, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1210493,
+          40.9448228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1183069,
+          40.9448697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6482173800,
+        "hasDetails": true,
+        "name": "Vodafone",
+        "address": "Calle del Gobernador Fern\u00e1ndez Jim\u00e9nez 13, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1187184,
+          40.9449329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11628398583,
+        "hasDetails": true,
+        "name": "La Prensa",
+        "address": "Estaci\u00f3n de Autobuses, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1219308,
+          40.9449599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1207003,
+          40.9451605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.118675,
+          40.9451966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11874579338,
+        "hasDetails": true,
+        "name": "Unide",
+        "opening_hours": "Mo-Fr 09:00-14:15,17:00-20:00,Sa 09:00-14:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1184509,
+          40.9452577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11628398582,
+        "hasDetails": true,
+        "name": "Ventanilla Linecar",
+        "address": "Paseo de Ezequiel Gonz\u00e1lez, Segovia",
+        "opening_hours": "\"S\u00f3lo abre excepcionalmente\"",
+        "names": [
+          "Ventanilla Linecar",
+          "Ventanilla Avanza"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1223054,
+          40.9452734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1194322,
+          40.9454237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1180749,
+          40.9454589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1190558,
+          40.9456355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4986217522,
+        "hasDetails": true,
+        "name": "Libros del Reino Secreto",
+        "address": "Plaza de Muerte y Vida 1, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1172718,
+          40.9457185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1188955,
+          40.9457413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11109233296,
+        "hasDetails": true,
+        "name": "Dia",
+        "address": "Calle Andr\u00e9s Reguera Ant\u00f3n 6, Segovia",
+        "opening_hours": "Mo-Sa 09:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1037889,
+          40.94577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1191176,
+          40.9457758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10013269554,
+        "hasDetails": true,
+        "name": "Mango",
+        "address": "Gobernador Fern\u00e1ndez Jim\u00e9nez 3",
+        "names": [
+          "Mango",
+          "Dia"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1189537,
+          40.9459116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1191632,
+          40.9459439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10013269558,
+        "hasDetails": true,
+        "name": "La Ventana Natural",
+        "address": "Gobernador Fern\u00e1ndez Jim\u00e9nez 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1191873,
+          40.9460432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3783432438,
+        "hasDetails": true,
+        "name": "Pilar Prieto",
+        "address": "Gobernador Fern\u00e1ndez Jim\u00e9nez 1, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1191085,
+          40.9463739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1179046,
+          40.9464581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1195694,
+          40.9465176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1179295,
+          40.9465556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1177347,
+          40.9466283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1190465,
+          40.9468468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1207609,
+          40.9470314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1180177,
+          40.9471096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1178687,
+          40.9471118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9994504665,
+        "hasDetails": true,
+        "name": "Intempestivos",
+        "address": "Calle de Teodosio el Grande 8 Bis, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1173938,
+          40.9471126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1188128,
+          40.9471697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1179535,
+          40.9472592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1180317,
+          40.9474838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1183494,
+          40.9475258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11874794702,
+        "hasDetails": true,
+        "name": "Misako",
+        "address": "Calle de Cervantes 8",
+        "names": [
+          "Misako",
+          "decarrerilla"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1199496,
+          40.9477765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11871998193,
+        "hasDetails": true,
+        "name": "Librer\u00eda Cervantes",
+        "address": "Calle de Cervantes 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1198186,
+          40.9477914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1194525,
+          40.9478145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1184314,
+          40.9478173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1185852,
+          40.9479282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1194651,
+          40.9479296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1193458,
+          40.9479363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5367800393,
+        "hasDetails": true,
+        "name": "Unide",
+        "opening_hours": "Mo-Sa 09:00-21:00,Su 10:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1207647,
+          40.9479693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11132324281,
+        "hasDetails": true,
+        "name": "Flying Tiger Copenhagen",
+        "opening_hours": "Su 12:00-20:00; Mo-Th 11:00-15:00,16:00-20:30; Fr,Sa 11:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1208568,
+          40.9480398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9176866837,
+        "hasDetails": true,
+        "name": "Diablo Cojuelo",
+        "address": "Calle de Juan Bravo 23",
+        "website": "https://diablocojuelo.com",
+        "opening_hours": "Fr,Sa 11:00-22:30; Su,Mo 11:00-21:00; Tu,We 10:00-21:00; Th 10:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1211795,
+          40.9482921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5590405522,
+        "hasDetails": true,
+        "name": "Calzedonia",
+        "opening_hours": "Mo-Sa 10:00-14:00,17:00-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1216135,
+          40.9484441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1219765,
+          40.9487111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 770264397,
+        "hasDetails": true,
+        "name": "Centro Comercial Almuzara",
+        "address": "Calle de Juan Bravo 6, Segovia",
+        "opening_hours": "Mo-Sa 09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1230722,
+          40.9489787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10925840813,
+        "hasDetails": true,
+        "name": "Decathlon",
+        "opening_hours": "Mo-Sa 10:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1225776,
+          40.9490229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1225902,
+          40.9491389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3883995467,
+        "hasDetails": true,
+        "name": "Granier",
+        "address": "Segovia",
+        "website": "https://pansgranier.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1234184,
+          40.9492327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1232221,
+          40.9492946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1236037,
+          40.9493365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1224428,
+          40.9494011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1225729,
+          40.949484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1238014,
+          40.9497667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1224569,
+          40.9498375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1244907,
+          40.9499308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3990829298,
+        "hasDetails": true,
+        "name": "Lim\u00f3n y Menta",
+        "outdoor_seating": "no",
+        "names": [
+          "Lim\u00f3n y Menta",
+          "El Alc\u00e1zar"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1240604,
+          40.9499395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 352043516,
+        "hasDetails": true,
+        "name": "Prensa y alimentaci\u00f3n",
+        "address": "Plaza Mayor, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1241391,
+          40.9501527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1126146,
+          40.950169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1125424,
+          40.9502595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1232841,
+          40.9503157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1231618,
+          40.9503367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1225355,
+          40.9503495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1230147,
+          40.9503631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1228725,
+          40.9503731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1194546,
+          40.9503829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1214386,
+          40.9504628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1229946,
+          40.9504944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11872171357,
+        "hasDetails": true,
+        "name": "Punto y Linea",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:30-20:15; Sa 10:15-14:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1228463,
+          40.9505039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1271058,
+          40.9510289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11873941598,
+        "hasDetails": true,
+        "name": "Librer\u00eda \u00cdcaro",
+        "address": "Calle de Dao\u00edz 36",
+        "names": [
+          "Librer\u00eda \u00cdcaro",
+          "Aquefarte"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1264543,
+          40.9511647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.12688,
+          40.9512001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 853392910,
+        "hasDetails": true,
+        "name": "Taquilla Alc\u00e1zar de Segovia",
+        "address": "Plaza de Reina Victoria Eugenia, Segovia",
+        "website": "https://entradas.alcazardesegovia.com/",
+        "opening_hours": "Nov-Mar 10:00-18:00,Apr-Oct 10:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.131506,
+          40.9518047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9624409261,
+        "hasDetails": true,
+        "name": "Claudio",
+        "opening_hours": "PH,Mo-Su 06:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0883105,
+          40.9522419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3554019531,
+        "hasDetails": true,
+        "name": "Dia",
+        "address": "Avenida de la V\u00eda Roma 30, Segovia",
+        "opening_hours": "Mo-Sa 09:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1091814,
+          40.9525796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 187034128,
+        "hasDetails": true,
+        "name": "Reprofraf\u00eda de la IE",
+        "address": "Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1170483,
+          40.9526254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3554019530,
+        "hasDetails": true,
+        "name": "Pescader\u00eda El Puerto",
+        "opening_hours": "Mo-Sa 08:30-14:00,16:15-19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1090312,
+          40.9528632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10786972800,
+        "hasDetails": true,
+        "name": "Hector Bernab\u00e9",
+        "address": "Calle Cu\u00e9llar 15, Segovia",
+        "opening_hours": "Mo-Fr 09:00-14:00, 17:00-20:00; Sa 09:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.107803,
+          40.9532102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3554019528,
+        "hasDetails": true,
+        "name": "Administraci\u00f3n de loter\u00eda n\u00b011",
+        "address": "Avenida de la V\u00eda Roma 32, Segovia",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1089507,
+          40.9532724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10786983308,
+        "hasDetails": true,
+        "name": "Talleres Francis",
+        "address": "Calle Coca 3, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1086114,
+          40.9539042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10786983307,
+        "hasDetails": true,
+        "name": "Pasteler\u00eda Moneo",
+        "address": "Calle Coca 1, Segovia",
+        "opening_hours": "Mo-Su 09:30-14:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1088118,
+          40.9539163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1072315,
+          40.953971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1287771,
+          40.9541444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1128961,
+          40.9548233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1112577,
+          40.9551044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1323123,
+          40.9556228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1075019,
+          40.9562267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1074302,
+          40.9563068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1071781,
+          40.9566318
+        ]
+      }
+    }
+  ]
+}

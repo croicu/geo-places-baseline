@@ -1,0 +1,477 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12641233511,
+        "hasDetails": true,
+        "name": "Codere",
+        "amenity": "casino",
+        "address": "Irun plaza 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9735711,
+          43.3050835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1249494174,
+        "hasDetails": true,
+        "name": "Cinesa",
+        "amenity": "cinema",
+        "website": "https://www.cinesa.es/cines/garbera/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.943411,
+          43.3093539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1249865307,
+        "hasDetails": true,
+        "name": "Cinesa",
+        "amenity": "cinema",
+        "website": "https://www.cinesa.es/cines/garbera/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9432406,
+          43.3097575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0055977,
+          43.3122748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0053334,
+          43.3124253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 518650143,
+        "hasDetails": true,
+        "name": "Doka",
+        "amenity": "nightclub",
+        "address": "Erregezain kalea 20, Donostia / San Sebasti\u00e1n",
+        "website": "http://www.doka.eus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0014719,
+          43.312544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13707385901,
+        "hasDetails": true,
+        "name": "Zazpi T'erdi",
+        "amenity": "cinema",
+        "address": "Osasun Iturria kalea 10",
+        "website": "https://www.zazpiterdi.com/",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9827101,
+          43.31336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12860342101,
+        "hasDetails": true,
+        "name": "As de picas",
+        "amenity": "casino",
+        "address": "Juan de Olazabal kalea 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9032888,
+          43.3138901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 567052230,
+        "hasDetails": true,
+        "name": "Niessen zinemak",
+        "amenity": "cinema",
+        "website": "https://www.niessenzinemak.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9003993,
+          43.3139813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12999810701,
+        "hasDetails": true,
+        "name": "Niessen kulturgunea",
+        "amenity": "theatre",
+        "address": "Alfontso XI. kalea",
+        "website": "https://kultura.errenteria.eus/guneak/niessen-kulturgunea/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9008843,
+          43.314301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9389288,
+          43.3153971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6434058285,
+        "hasDetails": true,
+        "name": "Bataplan",
+        "amenity": "nightclub",
+        "opening_hours": "Fr,Sa 00:00-06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9888479,
+          43.3154958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3266749,
+        "hasDetails": true,
+        "name": "Tabakalera",
+        "amenity": "arts_centre",
+        "address": "Andre Zigarrogileen plaza 1, Donostia / San Sebasti\u00e1n",
+        "website": "https://www.tabakalera.eus/",
+        "opening_hours": "Tu-Su 10:00-21:00",
+        "wikidata": "Q9081343",
+        "wikipedia": "en:Tabakalera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.975896,
+          43.3166154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8990942,
+          43.3177205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4677493431,
+        "hasDetails": true,
+        "name": "Gazteszena",
+        "amenity": "theatre",
+        "address": "Jaialai kalea 22, Donostia / San Sebasti\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9688352,
+          43.3193192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8979877,
+          43.3198679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3637197923,
+        "hasDetails": true,
+        "name": "Gu",
+        "amenity": "nightclub",
+        "address": "Kontxa pasealekua 9, Donostia / San Sebasti\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.986511,
+          43.3213669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13355953852,
+        "hasDetails": true,
+        "name": "Borobil",
+        "amenity": "theatre",
+        "address": "Iparragirre kalea 5",
+        "website": "https://www.borobilteatroa.eus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9753335,
+          43.3215521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 619801650,
+        "hasDetails": true,
+        "name": "Friends",
+        "amenity": "nightclub",
+        "address": "Boulevard zumardia 27, Donostia / San Sebasti\u00e1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9846918,
+          43.3216402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2167480100,
+        "hasDetails": true,
+        "name": "Kursaal",
+        "amenity": "casino",
+        "opening_hours": "Mo-Su,PH 10:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.98559,
+          43.3222795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.97469,
+          43.3223842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 461396306,
+        "hasDetails": true,
+        "name": "Antzoki Zaharra",
+        "amenity": "theatre",
+        "address": "Kale Nagusia 3, Donostia / San Sebasti\u00e1n",
+        "wikidata": "Q12253704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9856829,
+          43.322409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 28196019,
+        "hasDetails": true,
+        "name": "Victoria Eugenia antzokia",
+        "amenity": "theatre",
+        "address": "1, Donostia / San Sebasti\u00e1n",
+        "wikidata": "Q3114044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9809602,
+          43.3225994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 182552763,
+        "hasDetails": true,
+        "name": "Kursaal Auditorium",
+        "amenity": "theatre",
+        "website": "https://www.kursaal.eus",
+        "wikidata": "Q2349872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9791148,
+          43.3244578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 27264477,
+        "hasDetails": true,
+        "name": "Kursaaleko Kamara aretoa",
+        "amenity": "theatre",
+        "website": "https://www.kursaal.eus/es/entradas/",
+        "opening_hours": "Tu-Su 12:00-14:00, 16:00-20:00",
+        "wikidata": "Q2349872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9781917,
+          43.3245708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 461391268,
+        "hasDetails": true,
+        "name": "Principe zinema",
+        "amenity": "cinema",
+        "address": "San Juan kalea 10, Donostia / San Sebasti\u00e1n",
+        "website": "https://sadecine.com/es/cines/principe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9841696,
+          43.3252643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2158186454,
+        "hasDetails": true,
+        "name": "Gipuzkoako Argazkilari Elkartea",
+        "amenity": "arts_centre",
+        "address": "Pasealeku Berria 27, Donostia / San Sebasti\u00e1n",
+        "website": "https://www.sfg-ss.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9847887,
+          43.3258096
+        ]
+      }
+    }
+  ]
+}

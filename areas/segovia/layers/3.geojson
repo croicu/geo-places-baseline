@@ -1,0 +1,2056 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 18134148,
+        "hasDetails": true,
+        "name": "Acueducto de Segovia",
+        "address": "Segovia",
+        "wikidata": "Q244947",
+        "wikipedia": "es:Acueducto de Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1002567,
+          40.902038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1279527,
+          40.9228853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1184174,
+          40.927376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1193034,
+          40.9276652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1000083,
+          40.9281323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0955199,
+          40.9285291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.106683,
+          40.9309843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1002857,
+          40.9317479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.112043,
+          40.9346094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1100783,
+          40.9346987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1035742,
+          40.9360234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1123525,
+          40.9362177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1107194983,
+        "hasDetails": true,
+        "name": "Puerta de Madrid",
+        "wikidata": "Q124644754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1124609,
+          40.9363052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1164891,
+          40.9383074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1170595,
+          40.9384897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1051527,
+          40.9387306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1152477,
+          40.9400326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1048141,
+          40.9405103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.109134,
+          40.9405322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8210735,
+        "hasDetails": true,
+        "name": "Plaza de Toros",
+        "address": "Carretera de La Granja 4, Segovia",
+        "wikidata": "Q24023788",
+        "wikipedia": "es:Plaza de toros de Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10727,
+          40.9413208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0893043,
+          40.9420154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1177303,
+          40.9420261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1076702,
+          40.942675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11773,
+          40.9427532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1191183,
+          40.9441483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 125314092,
+        "hasDetails": true,
+        "name": "Palacio de los Builtrago",
+        "address": "Plaza de Santa Eulalia, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1154087,
+          40.9442044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1249532,
+          40.9447885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1114317,
+          40.9454448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1311002284,
+        "hasDetails": true,
+        "name": "Zona de despegue de globos aerost\u00e1ticos",
+        "address": "Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1318513,
+          40.9457106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1118658,
+          40.9458752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10253170245,
+        "hasDetails": true,
+        "name": "Colecci\u00f3n museogr\u00e1fica de la Academia de Artiller\u00eda",
+        "address": "Segovia",
+        "opening_hours": "Tu,Th,Sa 11:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.117422,
+          40.9461623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 503134835,
+        "hasDetails": true,
+        "name": "Arcada del Acueducto de Segovia",
+        "address": "Segovia",
+        "wikidata": "Q244947",
+        "wikipedia": "es:Acueducto de Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1147524,
+          40.9466468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 429093255,
+        "hasDetails": true,
+        "name": "Casa de la Tierra",
+        "opening_hours": "Fr 12:00-13:30",
+        "wikidata": "Q110809652",
+        "wikipedia": "es:Casa de la Tierra (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1196767,
+          40.9468491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1239826,
+          40.9470122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1230246,
+          40.9473132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1024227,
+          40.9473683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.098704,
+          40.9477538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1204134,
+          40.9477784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1206132,
+          40.9479793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 368806516,
+        "hasDetails": true,
+        "name": "Palacio del Conde de Alpuente",
+        "wikidata": "Q56697769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1212293,
+          40.9479931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 241917740,
+        "hasDetails": true,
+        "name": "Alh\u00f3ndiga",
+        "amenity": "exhibition_centre",
+        "wikidata": "Q63872631",
+        "wikipedia": "es:Alh\u00f3ndiga de Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1219102,
+          40.948047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 17309640,
+        "hasDetails": true,
+        "name": "Casa de los Picos",
+        "wikidata": "Q1046543",
+        "wikipedia": "es:Casa de los Picos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1203427,
+          40.9481131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1206737,
+          40.9481905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1118901,
+          40.9483871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1183341,
+          40.9484985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2675594000,
+        "hasDetails": true,
+        "name": "Foster's Hollywood",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "opening_hours": "Mo-Su 13:00-16:30,20:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1218975,
+          40.9485457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1234342,
+          40.9485477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1182227,
+          40.9485514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.121578,
+          40.9486157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1216544,
+          40.9486947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1212821,
+          40.9487297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4233797196,
+        "hasDetails": true,
+        "name": "Cementerio Jud\u00edo de Segovia",
+        "address": "Cuesta de los Hoyos, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.12815,
+          40.9487301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1212333,
+          40.9488622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5583522,
+        "hasDetails": true,
+        "name": "Casa de los Solier",
+        "wikidata": "Q56698012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1211843,
+          40.9490004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1307133,
+          40.9491237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0993163,
+          40.949161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5583493,
+        "hasDetails": true,
+        "name": "Convento del Corpus Christi (Antigua Sinagoga Mayor)",
+        "amenity": "place_of_worship",
+        "wikidata": "Q7085486",
+        "wikipedia": "es:Convento del Corpus Christi (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1240146,
+          40.9492439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1281564,
+          40.9492578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2675594009,
+        "hasDetails": true,
+        "name": "Museo de Arte Contempor\u00e1neo - Esteban Vicente",
+        "website": "https://www.museoestebanvicente.es/",
+        "opening_hours": "Su 11:00-15:00; Tu-Fr 11:00-14:00,16:00-19:00; Sa 11:00-20:00",
+        "wikidata": "Q42311478",
+        "wikipedia": "es:Museo de Arte Contempor\u00e1neo Esteban Vicente"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1211058,
+          40.9493006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1169667,
+          40.949365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5583540,
+        "hasDetails": true,
+        "name": "Casa de las Cadenas",
+        "wikidata": "Q113573245",
+        "wikipedia": "es:Casa de las Cadenas (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.117386,
+          40.9494044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3726513844,
+        "hasDetails": true,
+        "name": "Centro Did\u00e1ctico de la Juder\u00eda",
+        "wikidata": "Q5954130",
+        "wikipedia": "es:Juder\u00eda de Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1244492,
+          40.9494624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5583532,
+        "hasDetails": true,
+        "name": "Palacio de Quintanar",
+        "wikidata": "Q56670038",
+        "wikipedia": "es:Palacio de los Marqueses de Quintanar (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1178708,
+          40.9496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5583547,
+        "hasDetails": true,
+        "name": "Casa del Marqu\u00e9s de Lozoya",
+        "wikidata": "Q32037230",
+        "wikipedia": "es:Casa del Mayorazgo de los C\u00e1ceres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1169568,
+          40.949613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1265568,
+          40.9496149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1271735,
+          40.9498249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1216178,
+          40.9499097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1318733,
+          40.9499976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 451150192,
+        "hasDetails": true,
+        "name": "Palacio del Conde de Cheste",
+        "wikidata": "Q105405842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1172701,
+          40.9500248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1267545,
+          40.9500951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 16786106,
+        "hasDetails": true,
+        "name": "Catedral de Segovia",
+        "amenity": "place_of_worship",
+        "address": "Calle Marques de Arco 1, Segovia",
+        "website": "https://catedralsegovia.es",
+        "wikidata": "Q1499912",
+        "wikipedia": "es:Catedral de Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1256062,
+          40.9501149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9627354829,
+        "hasDetails": true,
+        "name": "Andr\u00e9s Laguna",
+        "wikidata": "Q56678141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1212029,
+          40.9501177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1273318,
+          40.9501429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 364219880,
+        "hasDetails": true,
+        "name": "Iglesia de San Miguel",
+        "amenity": "place_of_worship",
+        "wikidata": "Q19360302",
+        "wikipedia": "es:Iglesia de San Miguel (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1232779,
+          40.9501493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1181219,
+          40.9501689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2672249428,
+        "hasDetails": true,
+        "name": "Museo de Segovia",
+        "address": "Calle Socorro 11, Segovia",
+        "website": "http://www.museoscastillayleon.jcyl.es",
+        "wikidata": "Q26266052",
+        "wikipedia": "es:Museo de Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.128856,
+          40.950275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1202664,
+          40.9503271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1284275,
+          40.950332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1236025,
+          40.9504733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1199504,
+          40.9505251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 19146341,
+        "hasDetails": true,
+        "name": "Murallas de Segovia",
+        "wikidata": "Q55329789",
+        "wikipedia": "es:Murallas de Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1250676,
+          40.9505484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1327574,
+          40.9505867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6540182414,
+        "hasDetails": true,
+        "name": "Museo Zuloaga",
+        "opening_hours": "Tu-Su 10:00-14:00; Tu-Sa 16:00-20:00",
+        "wikidata": "Q28664145",
+        "wikipedia": "es:Museo Zuloaga (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1170128,
+          40.9508408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1301144,
+          40.9510931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1167395,
+          40.9511799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.127265,
+          40.9511806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 260836368,
+        "hasDetails": true,
+        "name": "Palacio de los Condes de Mansilla",
+        "wikidata": "Q141451356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1219824,
+          40.9512451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1288104,
+          40.9512588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1243004,
+          40.9513078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5480136,
+        "hasDetails": true,
+        "name": "Convento de Santo Domingo el Real",
+        "amenity": "place_of_worship",
+        "wikidata": "Q43088445",
+        "wikipedia": "es:Convento de Santo Domingo el Real (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1228993,
+          40.9514213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1288309,
+          40.9514555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5480135,
+        "hasDetails": true,
+        "name": "Convento de San Jos\u00e9",
+        "amenity": "place_of_worship",
+        "wikidata": "Q19521962",
+        "wikipedia": "es:Convento de San Jos\u00e9 (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.126736,
+          40.9515153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1257346,
+          40.9516075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1314537,
+          40.9516144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2675594002,
+        "hasDetails": true,
+        "name": "Casa-Museo de Antonio Machado",
+        "website": "http://machado.turismodesegovia.com/",
+        "wikidata": "Q16867463",
+        "wikipedia": "es:Casa-Museo de Machado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1259199,
+          40.9516696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1331696,
+          40.9519926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3726513849,
+        "hasDetails": true,
+        "name": "Museo Gastron\u00f3mico de Segovia",
+        "address": "Calle de Dao\u00edz 13, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1288142,
+          40.9520562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1299807,
+          40.9520607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1302352,
+          40.9520984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1099903,
+          40.9522039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 368806508,
+        "hasDetails": true,
+        "name": "Monumento a Daoiz y Velarde",
+        "wikidata": "Q97961678",
+        "wikipedia": "es:Monumento a Dao\u00edz y Velarde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1309476,
+          40.9522525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1302063,
+          40.9522575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1068894,
+          40.9523398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1120988852,
+        "hasDetails": true,
+        "name": "Puerta de La Claustra",
+        "wikidata": "Q109337792",
+        "wikipedia": "es:Puerta de la Claustra (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1286533,
+          40.9523699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1276131,
+          40.9523867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 19248303,
+        "hasDetails": true,
+        "name": "F\u00e1brica de loza La Segoviana",
+        "address": "Segovia",
+        "wikidata": "Q5872094",
+        "wikipedia": "es:F\u00e1brica de loza La Segoviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1110247,
+          40.9524202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6708094,
+        "hasDetails": true,
+        "name": "Alc\u00e1zar de Segovia",
+        "address": "Plaza de Reina Victoria Eugenia, Segovia",
+        "website": "https://www.alcazardesegovia.com/",
+        "wikidata": "Q557337",
+        "wikipedia": "es:Alc\u00e1zar de Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1325829,
+          40.9524761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1473937663,
+        "hasDetails": true,
+        "name": "Primera imprenta de Espa\u00f1a",
+        "address": "Calle de Velarde 26, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1295682,
+          40.9525946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1293929,
+          40.9526153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1144746,
+          40.9526707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1300984,
+          40.9527405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1146403,
+          40.9528818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2519928,
+        "hasDetails": true,
+        "name": "Monasterio de Santa Cruz la Real",
+        "address": "Calle Escalinata del Hospicio, Segovia",
+        "wikidata": "Q8350468",
+        "wikipedia": "es:Convento de Santa Cruz la Real"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1194038,
+          40.952894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1312064,
+          40.9530453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1275575,
+          40.9531514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.128602,
+          40.9532048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1141565,
+          40.9532957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6440949885,
+        "hasDetails": true,
+        "name": "Colecci\u00f3n de T\u00edteres Francisco de Peralta",
+        "website": "http://titeres.turismodesegovia.com/",
+        "opening_hours": "We-Sa 11:00-15:00, 15:30-17:30; Su 11:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1278236,
+          40.9533401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1190061,
+          40.9533491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1110148,
+          40.9537756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1133219,
+          40.9539925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1288233,
+          40.9540097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.130947,
+          40.954073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1288139,
+          40.9542117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1149391859,
+        "hasDetails": true,
+        "name": "Real Casa de Moneda",
+        "address": "Calle la Moneda, Segovia",
+        "website": "https://www.casamonedasegovia.es/",
+        "wikidata": "Q5692199",
+        "wikipedia": "es:Real Casa de la Moneda (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1286224,
+          40.9543599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1047599405,
+        "hasDetails": true,
+        "name": "Antiguo Molino de la Perla",
+        "address": "Calle de los Molinos 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1138658,
+          40.9544494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1280559,
+          40.9546792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1047599404,
+        "hasDetails": true,
+        "name": "Antiguo Molino del Portalejo",
+        "address": "Calle de los Molinos 12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1142206,
+          40.9547391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1368134229,
+        "hasDetails": true,
+        "name": "Antiguo Molino de la Pe\u00f1a del Pico",
+        "address": "Calle de los Molinos 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1157628,
+          40.9550711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1067632,
+          40.9550818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1179675,
+          40.9552732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 294542294,
+        "hasDetails": true,
+        "name": "Antiguo Molino de la Ace\u00f1a",
+        "address": "Calle de los Molinos 18, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1162483,
+          40.9553009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1324194,
+          40.9553634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1246284427,
+        "hasDetails": true,
+        "name": "Ruinas del Monasterio de Santa Mar\u00eda de los Huertos",
+        "amenity": "monastery",
+        "wikidata": "Q104621586",
+        "wikipedia": "es:Monasterio de Nuestra Se\u00f1ora de los Huertos (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1217482,
+          40.9554869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1322086,
+          40.9555151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1290866,
+          40.9556416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1152063,
+          40.9556479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 260037660,
+        "hasDetails": true,
+        "name": "Iglesia de la Veracruz",
+        "amenity": "place_of_worship",
+        "address": "Carretera de Zamarramala, Segovia",
+        "website": "https://www.ordendemalta.es/esp/cultura/delegacion-castilla/#iglesia",
+        "wikidata": "Q1799223",
+        "wikipedia": "es:Iglesia de la Vera Cruz (Segovia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1322391,
+          40.9556884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1162079,
+          40.9560409
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2798 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11112046580,
+        "hasDetails": true,
+        "name": "La Beerguer\u00eda",
+        "amenity": "bar",
+        "opening_hours": "Tu-Su 11:30-01:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0980716,
+          40.9287747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1001136,
+          40.9289408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7549246398,
+        "hasDetails": true,
+        "name": "Caf\u00e9 Berl\u00edn",
+        "amenity": "cafe",
+        "cuisine": "burger;german",
+        "address": "Calle Baltasar Graci\u00e1n 9, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0962881,
+          40.9309852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7549246400,
+        "hasDetails": true,
+        "name": "Novapizza",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "address": "Calle D\u00e1maso Alonso 54, Segovia",
+        "website": "http://novapizzasegovia.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0958359,
+          40.9314148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7549246401,
+        "hasDetails": true,
+        "name": "Cafeter\u00eda Expressate",
+        "amenity": "cafe",
+        "address": "Calle D\u00e1maso Alonso 54, Segovia",
+        "website": "https://www.cafeteriaexpressatesegovia.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0962739,
+          40.9316529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1108977502,
+        "hasDetails": true,
+        "name": "ZIB\u00c1 - Jos\u00e9 Mar\u00eda Eventos",
+        "amenity": "restaurant",
+        "address": "Avenida Don Juan de Borb\u00f3n y Battemberg 47, Segovia",
+        "website": "https://www.zibaeventos.com/",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0915544,
+          40.932404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10934153603,
+        "hasDetails": true,
+        "name": "Excalibur Cervecer\u00eda Medieval",
+        "amenity": "pub",
+        "address": "Calle Tirso de Molina 6, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1000541,
+          40.933102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12139769695,
+        "hasDetails": true,
+        "name": "Bar Motero P-131",
+        "amenity": "pub",
+        "address": "Calle D\u00e1maso Alonso 10, Segovia",
+        "opening_hours": "Tu-Fr 09:15-23:00; Sa-Su 09:30-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0999044,
+          40.9338229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2883874001,
+        "hasDetails": true,
+        "name": "Don Camilo",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Carretera de San Rafael, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.109665,
+          40.9339671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1105648,
+          40.9346297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1087497,
+          40.9360446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5916746288,
+        "hasDetails": true,
+        "name": "Mes\u00f3n los Arcos",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1118099,
+          40.9371908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13577926662,
+        "hasDetails": true,
+        "name": "El Rustic Pizza",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "opening_hours": "Mo-Su,PH 19:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1115946,
+          40.9373752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9671104577,
+        "hasDetails": true,
+        "name": "Bar El Norte",
+        "amenity": "bar",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.113889,
+          40.9374404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5368500523,
+        "hasDetails": true,
+        "name": "La Alhambra",
+        "amenity": "bar",
+        "address": "Avenida Juan Carlos I 16, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1114581,
+          40.9375965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8296498268,
+        "hasDetails": true,
+        "name": "Domino's",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "address": "Segovia",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1108058,
+          40.9379307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1142606,
+          40.938665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10159253285,
+        "hasDetails": true,
+        "amenity": "fast_food",
+        "cuisine": "kebab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1132862,
+          40.9388534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9628847583,
+        "hasDetails": true,
+        "name": "La Esquina",
+        "amenity": "bar",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1148151,
+          40.9390397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488491595,
+        "hasDetails": true,
+        "name": "La Diligencia 35",
+        "amenity": "pub",
+        "address": "Paseo del Conde de Sep\u00falveda 35, Segovia",
+        "website": "http://ladiligencia35.com",
+        "opening_hours": "Tu-Fr 07:30-00:30; Sa-Su 08:30-01:15",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1153914,
+          40.9392568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10893357414,
+        "hasDetails": true,
+        "name": "Los Quintos",
+        "amenity": "bar",
+        "address": "Paseo del Conde de Sep\u00falveda",
+        "opening_hours": "Mo-Th 08:30-01:30; Fr 08:30-02:30; Sa,Su 10:30-01:30",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1160262,
+          40.9395164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10765693171,
+        "hasDetails": true,
+        "name": "Mes\u00f3n El Pleno",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Avenida de la Constituci\u00f3n 12, Segovia",
+        "opening_hours": "Tu-Sa 08:30-24:00; Su 12:00-24:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1135431,
+          40.9411611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488491599,
+        "hasDetails": true,
+        "name": "El Parque",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "address": "Calle Jos\u00e9 Zorrilla 42, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.116045,
+          40.9411958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488493305,
+        "hasDetails": true,
+        "name": "Kebab & Snack",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "address": "Calle Jos\u00e9 Zorrilla 59, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1154269,
+          40.9413343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10765693170,
+        "hasDetails": true,
+        "name": "Las Nuevas Jarritas",
+        "amenity": "bar",
+        "address": "Calle del General Santiago 2, Segovia",
+        "opening_hours": "Mo 08:30-00:30; We-Fr 08:30-00:30; Su 09:30-00:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1132736,
+          40.9415104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10765693169,
+        "hasDetails": true,
+        "name": "Povi Churrer\u00eda Desayunos",
+        "amenity": "bar",
+        "cuisine": "churro",
+        "address": "Calle Cantarranas 4, Segovia",
+        "opening_hours": "Mo-Su 06:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1141735,
+          40.9417403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488491593,
+        "hasDetails": true,
+        "name": "La Cathedra",
+        "amenity": "pub",
+        "address": "Paseo del Conde de Sep\u00falveda 1, Segovia",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1173853,
+          40.9418061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10633835616,
+        "hasDetails": true,
+        "name": "M\u00e1sKbrasas",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "address": "Calle Ortiz de Paz 8",
+        "website": "https://www.maskbrasas.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1147597,
+          40.9419385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5368504422,
+        "hasDetails": true,
+        "name": "Dani's",
+        "amenity": "cafe",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1143485,
+          40.9420176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12488493302,
+        "hasDetails": true,
+        "name": "Ludos",
+        "amenity": "bar",
+        "address": "Calle Jos\u00e9 Zorrilla 26, Segovia",
+        "opening_hours": "Mo-Fr 09:00-01:00; Sa-Su 12:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.115863,
+          40.9421884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1145394,
+          40.9427954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6003542996,
+        "hasDetails": true,
+        "name": "Cervecer\u00eda Santa Eulalia",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Calle de la Plata 1, Segovia",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1156091,
+          40.9436126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11061690692,
+        "hasDetails": true,
+        "name": "Rosa Mexicano Taqueria",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "website": "https://rosamexicanotaqueria.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1194252,
+          40.9439934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8988349118,
+        "hasDetails": true,
+        "name": "El Tiempo",
+        "amenity": "restaurant",
+        "cuisine": "italian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1186365,
+          40.9441439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1191197,
+          40.9444151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1063349922,
+        "hasDetails": true,
+        "name": "La Pinser\u00eda de San Roque",
+        "amenity": "bar",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1209089,
+          40.944501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10816058142,
+        "hasDetails": true,
+        "name": "Cafe del Mercado",
+        "amenity": "cafe",
+        "address": "Paseo de Ezequiel Gonz\u00e1lez 20, Segovia",
+        "opening_hours": "Mo-Th 07:00-20:30; Fr 07:00-21:30; Sa,Su 07:30-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.121817,
+          40.9448678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.120936,
+          40.9449911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1208133,
+          40.9450774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10387,
+          40.9452595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4375304289,
+        "hasDetails": true,
+        "name": "Siboney",
+        "amenity": "restaurant",
+        "address": "Paseo de Ezequiel Gonz\u00e1lez 23, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1220222,
+          40.9454688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1195879,
+          40.9456036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12473317201,
+        "hasDetails": true,
+        "name": "Tradicionarius",
+        "amenity": "cafe",
+        "address": "Avenida del Acueducto 29",
+        "opening_hours": "Mo-Fr 07:30-22:00; Sa-Su 08:30-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.119751,
+          40.9457328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2500539055,
+        "hasDetails": true,
+        "name": "Bar Dakota",
+        "amenity": "fast_food",
+        "cuisine": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1199968,
+          40.9458512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1191417,
+          40.9458568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1196045,
+          40.9459416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1198961,
+          40.9460136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11951,
+          40.9460928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9951533817,
+        "hasDetails": true,
+        "name": "Marrakech",
+        "amenity": "fast_food",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1236358,
+          40.9461665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1197618,
+          40.946208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6004395685,
+        "hasDetails": true,
+        "name": "Haggen",
+        "amenity": "restaurant",
+        "address": "Avenida del Acueducto 25, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1194275,
+          40.9462587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6008612287,
+        "hasDetails": true,
+        "name": "Ayala Berganza",
+        "amenity": "restaurant",
+        "cuisine": "local",
+        "address": "Calle Hermanos Barral 2, Segovia",
+        "website": "http://comercochinilloensegovia.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1206445,
+          40.9464156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11233169519,
+        "hasDetails": true,
+        "name": "Bar California",
+        "amenity": "bar",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1215713,
+          40.9464906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11133359816,
+        "hasDetails": true,
+        "name": "Los Claveles",
+        "amenity": "pub",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1232686,
+          40.9465087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1194709,
+          40.9466339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1145396,
+          40.9467339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2500539062,
+        "hasDetails": true,
+        "name": "Caf\u00e9 La Colonial",
+        "amenity": "cafe",
+        "address": "Avenida del Acueducto",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.119099,
+          40.9467739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5287173921,
+        "hasDetails": true,
+        "name": "California Restaurante",
+        "amenity": "restaurant",
+        "cuisine": "local",
+        "address": "Plaza del Doctor Gila 9, Segovia",
+        "opening_hours": "Mo-Tu,Th-Su 13:00-16:00; We off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1216032,
+          40.9468017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13275866530,
+        "hasDetails": true,
+        "name": "Bar Ibiza",
+        "amenity": "bar",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1214431,
+          40.9468469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2883874301,
+        "hasDetails": true,
+        "name": "Mes\u00f3n Don Sancho",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Calle Doctor Sancho, Segovia",
+        "website": "https://restaurante-meson-don-sancho.negocio.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1183593,
+          40.9468843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2500539060,
+        "hasDetails": true,
+        "name": "El Secreto de San Clemente",
+        "amenity": "restaurant",
+        "website": "https://elsecretodesanclemente.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.119282,
+          40.9469278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 827650877,
+        "hasDetails": true,
+        "name": "Sushhicatessen",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "website": "https://www.sushicatessen.es/segovia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1119831,
+          40.9470207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.119961,
+          40.9470518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 827650876,
+        "hasDetails": true,
+        "name": "The Burger World",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "website": "https://theburgerworld.es",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1120783,
+          40.9470789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13276816752,
+        "hasDetails": true,
+        "amenity": "fast_food",
+        "cuisine": "burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1209696,
+          40.9471045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6008611987,
+        "hasDetails": true,
+        "name": "Mu\u00f1oz",
+        "amenity": "restaurant",
+        "address": "Calle Ochoa Ondategui 21, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1154004,
+          40.9471637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4460205606,
+        "hasDetails": true,
+        "name": "El Cordero",
+        "amenity": "restaurant",
+        "address": "Calle del Carmen 6, Segovia",
+        "website": "https://www.rte-elcordero.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1196926,
+          40.947222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1187408,
+          40.9472383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1176325,
+          40.9473884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 616170082,
+        "hasDetails": true,
+        "name": "Telepizza",
+        "amenity": "fast_food",
+        "cuisine": "pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1170196,
+          40.9473992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1184899,
+          40.9474414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11874977281,
+        "hasDetails": true,
+        "name": "Da Mario",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "address": "Calle de Teodosio el Grande 6, Segovia",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1177258,
+          40.9474986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1204637,
+          40.9476065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5590458621,
+        "hasDetails": true,
+        "name": "La Bien Tirada de Segovia",
+        "amenity": "restaurant",
+        "opening_hours": "Mo-Su 09:30-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1170656,
+          40.9476309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5368499622,
+        "hasDetails": true,
+        "name": "Farggi",
+        "amenity": "cafe",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1180408,
+          40.9476443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2494891210,
+        "hasDetails": true,
+        "name": "Las Cuevas de Duque",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Calle de Santa Engracia 6, Segovia",
+        "website": "https://restauranteduque.es/tapas-segovia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1197276,
+          40.9476581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2494174466,
+        "hasDetails": true,
+        "name": "Mes\u00f3n de C\u00e1ndido",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "website": "https://mesondecandido.es/",
+        "opening_hours": "Mo-Su 13:00-16:30, 20:00-23:00",
+        "wikidata": "Q14635236",
+        "wikipedia": "es:Mes\u00f3n de C\u00e1ndido",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1178861,
+          40.9476582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5367904821,
+        "hasDetails": true,
+        "name": "Orly",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Calle Bajada del Carmen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1190268,
+          40.9476649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2500539064,
+        "hasDetails": true,
+        "name": "El Cochifrito",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "address": "Avenida del Acueducto 4, Segovia",
+        "website": "https://elcochifrito.com/",
+        "opening_hours": "Mo-Th 08:30-24:00; Fr 08:30-01:00; Sa 10:00-01:00; Su 10:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1186514,
+          40.947689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5590458222,
+        "hasDetails": true,
+        "name": "Casares",
+        "amenity": "restaurant",
+        "cuisine": "local",
+        "address": "Avenida Padre Claret 2, Segovia",
+        "opening_hours": "Mo-Su 10:00-01:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.116916,
+          40.9476997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2494891212,
+        "hasDetails": true,
+        "name": "El Bernardino",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Calle de Cervantes 2, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1202531,
+          40.9477287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5365912621,
+        "hasDetails": true,
+        "name": "McDonald's",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1167416,
+          40.947774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4943608621,
+        "hasDetails": true,
+        "name": "Restaurante Casa Duque",
+        "amenity": "restaurant",
+        "website": "https://restauranteduque.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1198758,
+          40.9477918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5590393624,
+        "hasDetails": true,
+        "name": "Castilla tapas y ca\u00f1as",
+        "amenity": "bar",
+        "opening_hours": "Mo-Th 08:00-23:30; Su 09:30-00:30; Fr 08:00-13:00; Sa 09:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1206196,
+          40.9478085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5590413823,
+        "hasDetails": true,
+        "name": "Vips",
+        "amenity": "restaurant",
+        "cuisine": "international"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1196152,
+          40.9478278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1190806,
+          40.9479201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5365912821,
+        "hasDetails": true,
+        "name": "Burger King",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "opening_hours": "Mo-Th 12:30-23:30; Fr-Su 12:30-01:30",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1166963,
+          40.9479382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1185938,
+          40.9480891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2494891211,
+        "hasDetails": true,
+        "name": "Casa El Abuelo",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "opening_hours": "Mo-Su 10:30-16:30; Mo-Sa 20:30-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.121301,
+          40.9481864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1421998187,
+        "hasDetails": true,
+        "name": "Terraza-mirador Hotel ELE Acueducto",
+        "amenity": "biergarten",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1153358,
+          40.9482086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3783412741,
+        "hasDetails": true,
+        "name": "El Redebal",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Calle Alh\u00f3ndiga 6, Segovia",
+        "opening_hours": "We,Th,Su 13:00-16:30; Fr,Sa 20:00-23:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.121953,
+          40.9482662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5590458321,
+        "hasDetails": true,
+        "name": "Super Doner Kebab Acueducto",
+        "amenity": "fast_food",
+        "cuisine": "kebab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.117871,
+          40.9483279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5586689921,
+        "hasDetails": true,
+        "name": "La bodega del Barbero",
+        "amenity": "restaurant",
+        "opening_hours": "Su 12:00-18:00; Mo,Fr,Sa 12:00-17:00; Th 12:00-18:00; Fr,Sa 19:30-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1216628,
+          40.9484021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4934702148,
+        "hasDetails": true,
+        "name": "Asador Maribel",
+        "amenity": "restaurant",
+        "cuisine": "steak_house;regional",
+        "address": "Avenida Padre Claret 16, Segovia",
+        "website": "https://www.restaurantemaribel.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1145045,
+          40.9484456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2675594000,
+        "hasDetails": true,
+        "name": "Foster's Hollywood",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "opening_hours": "Mo-Su 13:00-16:30,20:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1218975,
+          40.9485457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1218347,
+          40.9486321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5586689523,
+        "hasDetails": true,
+        "name": "Narizotas",
+        "amenity": "restaurant",
+        "opening_hours": "Su 13:30-17:00; Th-Sa 13:30-24:00",
+        "names": [
+          "Narizotas",
+          "El Ojo Bar-Restaurante"
+        ],
+        "amenities": [
+          "restaurant",
+          "cafe"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1214562,
+          40.9486476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1231749,
+          40.9488594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9176883199,
+        "hasDetails": true,
+        "name": "La Casona de San Mart\u00edn",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Plaza de San Mart\u00edn 3",
+        "opening_hours": "Mo-Fr 09:30-00:30; Sa,Su 10:30-00:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1212982,
+          40.948965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11871998191,
+        "hasDetails": true,
+        "name": "nache\u2018s",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "address": "Calle de Juan Bravo 8, Segovia",
+        "website": "https://www.naches.es",
+        "opening_hours": "Tu-Su 13:30-16:00, 20:00-23:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.122842,
+          40.9490924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3730772176,
+        "hasDetails": true,
+        "name": "Restaurante-Asador El Hidalgo",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "opening_hours": "We-Mo 13:30-16:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.122011,
+          40.9492623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1205734,
+          40.9492972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1248446,
+          40.9495047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10934095467,
+        "hasDetails": true,
+        "name": "Caf\u00e9 La Colonial",
+        "amenity": "cafe",
+        "address": "Plaza del Corpus",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.123772,
+          40.94952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4375304290,
+        "hasDetails": true,
+        "name": "La Taberna del Fog\u00f3n",
+        "amenity": "bar",
+        "address": "Calle de la Juder\u00eda Vieja 11, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1245202,
+          40.9495469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 853326579,
+        "hasDetails": true,
+        "name": "El Fog\u00f3n Sefard\u00ed",
+        "amenity": "restaurant",
+        "address": "Calle de la Juder\u00eda Vieja 17-19, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.124293,
+          40.9495568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1227084,
+          40.9495569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5586794435,
+        "hasDetails": true,
+        "name": "Los Tarines",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "address": "Calle de la Infanta Isabel 14, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1228785,
+          40.9496293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5586824922,
+        "hasDetails": true,
+        "name": "aloha",
+        "amenity": "bar",
+        "opening_hours": "We-Sa 21:00-02:00",
+        "names": [
+          "aloha",
+          "King Donner Kebab"
+        ],
+        "amenities": [
+          "bar",
+          "fast_food"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1230857,
+          40.9497091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1228038,
+          40.9497243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1229445,
+          40.9497677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4527208490,
+        "hasDetails": true,
+        "name": "jota",
+        "amenity": "bar",
+        "address": "Calle de la Infanta Isabel 9, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1230936,
+          40.9498306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1233914,
+          40.9498435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5589359321,
+        "hasDetails": true,
+        "name": "RBC",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "names": [
+          "RBC",
+          "L\u00e1zaro"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1232716,
+          40.9498947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5589517421,
+        "hasDetails": true,
+        "name": "El Fig\u00f3n de los Comuneros",
+        "amenity": "restaurant",
+        "address": "Traves\u00eda del Pat\u00edn 4, Segovia",
+        "website": "https://figondeloscomuneros.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1229566,
+          40.949922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1243772,
+          40.9499859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6105314085,
+        "hasDetails": true,
+        "name": "Alma Nostra",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "address": "Calle los Zuloagas 1, Segovia",
+        "opening_hours": "Mo-Sa 09:00-02:00; Su 09:00-01:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1182548,
+          40.9499874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4498830793,
+        "hasDetails": true,
+        "name": "La Panera",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Calle de la Herrer\u00eda 11, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1225136,
+          40.9500261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5588483521,
+        "hasDetails": true,
+        "name": "King Kebap",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "opening_hours": "PH,Mo-Su 12:00-24:00",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1127428,
+          40.9500435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.118787,
+          40.9500705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5586320027,
+        "hasDetails": true,
+        "name": "Mandala",
+        "amenity": "bar",
+        "address": "Calle Col\u00f3n 7, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1215929,
+          40.9501352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6003611585,
+        "hasDetails": true,
+        "name": "Bar Socorro",
+        "amenity": "bar",
+        "cuisine": "tapas",
+        "address": "Calle Socorro 10, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1272341,
+          40.9502069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.122309,
+          40.9503501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1234965,
+          40.9503996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4061820598,
+        "hasDetails": true,
+        "name": "La Concepci\u00f3n",
+        "amenity": "restaurant",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1243934,
+          40.9504231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1215211,
+          40.9504605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5590210422,
+        "hasDetails": true,
+        "name": "Hola Boba",
+        "amenity": "cafe",
+        "cuisine": "boba;asian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1230723,
+          40.9504696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5586118122,
+        "hasDetails": true,
+        "name": "Vogue",
+        "amenity": "cafe",
+        "address": "6, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1221734,
+          40.9504906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1200771,
+          40.9504965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4582867489,
+        "hasDetails": true,
+        "name": "Jos\u00e9 Mar\u00eda",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Calle Cronista Lecea 11, Segovia",
+        "website": "https://www.restaurantejosemaria.com/",
+        "opening_hours": "Mo-Th, Su 09:45-00:30; Fr, Sa 09:45-01:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1227292,
+          40.9505005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 607973139,
+        "hasDetails": true,
+        "name": "Juan Bravo",
+        "amenity": "restaurant",
+        "cuisine": "spanish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1236038,
+          40.9505195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 454649577,
+        "hasDetails": true,
+        "name": "La Taberna Rubi",
+        "amenity": "pub",
+        "address": "Calle Escuderos 4, Segovia",
+        "wikidata": "Q5965285",
+        "wikipedia": "es:La Taberna Rubi",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1244824,
+          40.9505296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12837398959,
+        "hasDetails": true,
+        "name": "Bahia Bar",
+        "amenity": "restaurant",
+        "cuisine": "regional;spanish",
+        "names": [
+          "Bahia Bar",
+          "El Cochifrito"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1240905,
+          40.9505498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 607973138,
+        "hasDetails": true,
+        "name": "Restaurante Jose",
+        "amenity": "restaurant",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1239707,
+          40.9505963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1220068,
+          40.9506485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1237132,
+          40.9506751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2883863203,
+        "hasDetails": true,
+        "name": "Alejandro",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "names": [
+          "Alejandro",
+          "Da Mario"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.12338,
+          40.95076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5587059321,
+        "hasDetails": true,
+        "name": "Burritos by Rosa Mexicano",
+        "amenity": "restaurant",
+        "cuisine": "mexican"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1235202,
+          40.9508168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1262336,
+          40.9508295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5586041621,
+        "hasDetails": true,
+        "name": "Mes\u00f3n de Patricia",
+        "amenity": "restaurant",
+        "address": "Calle de San Agust\u00edn 4, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1207415,
+          40.9509044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1235867,
+          40.9509143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4754154230,
+        "hasDetails": true,
+        "name": "La Tasquina",
+        "amenity": "bar",
+        "address": "Calle de Valdel\u00e1guila 3, Segovia",
+        "opening_hours": "Mo-Su 09:30-01:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1234688,
+          40.9509341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5983103385,
+        "hasDetails": true,
+        "name": "La Almuzara",
+        "amenity": "restaurant",
+        "address": "Calle Marques de Arco 3, Segovia",
+        "opening_hours": "Su, Tu-Th 12:00-23:00; Fr-Sa 12:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1261765,
+          40.9509534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1238906,
+          40.9510316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9287232017,
+        "hasDetails": true,
+        "name": "Ocho Bar",
+        "amenity": "pub",
+        "website": "https://www.octavo-arte.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1232274,
+          40.9510729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 853371635,
+        "hasDetails": true,
+        "name": "La Cueva de San Esteban",
+        "amenity": "restaurant",
+        "address": "Calle de Valdel\u00e1guila 15, Segovia",
+        "website": "http://www.lacuevadesanesteban.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.124487,
+          40.95121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7305956830,
+        "hasDetails": true,
+        "name": "Cafeter\u00eda Casa de la Qu\u00edmica",
+        "amenity": "cafe",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1317411,
+          40.9518424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9179726016,
+        "hasDetails": true,
+        "name": "Don Jimeno",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "address": "Calle de Dao\u00edz 15, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1289265,
+          40.9521018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6417862585,
+        "hasDetails": true,
+        "name": "In Lorencho",
+        "amenity": "bar",
+        "address": "Plaza San Lorenzo 8, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1134961,
+          40.9527592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1135998,
+          40.952946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11716323474,
+        "hasDetails": true,
+        "name": "Starbucks",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1189228,
+          40.9529647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 187034126,
+        "hasDetails": true,
+        "name": "Comedor de al IE",
+        "amenity": "restaurant",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1180142,
+          40.953018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3554019522,
+        "hasDetails": true,
+        "name": "Celia",
+        "amenity": "pub",
+        "address": "Avenida V\u00eda Roma 33, Segovia",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.109337,
+          40.9540154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9643500264,
+        "hasDetails": true,
+        "name": "El Rinc\u00f3n de Eliza",
+        "amenity": "bar",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1081068,
+          40.9543558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1330376,
+          40.9543901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1082532,
+          40.9546013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10765598231,
+        "hasDetails": true,
+        "name": "Kebab & pizza curry house",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "address": "Avenida V\u00eda Roma 50, Segovia",
+        "outdoor_seating": "no",
+        "names": [
+          "Kebab & pizza curry house",
+          "Las Delicias"
+        ],
+        "amenities": [
+          "fast_food",
+          "bar"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1086557,
+          40.9546998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1111394,
+          40.9547082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3554019516,
+        "hasDetails": true,
+        "name": "Taberna L\u00f3pez",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "address": "Calle San Crist\u00f3bal 3, Segovia",
+        "website": "http://tabernalopez.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1126522,
+          40.9547203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1279459,
+          40.9547594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1101416,
+          40.9567014
+        ]
+      }
+    }
+  ]
+}

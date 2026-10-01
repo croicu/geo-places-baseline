@@ -1,0 +1,4548 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9613928,
+          43.23098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9406253,
+          43.2326016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.936682,
+          43.23484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8892905,
+          43.2352536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8795367,
+          43.2354644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8807183,
+          43.2369192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.938105,
+          43.2376899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9388783,
+          43.2389698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9390719,
+          43.2415596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9490684,
+          43.2469526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.961042,
+          43.2491827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2727759,
+        "hasDetails": true,
+        "name": "Elizbarrutiko Arte Sakratuko Museoa",
+        "wikidata": "Q24566183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.920704,
+          43.2533441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9414014,
+          43.2543777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9372361,
+          43.2557512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 404432093,
+        "hasDetails": true,
+        "name": "Museo de reproducciones art\u00edsticas",
+        "address": "San Frantzisko kalea 14, Bilbao",
+        "website": "https://www.museoreproduccionesbilbao.org",
+        "opening_hours": "Mo off; Tu-Sa 10:00-13:30,16:00-19:00; Su 10:00-14:00",
+        "wikidata": "Q13221631",
+        "wikipedia": "es:Museo de Reproducciones de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9282214,
+          43.2560137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13510111101,
+        "hasDetails": true,
+        "name": "Palacio de Arana",
+        "address": "Calle Belosticalle / Belostikale 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9246675,
+          43.2560936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9574346,
+          43.2564236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4710001846,
+        "hasDetails": true,
+        "name": "Carr\u00e9 d'Artistes",
+        "address": "Dendarikale kalea 28, Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9234814,
+          43.256812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9318644,
+          43.2568378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9254166,
+          43.2569511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.941856,
+          43.2569962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9604163,
+          43.2571562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7560683,
+        "hasDetails": true,
+        "name": "Done Jakue katedrala",
+        "amenity": "place_of_worship",
+        "address": "Bilbao",
+        "wikidata": "Q2350964",
+        "wikipedia": "es:Catedral de Santiago de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9237046,
+          43.2572072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9213004,
+          43.25724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13506545201,
+        "hasDetails": true,
+        "name": "Puerta del \u00c1ngel",
+        "address": "Calle Correo / Posta kalea",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9236018,
+          43.2573426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9208113,
+          43.2575947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9253368,
+          43.2576877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9216196,
+          43.2578308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9413363,
+          43.2578698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13510128901,
+        "hasDetails": true,
+        "name": "Casa Mazarredo",
+        "address": "Calle Bidebarrieta / Bidebarrieta kalea 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9244744,
+          43.2579433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 41525575,
+        "hasDetails": true,
+        "name": "Euskal Museoa",
+        "address": "Miguel de Unamuno plaza 4, Bilbao",
+        "website": "https://www.euskalmuseoa.eus/",
+        "wikidata": "Q3303976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9219105,
+          43.2579963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9735996,
+          43.2581801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 498483153,
+        "hasDetails": true,
+        "name": "Pasio-Irudien Museoa",
+        "address": "Iturribide kalea 3, Bilbao",
+        "website": "https://museodepasosbilbao.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9204165,
+          43.2581854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9130782,
+          43.2582718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13510115901,
+        "hasDetails": true,
+        "name": "Palacio Allende Salazar",
+        "address": "Calle Correo / Posta kalea 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.923662,
+          43.2583638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9071244,
+          43.2586152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9734438,
+          43.2586501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 173853329,
+        "hasDetails": true,
+        "name": "Bizkaiko Arkeologia Museoa",
+        "address": "Maiona bildarriak 2, Bilbao",
+        "website": "http://bizkaikoa.bizkaia.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9212812,
+          43.2587492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13510111201,
+        "hasDetails": true,
+        "name": "Palacio Gort\u00e1zar",
+        "address": "Calle Correo / Posta kalea 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9237536,
+          43.259008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9186765,
+          43.2594016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9007765,
+          43.2595765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13512015301,
+        "hasDetails": true,
+        "name": "Chalet Allende",
+        "address": "Calle Sim\u00f3n Bol\u00edvar / Simon Bolivar kalea 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9405173,
+          43.2596141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9334557,
+          43.2597909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9238668,
+          43.2601699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9262209,
+          43.2601873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9240017,
+          43.2603969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9275717,
+          43.260625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9231681,
+          43.2608099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9234916,
+          43.2609234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9384907,
+          43.2614651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9214241,
+          43.2617244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.932541,
+          43.2617759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9371141,
+          43.2619813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13511958501,
+        "hasDetails": true,
+        "name": "Edificio BBVA",
+        "address": "Gran V\u00eda Don Diego L\u00f3pez de Haro / On Diego Lopez Haroko kale nagusia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9297549,
+          43.2621224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14099216469,
+        "hasDetails": true,
+        "name": "Museo de Illusiones",
+        "address": "Buenos Aires kalea 5",
+        "website": "https://ilusiones-bilbao-48926.grwebsite.eu/",
+        "opening_hours": "Mo-Th 10:30-20:00; Fr-Su,PH 10:30-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.925435,
+          43.262192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9323363,
+          43.2622862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13511850602,
+        "hasDetails": true,
+        "name": "Edificio de Aviaci\u00f3n y Comercio",
+        "address": "Plaza Venezuela / Venezuela plaza 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9246109,
+          43.2625811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9356376,
+          43.26273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9280285,
+          43.2628667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9382494,
+          43.262988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9287351,
+          43.2630281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13511923301,
+        "hasDetails": true,
+        "name": "Casa Ram\u00f3n de la Sota",
+        "address": "Gran v\u00eda Don Diego L\u00f3pez de Haro / On Diego Lopez Haroko kale nagusia 45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9375174,
+          43.2633127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9244084,
+          43.2634084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13511938801,
+        "hasDetails": true,
+        "name": "Palacio Txabarri Jauregia",
+        "address": "Plaza de Federico Moy\u00faa / Federico Moyua plaza 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9358679,
+          43.2634224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9472288,
+          43.2634658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9285498,
+          43.2634813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1849848962,
+        "hasDetails": true,
+        "name": "Variante ovoide de la desocupaci\u00f3n de la esfera",
+        "wikidata": "Q27177486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9236727,
+          43.2636274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7190109505,
+        "hasDetails": true,
+        "name": "Barakaldoko Historia eta Ingurumen Interpretaziorako Zentroa",
+        "wikidata": "Q12254764",
+        "names": [
+          "Barakaldoko Historia eta Ingurumen Interpretaziorako Zentroa",
+          "Centro de Interpretaci\u00f3n Hist\u00f3rica y Medioambiental de Barakaldo (CIHMA)"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0152818,
+          43.2637973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9329023,
+          43.2639496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5308301923,
+        "hasDetails": true,
+        "name": "Athletic Club Museoa",
+        "address": "Telmo Zarra kalea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9481789,
+          43.2640855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.935727,
+          43.2641968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9360591,
+          43.2642836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11282359418,
+        "hasDetails": true,
+        "name": "1 Calcita",
+        "website": "https://www.bilbao.eus/BeneathBilbao/K1.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9358615,
+          43.2644132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9339976,
+          43.2644957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1271964866,
+        "hasDetails": true,
+        "name": "Rekalde aretoa",
+        "website": "http://www.salarekalde.bizkaia.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9345677,
+          43.2645212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9359869,
+          43.2645282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1803730613,
+        "hasDetails": true,
+        "name": "Hermanos Tonetti",
+        "wikidata": "Q118495970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9385194,
+          43.2647063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9537472,
+          43.2647153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11282359417,
+        "hasDetails": true,
+        "name": "2 Limonita",
+        "website": "https://www.bilbao.eus/BeneathBilbao/K2.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9357772,
+          43.2648921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9428864,
+          43.265026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9384105,
+          43.2651811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1837416842,
+        "hasDetails": true,
+        "name": "Topalekua IV",
+        "wikidata": "Q124247778"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9381407,
+          43.2651991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11282359416,
+        "hasDetails": true,
+        "name": "3 Goethita",
+        "website": "https://www.bilbao.eus/BeneathBilbao/K3.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9355507,
+          43.26525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9087179,
+          43.2652604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 28211432,
+        "hasDetails": true,
+        "name": "Bilboko Arte Eder museoa",
+        "address": "Museo plaza 2, Bilbao",
+        "website": "https://www.museobilbao.com/",
+        "opening_hours": "Tu-Su 10:00-20:00; Mo off; Jan 01,Jan 06,Dec 25: off; Dec 24,Dec 31: 10:00-14:00",
+        "wikidata": "Q127064",
+        "wikipedia": "es:Museo de Bellas Artes de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9380144,
+          43.2654739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11282359415,
+        "hasDetails": true,
+        "name": "4 Siderita",
+        "website": "https://www.bilbao.eus/BeneathBilbao/K4.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9354217,
+          43.2655766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1837416843,
+        "hasDetails": true,
+        "name": "Homenaje a Juan Crisostomo Arriaga",
+        "wikidata": "Q6022956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9378844,
+          43.2655968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9374016,
+          43.2656075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9353619,
+          43.2657486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9262828,
+          43.2657961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9302663,
+          43.2658143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1524809639,
+        "hasDetails": true,
+        "name": "FANAL. Jardin de delicias",
+        "wikidata": "Q20888882",
+        "wikipedia": "eu:Farolen basoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.937321,
+          43.2658301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11282359414,
+        "hasDetails": true,
+        "name": "5 Basalto",
+        "website": "https://www.bilbao.eus/BeneathBilbao/K5.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9352551,
+          43.2659749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1102383328,
+        "hasDetails": true,
+        "name": "Zubizuri",
+        "wikidata": "Q227583"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9285402,
+          43.2660966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9380228,
+          43.2661112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93866,
+          43.2661159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9397734,
+          43.266271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 174297152,
+        "hasDetails": true,
+        "name": "Zubizuri",
+        "wikidata": "Q227583"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.927835,
+          43.2663686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 518227646,
+        "hasDetails": true,
+        "name": "Itsasmuseum Bilbao",
+        "address": "Muelle Ram\u00f3n de la Sota y Llano 1",
+        "website": "https://itsasmuseum.eus/",
+        "opening_hours": "Mo off; Tu-Su 11:00-19:00",
+        "wikidata": "Q3042272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9462025,
+          43.2664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11282359413,
+        "hasDetails": true,
+        "name": "6 Arenisca",
+        "website": "https://www.bilbao.eus/BeneathBilbao/K6.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9350575,
+          43.2664477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9438245,
+          43.2665749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1102383329,
+        "hasDetails": true,
+        "name": "Zubizuri",
+        "wikidata": "Q227583"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9274879,
+          43.2665947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9272987,
+          43.2666321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9409262,
+          43.266831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9471514,
+          43.2668372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9416084,
+          43.266986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9350558,
+          43.2669999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11282359412,
+        "hasDetails": true,
+        "name": "7 Piedra caliza",
+        "website": "https://www.bilbao.eus/BeneathBilbao/K7.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9348624,
+          43.267084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9456827,
+          43.2671368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9364284,
+          43.2673884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9439725,
+          43.2673885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9297699,
+          43.2675116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 408647731,
+        "hasDetails": true,
+        "name": "Puppy",
+        "website": "https://www.guggenheim-bilbao.es/en/works/puppy-3/",
+        "wikidata": "Q2059547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9345203,
+          43.2676813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9440513,
+          43.2677015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9424956,
+          43.2679106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9364155,
+          43.2679203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9113017,
+          43.2680166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8897331,
+          43.2681185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9294109,
+          43.2682134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9461912,
+          43.2683637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 118499485,
+        "hasDetails": true,
+        "name": "Bilboko Guggenheim museoa",
+        "address": "Lehendakari Leizaola kalea 2, Bilbao",
+        "website": "https://www.guggenheim-bilbao.es/",
+        "opening_hours": "Tu-Su 10:00-19:30; Mo off; Dec 24,Dec 31: 10:00-17:00; Dec 25,Jan 01: off",
+        "wikidata": "Q179199",
+        "wikipedia": "es:Museo Guggenheim Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9335277,
+          43.268444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9316094,
+          43.268531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9422841,
+          43.2685437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9453865,
+          43.2689874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9370832,
+          43.2690463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11648908009,
+        "hasDetails": true,
+        "name": "Fire Fountain",
+        "website": "https://www.guggenheim-bilbao.eus/yves-klein-fuente-de-fuego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9334465,
+          43.2690846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4118860388,
+        "hasDetails": true,
+        "name": "Tulips",
+        "website": "https://www.guggenheim-bilbao.eus/la-coleccion/obras/tulipanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9338924,
+          43.2691087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13511872002,
+        "hasDetails": true,
+        "name": "Palacio Olabarri",
+        "address": "Paseo Campo Volant\u00edn / Campo Volantin pasealekua 37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9297337,
+          43.2691194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9329462,
+          43.2691527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9089559,
+          43.2691597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4118860989,
+        "hasDetails": true,
+        "name": "Tall Tree & the Eye",
+        "website": "https://www.guggenheim-bilbao.eus/la-coleccion/obras/el-gran-arbol-y-el-ojo",
+        "wikidata": "Q108616485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9345372,
+          43.2691802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9388951,
+          43.2692087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9379482,
+          43.2692633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.936465,
+          43.2692654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9302806,
+          43.2693285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.910454,
+          43.2694915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9317506,
+          43.2695775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9213074,
+          43.2696756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9368379,
+          43.2697875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9314346,
+          43.2697938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9416122,
+          43.2713374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9234981,
+          43.2715039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9220726,
+          43.2718076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9372453,
+          43.2723414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.929947,
+          43.2727015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98771,
+          43.2737055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3791426293,
+        "hasDetails": true,
+        "name": "La huella",
+        "wikidata": "Q65946497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9218825,
+          43.2741912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9220277,
+          43.2742029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.963513,
+          43.2765104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9477364,
+          43.2772642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.935242,
+          43.277742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11641427626,
+        "hasDetails": true,
+        "name": "Euskararen Etxea",
+        "address": "1, Bilbao",
+        "wikidata": "Q12257625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9604649,
+          43.2783396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9156469,
+          43.280572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 589896685,
+        "hasDetails": true,
+        "name": "Grandes Molinos Vascos",
+        "wikidata": "Q8772058",
+        "wikipedia": "es:Edificio de Molinos Vascos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9703231,
+          43.2806002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9556171,
+          43.2815475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9837638,
+          43.2817173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.954694,
+          43.283314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 107522692,
+        "hasDetails": true,
+        "name": "Iglesia del Sagrado Coraz\u00f3n de Jes\u00fas",
+        "amenity": "place_of_worship",
+        "address": "Calle Retuerto 10, Barakaldo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9947615,
+          43.2833914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9586965,
+          43.2851825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9635872,
+          43.2858343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14110378944,
+        "hasDetails": true,
+        "name": "Museo Mercedes-Benz Aguinaga",
+        "address": "Calle Jos\u00e9 Vara 7, Barakaldo",
+        "website": "https://museoaguinaga.com/",
+        "opening_hours": "Sa 10:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0009798,
+          43.2863286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9631027,
+          43.2863428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9868128,
+          43.2869013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9652969,
+          43.2871557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9870373,
+          43.2872611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9867296,
+          43.2877008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9964945,
+          43.2882367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9789513,
+          43.288838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9950913,
+          43.2899202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9901322,
+          43.2911804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.989694,
+          43.2913879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9704281,
+          43.2914957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9904181,
+          43.2918514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9919996,
+          43.2922097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.992034,
+          43.2924998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0002959,
+          43.2926431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9937837,
+          43.2930949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 551078041,
+        "hasDetails": true,
+        "name": "Fundaci\u00f3n de Trabajadores de la Siderurgia Integral",
+        "address": "Economia kalea 36, Barakaldo",
+        "website": "http://www.ftsi.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9938767,
+          43.2931684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9991389,
+          43.2933779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9842717,
+          43.2936162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9923066,
+          43.2938824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9920291,
+          43.2939154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9962915,
+          43.2940936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9951217,
+          43.2942316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9886554,
+          43.2949899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9894874,
+          43.2958964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.989778,
+          43.2965286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9760462,
+          43.296599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9885836,
+          43.2968871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9867481,
+          43.2968905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9857384,
+          43.2974118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.984614,
+          43.2978584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9775082,
+          43.2986363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9801304,
+          43.3001567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9887628,
+          43.3013645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13775802537,
+        "hasDetails": true,
+        "name": "Ni\u00f1os bes\u00e1ndose",
+        "website": "https://lasesculturasenerandioleioa.wordpress.com/2025/07/19/ninos-besandose/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9756186,
+          43.302676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9719933,
+          43.3032034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13775802536,
+        "hasDetails": true,
+        "name": "Laureano Jado",
+        "website": "https://lasesculturasenerandioleioa.wordpress.com/2025/07/18/laureano-jado/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9757886,
+          43.3036891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9717612,
+          43.3039955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9759292,
+          43.3041748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9775906,
+          43.3043422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9774082,
+          43.3043705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0378864,
+          43.3045657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9773772,
+          43.304571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9808971,
+          43.3052972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0011591,
+          43.3064374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9924013,
+          43.3073792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9928333,
+          43.307467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9926518,
+          43.3075582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.973605,
+          43.3083768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0027109,
+          43.3084332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0081434,
+          43.3096304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0082044,
+          43.3097719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0068975,
+          43.3098511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0107051,
+          43.3104318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 27506834,
+        "hasDetails": true,
+        "name": "Horno Alto N.\u00ba1 de Altos Hornos de Vizcaya",
+        "wikidata": "Q11682603",
+        "wikipedia": "es:Horno Alto 1 de Altos Hornos de Vizcaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0004577,
+          43.3116643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0193595,
+          43.3120164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0193752,
+          43.3121085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0124655,
+          43.3122833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.02841,
+          43.3127626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.980642,
+          43.3131169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0279405,
+          43.3131397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9839723,
+          43.3135687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.023252,
+          43.3146981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0236354,
+          43.3149078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0060795,
+          43.3149689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9820133,
+          43.3153298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9810636,
+          43.3154213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0129471,
+          43.3158587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0275651,
+          43.3161472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8036307292,
+        "hasDetails": true,
+        "name": "Lechera",
+        "website": "https://lasesculturasenerandioleioa.wordpress.com/2025/07/18/la-lechera/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9825944,
+          43.3161867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0238566,
+          43.3163992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0199752,
+          43.3174313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0198608,
+          43.3176311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0233202,
+          43.3180062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 27537472,
+        "hasDetails": true,
+        "name": "Rialia",
+        "website": "http://www.rialia.net",
+        "wikidata": "Q12266538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0139634,
+          43.3187861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.020889,
+          43.3189643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0149853,
+          43.3191424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0205008,
+          43.3193619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0150868,
+          43.3194719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0184192,
+          43.3195524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0181729,
+          43.3195576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9892599,
+          43.3196691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0157788,
+          43.319804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0156343,
+          43.3198836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0157619,
+          43.3199001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0158953,
+          43.3199252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.015742,
+          43.3199909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0173562,
+          43.3201183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0175751,
+          43.3201423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 109862339,
+        "hasDetails": true,
+        "name": "Salazar dorretxea",
+        "wikidata": "Q11704645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0171395,
+          43.3202505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.01679,
+          43.3203097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0194884,
+          43.3208178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0181767,
+          43.320941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0190164,
+          43.3209697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0170847,
+          43.3210017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0180959,
+          43.3212073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4461325836,
+        "hasDetails": true,
+        "name": "V\u00edctor Ch\u00e1varri",
+        "wikidata": "Q42304925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0168602,
+          43.321254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0167681,
+          43.3215626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0013259,
+          43.3216302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0238011,
+          43.3220826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0242666,
+          43.3221747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0364462,
+          43.3223274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0186771,
+          43.3224447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0177904,
+          43.3227645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 27447931,
+        "hasDetails": true,
+        "name": "Bizkaia zubia",
+        "wikidata": "Q331996",
+        "wikipedia": "es:Puente de Vizcaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0171379,
+          43.3232139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0342577,
+          43.3235493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0166036,
+          43.3237873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0163488,
+          43.3239601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9800489,
+          43.3239709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0161745,
+          43.3240283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.016027,
+          43.3240674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9806981,
+          43.3241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0200141,
+          43.3242553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0069346,
+          43.324482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0280589,
+          43.3250082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0114883,
+          43.326023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0251237,
+          43.3261512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0268226,
+          43.3264959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0254137,
+          43.3266777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0240925,
+          43.3267197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0236854,
+          43.3269544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.023423,
+          43.3271082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0285813,
+          43.3272258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0267676,
+          43.3273781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0324409,
+          43.3275181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0241251,
+          43.3278788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9947269,
+          43.3279053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0267864,
+          43.3284947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0318707,
+          43.3285743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0312242,
+          43.3286424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0323701,
+          43.3288265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0326422,
+          43.3288855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0297826,
+          43.3292259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0047405,
+          43.3293985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0338319,
+          43.3297573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0320267,
+          43.3297595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0010478,
+          43.329951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10086740383,
+        "hasDetails": true,
+        "name": "Letras de Santurtzi",
+        "address": "Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0309317,
+          43.3300496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0296706,
+          43.3302195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0380868,
+          43.3304187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0307782,
+          43.3304964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0299748,
+          43.3305667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3741651287,
+        "hasDetails": true,
+        "name": "Santurtzi Itsasoa Museoa-Museo del Mar",
+        "opening_hours": "PH,Mo-Su 10:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0309657,
+          43.3305673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0390674,
+          43.3305778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0302469,
+          43.3306161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.967991,
+          43.3307079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.969551,
+          43.3311262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0406597,
+          43.3322129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9720833,
+          43.3324655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0404752,
+          43.3325793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0018115,
+          43.3330551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0393236,
+          43.3343557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0400812,
+          43.3347441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 13372400807,
+        "hasDetails": true,
+        "name": "Casa de Na\u00fafragos de Arriluze",
+        "address": "Muelle Marqu\u00e9s de Arriluce",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0135629,
+          43.339696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9868284,
+          43.3411137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0123846,
+          43.3412349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0149155,
+          43.3494279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0114177,
+          43.3498236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.017579,
+          43.35084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0189033,
+          43.3525877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.018834,
+          43.3534065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0134203,
+          43.3540922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0125114,
+          43.3550213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0191337,
+          43.3593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8735626,
+          43.3636843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6352693565,
+        "hasDetails": true,
+        "name": "Museo Memorial del Cintur\u00f2n de Hierro",
+        "address": "Simon Otxandategi etorbidea 64, Berango",
+        "website": "http://www.berango.net/es-ES/Turismo/Cinturon-Hierro/Paginas/default.aspx",
+        "wikidata": "Q63171081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9958682,
+          43.3642852
+        ]
+      }
+    }
+  ]
+}

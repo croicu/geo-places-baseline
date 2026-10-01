@@ -1,0 +1,763 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8975350696,
+        "hasDetails": true,
+        "name": "Oreneta",
+        "amenity": "arts_centre",
+        "address": "Avenida de las Artes 87, Salamanca",
+        "website": "https://www.instagram.com/telas.aereas_salamanca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6525619,
+          40.9578569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4770319080,
+        "hasDetails": true,
+        "name": "_almargen",
+        "amenity": "theatre",
+        "website": "http://espacioalmargen.blogspot.com.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6530934,
+          40.9588867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 47091980,
+        "hasDetails": true,
+        "name": "CAEM, Centro de las Artes Esc\u00e9nicas y de la M\u00fasica",
+        "amenity": "theatre",
+        "website": "http://www.salamancaciudaddecultura.org/programacion/escena/venueevents/2-caem-centro-de-las-artes-escenicas-y-de-la-musica.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6523469,
+          40.9599536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2843869986,
+        "hasDetails": true,
+        "name": "Teatro Juan del Enzina",
+        "amenity": "theatre",
+        "address": "Calle El Tostado 8, Salamanca",
+        "website": "http://teatrojuandelenzina.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6650405,
+          40.9609977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6623512,
+          40.9617606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8836873790,
+        "hasDetails": true,
+        "name": "Astaroth",
+        "amenity": "nightclub",
+        "opening_hours": "Tu,We 19:00-03:00; Th 19:00-04:00; Fr,Sa 19:00-04:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6620502,
+          40.9623632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2455679240,
+        "hasDetails": true,
+        "name": "Country",
+        "amenity": "nightclub",
+        "address": "Calle Abogados de Atocha 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6616487,
+          40.9627075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6613017,
+          40.9627403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3046998623,
+        "hasDetails": true,
+        "name": "Sala de Exposiciones La Salina",
+        "amenity": "arts_centre",
+        "website": "http://www.dipsanet.es/cultura/publicaciones/exposiciones1.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6642545,
+          40.9627489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6614087,
+          40.9628866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1148264195,
+        "hasDetails": true,
+        "name": "Paki Pall\u00e1",
+        "amenity": "nightclub",
+        "website": "http://pakipalla.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6612773,
+          40.9629962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6614358,
+          40.9630393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6596034,
+          40.9632162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2921632145,
+        "hasDetails": true,
+        "name": "MicroTeatro La Malhablada",
+        "amenity": "theatre",
+        "website": "https://www.lamalhabladasalamanca.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6660864,
+          40.9633011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6621473,
+          40.9634518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6623097,
+          40.9638413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.662394,
+          40.963911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1418736925,
+        "hasDetails": true,
+        "name": "Chupiter\u00eda Daniel\u00b4s",
+        "amenity": "nightclub",
+        "address": "Calle Varillas 24, Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6616878,
+          40.9639597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6619199,
+          40.9639891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6624566,
+          40.9640735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6619875,
+          40.9640784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6623542,
+          40.9641244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1204860,
+        "hasDetails": true,
+        "name": "Casa de las Viejas. Filmoteca Regional",
+        "amenity": "cinema",
+        "address": "Calle Do\u00f1a Gonzala Santana 1, Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.661468,
+          40.9644211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12292812383,
+        "hasDetails": true,
+        "name": "K-nalla",
+        "amenity": "nightclub",
+        "address": "Plaza del Corrillo 19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.664903,
+          40.9644422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3761594775,
+        "hasDetails": true,
+        "name": "El Puerto de Chus",
+        "amenity": "nightclub",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6611427,
+          40.9647604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1148264164,
+        "hasDetails": true,
+        "name": "Capitolium",
+        "amenity": "nightclub",
+        "address": "Calle Prior 25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6664353,
+          40.965065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6601932,
+          40.9651478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.666026,
+          40.9651731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6662815,
+          40.9653157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.661577,
+          40.9654037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6617813,
+          40.965412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6663576,
+          40.9654225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6665448,
+          40.9655879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6696409,
+          40.9655925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6610696,
+          40.9657611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6664617,
+          40.9659618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 79570602,
+        "hasDetails": true,
+        "name": "Teatro Liceo",
+        "amenity": "theatre",
+        "address": "Plaza del Liceo, Salamanca",
+        "website": "http://www.salamancaciudaddecultura.org/component/eventlist/venueevents/1-teatro-liceo.html",
+        "wikidata": "Q43118027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6623164,
+          40.9660904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 46933580,
+        "hasDetails": true,
+        "name": "Camelot",
+        "amenity": "nightclub",
+        "address": "Calle Bordadores 3, Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6666096,
+          40.9662299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6654221,
+          40.9665405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 846979391,
+        "hasDetails": true,
+        "name": "Posada de las \u00c1nimas",
+        "amenity": "nightclub",
+        "address": "Calle Toro 64, Salamanca",
+        "website": "https://www.lasanimas.es/posada-de-las-animas-salamanca-discoteca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6615038,
+          40.9674664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9452558046,
+        "hasDetails": true,
+        "name": "Casino Salamanca",
+        "amenity": "casino",
+        "website": "https://casinosalamanca.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6600955,
+          40.9677606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6599224,
+          40.9680635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6635648,
+          40.9681419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 78350189,
+        "hasDetails": true,
+        "name": "La salchicher\u00eda",
+        "amenity": "arts_centre",
+        "address": "Plaza del Oeste 7, Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6670859,
+          40.970628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6640012,
+          40.9711033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 495082054,
+        "hasDetails": true,
+        "name": "Cine Megarama",
+        "amenity": "cinema",
+        "website": "https://www.cinesmegarama.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6491589,
+          40.9717946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 79635591,
+        "hasDetails": true,
+        "name": "Cine Van Dyck",
+        "amenity": "cinema",
+        "address": "Paseo del Doctor Torres Villarroel 40, Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6626313,
+          40.9731157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 9422550036,
+        "hasDetails": true,
+        "name": "La N\u00f3mada",
+        "amenity": "arts_centre",
+        "address": "Calle Ayala 18,20, Salamanca",
+        "website": "https://www.lanomada.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6555354,
+          40.9732151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 500952134,
+        "hasDetails": true,
+        "name": "Cine Van Dyck Joven",
+        "amenity": "cinema",
+        "address": "Paseo del Doctor Torres Villarroel 45, Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6631488,
+          40.9736249
+        ]
+      }
+    }
+  ]
+}

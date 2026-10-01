@@ -1,0 +1,2461 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6813304,
+          40.9529888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14030200611,
+        "hasDetails": true,
+        "name": "Mirador del Tormes",
+        "website": "https://rutamiradoresdesalamanca.com/mirador/11-mirador-del-tormes/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6640819,
+          40.9530808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6670188,
+          40.9543889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12066721768,
+        "hasDetails": true,
+        "name": "Mirador del Embarcadero",
+        "website": "https://rutamiradoresdesalamanca.com/mirador/mirador-del-embarcadero/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6677105,
+          40.9552615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6649358,
+          40.9560556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12066721766,
+        "hasDetails": true,
+        "name": "Mirador del Puente Romano",
+        "website": "https://rutamiradoresdesalamanca.com/mirador/mirador-del-puente-romano/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6714092,
+          40.9563302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6670185,
+          40.9574426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 377396516,
+        "hasDetails": true,
+        "name": "Puente Romano",
+        "wikidata": "Q6091642",
+        "wikipedia": "es:Puente romano de Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6702406,
+          40.9576819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 7710283964,
+        "hasDetails": true,
+        "name": "Museo F\u00e1brica de Harinas El Sur",
+        "website": "https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/museos/museo-molino-fabrica-harinas-sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.667846,
+          40.9580491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11226095,
+        "hasDetails": true,
+        "name": "Museo de Historia de la Automoci\u00f3n",
+        "address": "Plaza del Mercado Viejo, Salamanca",
+        "website": "https://museoautomocion.com/",
+        "opening_hours": "Sep-Jun: Mo closed, Tu-Su 10:00-14:00, 17:00-20:00; Jul,Aug Mo closed, Tu-Su 10:00-14:00, 17:30-20:30",
+        "wikidata": "Q6034050",
+        "wikipedia": "es:Museo de Historia de la Automoci\u00f3n de Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6668961,
+          40.9580574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6858284,
+          40.9580609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 492065734,
+        "hasDetails": true,
+        "name": "Pozo de la Nieve",
+        "website": "http://www.versalamanca.com/pozo-nieves-salamanca.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6621216,
+          40.9585268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6583566,
+          40.9586569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 48925225,
+        "hasDetails": true,
+        "name": "Domus Artium 2002 (DA2)",
+        "website": "https://domusartium2002.com/",
+        "wikidata": "Q19949853",
+        "wikipedia": "es:DA2 Domus Artium 2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6521677,
+          40.959008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3805092694,
+        "hasDetails": true,
+        "name": "Toro-verraco ib\u00e9rico",
+        "wikidata": "Q27431281",
+        "wikipedia": "es:Verraco del puente (Salamanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6691631,
+          40.9591147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6632427,
+          40.9591575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3805092693,
+        "hasDetails": true,
+        "name": "Monumento al Lazarillo de Tormes",
+        "wikidata": "Q123396294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6686629,
+          40.959218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3804629325,
+        "hasDetails": true,
+        "name": "San Juan de la Cruz",
+        "wikidata": "Q101436757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6639118,
+          40.959325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6633696,
+          40.9594465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12066721765,
+        "hasDetails": true,
+        "name": "Mirador de la Celestina",
+        "website": "https://rutamiradoresdesalamanca.com/mirador/03-mirador-de-la-celestina/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.666045,
+          40.9594899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 946564150,
+        "hasDetails": true,
+        "name": "Museo de Art D\u00e9co y Art Nouveau Casa Lis",
+        "address": "Calle Gibraltar 14, Salamanca",
+        "website": "https://www.museocasalis.org/",
+        "opening_hours": "Tu-Su 11:00-20:00",
+        "wikidata": "Q5561955",
+        "wikipedia": "es:Museo de Art Nouveau y Art D\u00e9co"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6668518,
+          40.9594997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6636312,
+          40.9595041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6646571,
+          40.9595297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 408282,
+        "hasDetails": true,
+        "name": "Archivo de la Guerra Civil Espa\u00f1ola",
+        "opening_hours": "Tu-Su 12:00-20:00",
+        "wikidata": "Q5531705",
+        "wikipedia": "es:Archivo General de la Guerra Civil Espa\u00f1ola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.667276,
+          40.9595777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 14044124575,
+        "hasDetails": true,
+        "name": "Mirador del Jard\u00edn de la Merced",
+        "website": "https://rutamiradoresdesalamanca.com/mirador/12-mirador-del-jardin-de-la-merced/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6696586,
+          40.9596748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6654989,
+          40.9597059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 394489,
+        "hasDetails": true,
+        "name": "Colegio de Calatrava",
+        "wikidata": "Q5777238",
+        "wikipedia": "es:Colegio de Calatrava (Salamanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6610772,
+          40.9597845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6646425,
+          40.9599995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6648144,
+          40.9600016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1316127394,
+        "hasDetails": true,
+        "name": "Monumenta Salmanticae",
+        "website": "https://salamanca.es/es/destacados/para-descubrir/item/328-monumenta-salmanticae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6684191,
+          40.9600241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1591543,
+        "hasDetails": true,
+        "name": "Convento de San Esteban",
+        "address": "Plaza del Concilio de Trento",
+        "opening_hours": "Mo-Su 10:00-13:15,16:00-19:15",
+        "wikidata": "Q1742828",
+        "wikipedia": "es:Convento de San Esteban (Salamanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.662516,
+          40.9601406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8792621486,
+        "hasDetails": true,
+        "name": "Salamanca Castrorum",
+        "website": "https://salamanca.es/es/propuestas-especiales/item/11277-centro-de-interpretacion-de-las-murallas-salmantinas",
+        "opening_hours": "Fr 17:00-20:00; Sa,Su 10:00-14:00,17:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.664677,
+          40.9602062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6695126,
+          40.9602062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6731668,
+          40.9603823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1353682859,
+        "hasDetails": true,
+        "name": "Ieronimus Torres Medievales de la Catedral",
+        "website": "https://ieronimus.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6669751,
+          40.9604399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 620094086,
+        "hasDetails": true,
+        "name": "Estatua de Francisco de Vitoria",
+        "wikidata": "Q61750360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6636568,
+          40.9606739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 48871732,
+        "hasDetails": true,
+        "name": "Monumento al Padre C\u00e1mara",
+        "wikidata": "Q56697645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6670785,
+          40.9608046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.670054,
+          40.960875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6663369,
+          40.9610214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1204513,
+        "hasDetails": true,
+        "name": "Convento de Santa Mar\u00eda de Las Due\u00f1as",
+        "address": "Plaza del Concilio de Trento, Salamanca",
+        "opening_hours": "Mo-Sa 10:30-12:45,16:30-19:30",
+        "wikidata": "Q2700171",
+        "wikipedia": "es:Convento de las Due\u00f1as (Salamanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6636605,
+          40.9611133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.673531,
+          40.9611185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 81882046,
+        "hasDetails": true,
+        "name": "Casa-Museo de Miguel de Unamuno",
+        "address": "Calle Libreros 25, Salamanca",
+        "website": "https://unamuno.usal.es/museo.html",
+        "opening_hours": "Mo-Fr 10:00-13:00",
+        "wikidata": "Q2840268",
+        "wikipedia": "es:Casa-Museo de Unamuno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6673856,
+          40.9611957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1229115,
+        "hasDetails": true,
+        "name": "Universidad de Salamanca. Escuelas Mayores",
+        "wikidata": "Q5839387",
+        "wikipedia": "es:Escuelas Mayores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6669202,
+          40.9613169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6455318336,
+        "hasDetails": true,
+        "name": "El Cielo de Salamanca",
+        "wikidata": "Q85621177",
+        "wikipedia": "es:Cielo de Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6683179,
+          40.9613446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 394490,
+        "hasDetails": true,
+        "name": "Escuelas Menores",
+        "wikidata": "Q3732872",
+        "wikipedia": "es:Escuelas Menores (Salamanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6682028,
+          40.9614036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 911043,
+        "hasDetails": true,
+        "name": "Hospital del Estudio/Rectorado",
+        "address": "Patio de Escuelas 1, Salamanca",
+        "wikidata": "Q5903183",
+        "wikipedia": "es:Hospital del Estudio (Salamanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6676876,
+          40.9614347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8676884928,
+        "hasDetails": true,
+        "name": "Rana de la Universidad",
+        "address": "Calle Libreros, Salamanca",
+        "names": [
+          "Rana de la Universidad",
+          "Fachada de la Universidad de Salamanca"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6673327,
+          40.9614658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6676018,
+          40.9615873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6654898,
+          40.9616002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6633395,
+          40.9616551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6661844,
+          40.9616576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 394492,
+        "hasDetails": true,
+        "name": "Colegio de Anaya",
+        "amenity": "university",
+        "address": "Plaza de Anaya, Salamanca",
+        "website": "https://facultadfilologia.usal.es/",
+        "wikidata": "Q17996357",
+        "wikipedia": "es:Palacio de Anaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6653969,
+          40.9616654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1215345,
+        "hasDetails": true,
+        "name": "Convento de Santa Clara",
+        "wikidata": "Q5557613",
+        "wikipedia": "es:Convento de Santa Clara (Salamanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6604833,
+          40.9617975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1241689,
+        "hasDetails": true,
+        "name": "Museo de Salamanca",
+        "address": "Calle Serranos 37, Salamanca",
+        "website": "http://www.museoscastillayleon.jcyl.es/museodesalamanca",
+        "wikidata": "Q24036885",
+        "wikipedia": "es:Museo de Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6682516,
+          40.9619089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6734246,
+          40.9619218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8223859729,
+        "hasDetails": true,
+        "name": "Museo de Pintura Medieval de Santa Clara",
+        "website": "http://museolasclaras.com/",
+        "opening_hours": "Mo-Sa 10:00-14:00,16:30-19:30,10:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6606547,
+          40.9620945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3205790717,
+        "hasDetails": true,
+        "name": "Monumento a Santa Bonifacia",
+        "wikidata": "Q123377847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6624582,
+          40.9621471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 49590961,
+        "hasDetails": true,
+        "name": "Palacio de Orellana",
+        "wikidata": "Q6058141",
+        "wikipedia": "es:Palacio de Orellana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6644477,
+          40.962183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 54961130,
+        "hasDetails": true,
+        "name": "Estatua de Crist\u00f3bal Col\u00f3n",
+        "wikidata": "Q21004043",
+        "wikipedia": "es:Monumento a Col\u00f3n (Salamanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6638825,
+          40.9623867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3806415223,
+        "hasDetails": true,
+        "name": "Monumento al Maestro Francisco Salinas",
+        "wikidata": "Q123377761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6657887,
+          40.9626121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 460931271,
+        "hasDetails": true,
+        "name": "Torre del Clavero",
+        "wikidata": "Q3995409",
+        "wikipedia": "es:Torre del Clavero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6632754,
+          40.9627809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6605813,
+          40.9628634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.665316,
+          40.9629307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 391276,
+        "hasDetails": true,
+        "name": "Casa de las Conchas",
+        "address": "Calle Compa\u00f1\u00eda 2,6, Salamanca",
+        "website": "https://www.salamancaturistica.com/salamanca/monumentos_casadelasconchas.php",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-14:00,16:00-19:00; Su 10:00-14:00,16:00-19:00",
+        "wikidata": "Q1046564",
+        "wikipedia": "es:Casa de las Conchas (Salamanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6657889,
+          40.9629588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2921600481,
+        "hasDetails": true,
+        "name": "Subida a las Torres de la Clerec\u00eda. Scala Coeli",
+        "website": "https://torresdelaclerecia.com/",
+        "opening_hours": "Dec-Feb: 10:00-18:00; Mar-Nov: 10:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6662178,
+          40.9629895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 412815,
+        "hasDetails": true,
+        "name": "Palacio de La Salina",
+        "address": "Calle San Pablo 24, Salamanca",
+        "opening_hours": "Tu-Su 11:30-13:30,18:00-21:00",
+        "wikidata": "Q6058078",
+        "wikipedia": "es:Palacio de la Salina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6644809,
+          40.9630734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3056569831,
+        "hasDetails": true,
+        "name": "Monumento a la Constituci\u00f3n",
+        "wikidata": "Q123377988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6695163,
+          40.9631964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6689758,
+          40.9633137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6698062,
+          40.9634015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6662432,
+          40.9637209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12068507058,
+        "hasDetails": true,
+        "name": "Mirador de los Irlandeses",
+        "website": "https://rutamiradoresdesalamanca.com/mirador/09-mirador-de-los-irlandeses/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6698408,
+          40.9637747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 122671181,
+        "hasDetails": true,
+        "name": "Casa de Francisco de Sol\u00eds",
+        "address": "Calle Prado 17, Salamanca",
+        "wikidata": "Q21480517",
+        "wikipedia": "es:Casa de Francisco de Sol\u00eds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6657487,
+          40.9637827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 50289992,
+        "hasDetails": true,
+        "name": "Casa de Don Diego Maldonado",
+        "address": "Calle Prado 19, Salamanca",
+        "wikidata": "Q5754812",
+        "wikipedia": "es:Casa de Don Diego Maldonado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6657242,
+          40.963944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.656891,
+          40.9639756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6594881,
+          40.9641191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6648255,
+          40.9641255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4028742772,
+        "hasDetails": true,
+        "name": "Mirando al cielo",
+        "wikidata": "Q123377859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6585175,
+          40.9642034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5301461521,
+        "hasDetails": true,
+        "name": "Columnas con los d\u00edas de la semana",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6649988,
+          40.9642251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6638481,
+          40.9643074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 11083827191,
+        "hasDetails": true,
+        "name": "Maternindad",
+        "wikidata": "Q123377938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6817659,
+          40.9645255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 5306828668,
+        "hasDetails": true,
+        "name": "N\u00famero de Arcos de la Plaza Mayor",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.664031,
+          40.9645653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.667285,
+          40.9645806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6613622,
+          40.9646795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6632098,
+          40.9649073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 78180390,
+        "hasDetails": true,
+        "name": "Plaza Mayor",
+        "wikidata": "Q1561555",
+        "wikipedia": "es:Plaza Mayor de Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6640493,
+          40.9650092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 49590964,
+        "hasDetails": true,
+        "name": "Museo del Comercio y la Industria",
+        "address": "Avenida de Campoamor, Salamanca",
+        "website": "https://museodelcomercio.es/",
+        "opening_hours": "Mo,Su 10:00-14:00; Tu-Sa 10:00-14:00,17:00-20:00",
+        "wikidata": "Q6034415",
+        "wikipedia": "es:Museo del Comercio y la Industria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6541296,
+          40.9651071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.662043,
+          40.9651306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6664746,
+          40.9652713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 408281,
+        "hasDetails": true,
+        "name": "Colegio Mayor Arzobispo Fonseca",
+        "amenity": "university",
+        "address": "Calle Fonseca 4, Salamanca",
+        "website": "https://colegiofonseca.usal.es/",
+        "opening_hours": "Mo-Su 10:00-13:00,16:00-19:00",
+        "wikidata": "Q5142855",
+        "wikipedia": "es:Colegio del Arzobispo Fonseca (Salamanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6703483,
+          40.9654657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 50289999,
+        "hasDetails": true,
+        "name": "Casa del Regidor Ovalle Prieto",
+        "address": "Calle Bordadores 8, Salamanca",
+        "wikidata": "Q16544249",
+        "wikipedia": "es:Casa del Regidor Ovalle Prieto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6664267,
+          40.9656331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 79635620,
+        "hasDetails": true,
+        "name": "Museo Taurino de Salamanca",
+        "address": "Calle Doctor Pi\u00f1uela 5,7, Salamanca",
+        "website": "https://www.museotaurinosalamanca.es/",
+        "opening_hours": "Tu-Sa 10:30-13:30,17:30-20:00; Su 10:30-13:30",
+        "wikidata": "Q125919733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6635804,
+          40.9656393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 50290000,
+        "hasDetails": true,
+        "name": "Casa de las Muertes",
+        "address": "Calle Bordadores 10, Salamanca",
+        "wikidata": "Q5755238",
+        "wikipedia": "es:Casa de las Muertes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6664362,
+          40.9657401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6697031,
+          40.9658204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 854608119,
+        "hasDetails": true,
+        "name": "Estatua de Miguel de Unamuno",
+        "wikidata": "Q56686343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.666729,
+          40.9658238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3806357245,
+        "hasDetails": true,
+        "name": "Monumento a San Francisco de As\u00eds",
+        "wikidata": "Q123377980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6680897,
+          40.9658975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 79818445,
+        "hasDetails": true,
+        "name": "Zara",
+        "address": "Calle Toro 28, Salamanca",
+        "website": "https://www.zara.com/es/",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "wikidata": "Q6106561",
+        "wikipedia": "es:Restos del convento de San Antonio el Real (Salamanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.662546,
+          40.9660367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 8223859727,
+        "hasDetails": true,
+        "name": "Museo de las \u00darsulas",
+        "website": "https://www.turismocastillayleon.com/es/patrimonio-cultura/museo-ursulas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6674698,
+          40.9661153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6628305,
+          40.9662017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1183895,
+        "hasDetails": true,
+        "name": "Convento de las \u00darsulas",
+        "amenity": "place_of_worship",
+        "wikidata": "Q5413537",
+        "wikipedia": "es:Convento de la Anunciaci\u00f3n (Salamanca)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.667103,
+          40.9663143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6603107,
+          40.9663176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6627372,
+          40.9665284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 117346212,
+        "hasDetails": true,
+        "name": "Casa de Do\u00f1a Mar\u00eda La Brava",
+        "address": "Plaza de Los Bandos 7, Salamanca",
+        "wikidata": "Q5755094",
+        "wikipedia": "es:Casa de do\u00f1a Mar\u00eda la Brava"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6650813,
+          40.9667661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4439959639,
+        "hasDetails": true,
+        "name": "Sala Unamuno",
+        "website": "https://espacioznk.wixsite.com/emergente",
+        "opening_hours": "Mo-Th 18:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.666462,
+          40.9668631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6645503,
+          40.9671498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6670067,
+          40.9673388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 59108101,
+        "hasDetails": true,
+        "name": "Palacio de Garcigrande",
+        "wikidata": "Q43091330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6642846,
+          40.9673738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6571635,
+          40.9675518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6652457,
+          40.967664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12187073259,
+        "hasDetails": true,
+        "name": "Monumento al Empresario",
+        "wikidata": "Q110657129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6591166,
+          40.9677668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 80635001,
+        "hasDetails": true,
+        "name": "Casa de Santa Teresa",
+        "wikidata": "Q5754016",
+        "wikipedia": "es:Casa-Convento de Santa Teresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.665517,
+          40.9677769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6577488,
+          40.9679465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4028742778,
+        "hasDetails": true,
+        "name": "San Bernardo",
+        "wikidata": "Q123377891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6722306,
+          40.9680148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.671424,
+          40.9683086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.657503,
+          40.9683545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6580268,
+          40.9683672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 4028742781,
+        "hasDetails": true,
+        "name": "Vaquero Charro",
+        "wikidata": "Q123377967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.658615,
+          40.9683816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.661275,
+          40.9684227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6472153,
+          40.968547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 2857522974,
+        "hasDetails": true,
+        "name": "Francisco Maldonado",
+        "wikidata": "Q123377731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6473464,
+          40.968606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6956047373,
+        "hasDetails": true,
+        "name": "Desnudo Femenino",
+        "wikidata": "Q123377815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6607493,
+          40.9689628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 73550945,
+        "hasDetails": true,
+        "name": "Casa-Museo de Zacar\u00edas Gonz\u00e1lez",
+        "address": "Calle Alarc\u00f3n 26",
+        "opening_hours": "\"concertar visita\"",
+        "wikidata": "Q5754421",
+        "wikipedia": "es:Casa Museo de Zacar\u00edas Gonz\u00e1lez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6711322,
+          40.9691327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6641355,
+          40.969143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6761657,
+          40.9695203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6649069,
+          40.96959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6687547,
+          40.969764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6619292,
+          40.969851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6691276,
+          40.9698866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6620664,
+          40.9699005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6648753,
+          40.9699103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6734221,
+          40.9705379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6731602,
+          40.9707306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6743024,
+          40.970808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6746159,
+          40.9708226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6737574,
+          40.9708459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6734904,
+          40.9710125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6746349,
+          40.9711221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 6387686971,
+        "hasDetails": true,
+        "name": "Galer\u00eda Urbana - Barrio del Oeste",
+        "website": "https://galeriaurbanasalamanca.es/#"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6691079,
+          40.9716775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6401517,
+          40.9720554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6808562,
+          40.972117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.663222,
+          40.972476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6772509,
+          40.9728485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6727259,
+          40.972952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6719754,
+          40.9731485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6729469,
+          40.9734095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.676784,
+          40.9735575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12184202351,
+        "hasDetails": true,
+        "name": "Monumento a la Unificaci\u00f3n",
+        "wikidata": "Q123377694"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6626216,
+          40.974419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.659273,
+          40.975735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6747564,
+          40.9757568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6625129,
+          40.9758826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6618749,
+          40.9763468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.662112,
+          40.9764448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12188478531,
+        "hasDetails": true,
+        "name": "El Viti",
+        "wikidata": "Q123396370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6617707,
+          40.9767278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 12188499633,
+        "hasDetails": true,
+        "name": "Julio Robles",
+        "wikidata": "Q123377961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6615117,
+          40.9767296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.661872,
+          40.9769205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6539389,
+          40.977286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6759798,
+          40.977837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 3056569830,
+        "hasDetails": true,
+        "name": "Estatua de Gonzalo Torrente Ballester",
+        "wikidata": "Q123377945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6546987,
+          40.9778397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6776426,
+          40.9782175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6481745,
+          40.9809395
+        ]
+      }
+    }
+  ]
+}

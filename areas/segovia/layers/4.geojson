@@ -1,0 +1,163 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 569461654,
+        "hasDetails": true,
+        "name": "Conservatorio profesional de M\u00fasica de Segovia",
+        "amenity": "arts_centre",
+        "address": "Avenida Vicente Aleixandre 222, Segovia",
+        "website": "http://conservatoriosegovia.centros.educa.jcyl.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0939513,
+          40.9266571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 541732281,
+        "hasDetails": true,
+        "name": "Cines Artesiete Segovia",
+        "amenity": "cinema",
+        "address": "Calle D\u00e1maso Alonso 54, Segovia",
+        "website": "https://artesiete.es/CineL/22/Artesiete-Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0964709,
+          40.9311722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 294848738,
+        "hasDetails": true,
+        "name": "La C\u00e1rcel - Segovia Centro de Creaci\u00f3n",
+        "amenity": "arts_centre",
+        "website": "https://www.lacarceldesegovia.com/",
+        "wikidata": "Q111308146",
+        "wikipedia": "es:Antigua c\u00e1rcel de Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1091221,
+          40.939197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 10648353937,
+        "hasDetails": true,
+        "name": "Grupo de Teatro Andr\u00e9s Laguna",
+        "amenity": "theatre",
+        "address": "Paseo del Conde de Sep\u00falveda 18, Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1160787,
+          40.9392893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1131191492,
+        "hasDetails": true,
+        "name": "Beat Club",
+        "amenity": "nightclub",
+        "address": "Calle de San Mill\u00e1n 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1217643,
+          40.9476694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1225604,
+          40.9496647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 403893178,
+        "hasDetails": true,
+        "name": "Teatro Juan Bravo",
+        "amenity": "theatre",
+        "wikidata": "Q6139765",
+        "wikipedia": "es:Teatro Juan Bravo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.12333,
+          40.9505664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1223863,
+          40.9507473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "weight": 1.0,
+        "id": 1049100405,
+        "hasDetails": true,
+        "name": "Academia Espacio Arte - Pablo Caballero",
+        "amenity": "arts_centre",
+        "address": "Carretera de Trescasas 117, Segovia",
+        "website": "https://espaciodearte.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1056747,
+          40.9540458
+        ]
+      }
+    }
+  ]
+}
